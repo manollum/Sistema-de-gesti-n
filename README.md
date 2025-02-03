@@ -12,3 +12,5 @@ OPCIONES:
   
 Todo está organizado muy prolijamente en archivos .h, cpp y un main que organiza todo.
 La utilización de funciones y clases fué imprescindible.
+
+NOTA: las credenciales del LOGIN son, usuario: admin y password:1234 
