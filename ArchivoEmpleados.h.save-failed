@@ -1,0 +1,318 @@
+#pragma once
+#include "Empleado.h"
+
+class ArchivoEmpleados{
+private:
+char nombre[20];
+int tam;
+
+public:
+ArchivoEmpleados(const char *_nombre = "empleados.dat"){
+strncpy(nombre, _nombre, 19);
+tam = sizeof(Empleado);
+}
+
+bool grabarRegistro(Empleado obj);
+int buscarRegistro();
+bool leerRegistro(int pos);
+bool listarRegistros();
+bool modificarRegistro(int pos);
+bool bajaRegistro();
+bool altaRegistro();
+
+};
+
+bool ArchivoEmpleados::grabarRegistro(Empleado obj){
+Empleado aux;
+
+FILE *pEmpleados;
+pEmpleados = fopen(nombre, "ab+");
+if(pEmpleados==nullptr){
+    cout << "No se pudo establecer la conexion." << endl;
+    return 0;
+}
+while(fread(&aux, tam, 1, pEmpleados)){
+if(aux.getDni() == obj.getDni()){
+        cout << "El empleado ya se encuentra en el sistema." << endl;
+        system("pause");
+        system("cls");
+        return -1;
+        }
+    }
+
+int escribio = fwrite(&obj, tam, 1, pEmpleados);
+
+if(escribio)
+    cout << "Registro cargado con exito." << endl;
+else
+    cout << "No se pudo cargar el registro." << endl;
+
+system("pause");
+system("cls");
+
+fclose(pEmpleados);
+
+return escribio;
+}
+
+
+
+int ArchivoEmpleados::buscarRegistro(){
+    system("cls");
+int dni, pos = 0;
+bool encontro = false;
+Empleado obj;
+cout << "Ingrese el numero de documento, (0 para volver al MENU anterior): ";
+cin >> dni;
+if(dni==0)return -2;
+FILE *pEmpleados;
+pEmpleados = fopen(nombre, "rb");
+if(pEmpleados==nullptr){
+    cout << "El archivo no se pudo encontrar o aun no existen registros cargados." << endl;
+    system("pause");
+    system("cls");
+    return 0;
+}
+
+while(fread(&obj, tam, 1, pEmpleados)){
+    if(obj.getDni() == dni){
+    encontro = true;
+    break;
+    }
+    pos++;
+}
+
+fclose(pEmpleados);
+
+if(encontro)
+return pos;
+else
+return -1;
+}
+
+
+bool ArchivoEmpleados::listarRegistros(){
+    system("cls");
+        FILE *pEmpleados;
+        Empleado obj;
+        pEmpleados = fopen(nombre, "rb");
+
+        if (pEmpleados==nullptr) {
+        cout << "El archivo no se pudo encontrar o aun no existen registros cargados." << endl;
+        system("pause");
+        system("cls");
+        return false;
+        }
+        while(fread(&obj, tam, 1, pEmpleados)) {
+        if (obj.getEstado()) { // solo empleados activos
+        obj.mostrarEmpleado();
+        cout << endl;
+        }
+        system("pause");
+        system("cls");
+        fclose(pEmpleados);
+        return true;
+
+}
+
+
+bool ArchivoEmpleados::leerRegistro(int pos){
+system("cls");
+
+if(pos==-1){
+cout << "El DNI no se encuentra en los registros." << endl;
+system("pause");
+system("cls");
+return -1;
+}
+
+Empleado obj;
+FILE *pEmpleados;
+pEmpleados = fopen(nombre, "rb");
+
+if(pEmpleados==nullptr){
+    cout << "No se pudo establecer la conexion." << endl;
+    system("cls");
+    return false;
+}
+
+fseek(pEmpleados, tam * pos, 0);
+
+int leyo = fread(&obj, tam, 1, pEmpleados);
+
+if(leyo)
+
+    if (!obj.getEstado()) {
+    cout << "El empleado está dado de baja." << endl;
+    system("pause");
+    system("cls");
+    return false;
+}
+obj.mostrarEmpleado();
+
+else
+cout << "No se encuentran registros con ese DNI." << endl;
+
+system("pause");
+system("cls");
+fclose(pEmpleados);
+
+return leyo;
+}
+
+
+
+bool ArchivoEmpleados::modificarRegistro(int pos){
+
+if(pos==-1){
+cout << "El DNI no se encuentra en los registros." << endl;
+system("pause");
+system("cls");
+return -1;
+}
+
+FILE *pEmpleados;
+pEmpleados = fopen(nombre, "rb+");
+
+if(pEmpleados==nullptr){
+    cout << "No se pudo establecer la conexion." << endl;
+    system("cls");
+    return false;
+    }
+
+fseek(pEmpleados, pos * tam, 0);
+
+Empleado obj;
+
+int leyo = fread(&obj, tam, 1, pEmpleados);
+
+if(!leyo){
+cout << "Algo salio mal. Volviendo al menu" << endl;
+return -1;
+}
+
+int opcion;
+long telefono;
+char cargo[20];
+double sueldo;
+
+cout << "Que dato desea modificar?" << endl;
+cout << "Presione:" << endl;
+cout << "1) Telefono" << endl;
+cout << "2) Cargo" << endl;
+cout << "3) Sueldo" << endl;
+cout << "4) Todas" << endl;
+cout << "0) Volver al menu" << endl;
+cin >> opcion;
+
+
+system("cls");
+
+switch(opcion){
+case 1:
+cout << "Telefono: ";
+cin >> telefono;
+obj.setTelefono(telefono);
+break;
+
+case 2:
+cout << "Cargo: ";
+cin.ignore();
+cin.getline(cargo, 19);
+obj.setCargo(cargo);
+break;
+
+case 3:
+cout << "Sueldo: ";
+cin >> sueldo;
+obj.setSueldo(sueldo);
+break;
+
+case 4:
+cout << "Telefono: ";
+cin >> telefono;
+
+cout << "Cargo: ";
+cin.ignore();
+cin.getline(cargo, 19);
+
+cout << "Sueldo: ";
+cin >> sueldo;
+
+obj.setTelefono(telefono);
+obj.setCargo(cargo);
+obj.setSueldo(sueldo);
+break;
+
+case 0:
+cout << "Volviendo al menu." << endl;
+system("pause");
+system("cls");
+return 0;
+}
+
+fseek(pEmpleados, pos * tam, 0);
+int escribio = fwrite(&obj, tam, 1, pEmpleados);
+
+fclose(pEmpleados);
+
+if(escribio){
+cout << "Modificacion realizada." << endl;
+system("pause");
+system("cls");
+return true;
+}
+
+else
+cout << "No se pudo realizar la modificacion." << endl;
+system("pause");
+system("cls");
+return -1;
+}
+
+bool ArchivoEmpleados::bajaRegistro() {
+system("cls");
+int pos = buscarRegistro();
+if (pos < 0) {
+    if (pos == -1) {
+        cout << "El DNI no se encuentra en los registros." << endl;
+    } else if (pos == -2) {
+        cout << "Operación cancelada por el usuario." << endl;
+    }
+    system("pause");
+    system("cls");
+    return false;
+}
+
+FILE *pEmpleados = fopen(nombre, "rb+");
+if (!pEmpleados) {
+    cout << "No se pudo abrir el archivo." << endl;
+    system("pause");
+    system("cls");
+    return false;
+}
+
+fseek(pEmpleados, pos * tam, 0);
+Empleado obj;
+fread(&obj, tam, 1, pEmpleados);
+
+if (!obj.getEstado()) {
+    cout << "El empleado ya estaba dado de baja." << endl;
+    fclose(pEmpleados);
+    system("pause");
+    system("cls");
+    return false;
+}
+
+obj.setEstado(false); // estado inactivo
+fseek(pEmpleados, -tam, SEEK_CUR);
+fwrite(&obj, tam, 1, pEmpleados);
+
+fclose(pEmpleados);
+
+cout << "El empleado ha sido dado de baja exitosamente." << endl;
+system("pause");
+system("cls");
+return true;
+}
+

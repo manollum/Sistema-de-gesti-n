@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="proyectoFinal" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/proyectoFinal" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/proyectoFinal" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="ArchivoComanda.cpp" />
+		<Unit filename="ArchivoComanda.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="ArchivoEmpleados.cpp" />
+		<Unit filename="ArchivoEmpleados.h" />
+		<Unit filename="ArchivoMesas.cpp" />
+		<Unit filename="ArchivoMesas.h" />
+		<Unit filename="ArchivoProductos.cpp" />
+		<Unit filename="ArchivoProductos.h" />
+		<Unit filename="ArchivoReservas.cpp" />
+		<Unit filename="ArchivoReservas.h" />
+		<Unit filename="Cliente.cpp" />
+		<Unit filename="Cliente.h" />
+		<Unit filename="Comanda.cpp" />
+		<Unit filename="Comanda.h" />
+		<Unit filename="Empleado.cpp" />
+		<Unit filename="Empleado.h" />
+		<Unit filename="Fecha.cpp" />
+		<Unit filename="Fecha.h" />
+		<Unit filename="Hora.cpp" />
+		<Unit filename="Hora.h" />
+		<Unit filename="Login.h" />
+		<Unit filename="MenuComandas.cpp" />
+		<Unit filename="MenuComandas.h" />
+		<Unit filename="MenuEmpleados.cpp" />
+		<Unit filename="MenuEmpleados.h" />
+		<Unit filename="MenuMesas.cpp" />
+		<Unit filename="MenuMesas.h" />
+		<Unit filename="MenuProductos.cpp" />
+		<Unit filename="MenuProductos.h" />
+		<Unit filename="MenuReportes.cpp" />
+		<Unit filename="MenuReportes.h" />
+		<Unit filename="MenuReservas.cpp" />
+		<Unit filename="MenuReservas.h" />
+		<Unit filename="Menues.cpp" />
+		<Unit filename="Menues.h" />
+		<Unit filename="Mesa.cpp" />
+		<Unit filename="Mesa.h" />
+		<Unit filename="Persona.cpp" />
+		<Unit filename="Persona.h" />
+		<Unit filename="Producto.cpp" />
+		<Unit filename="Producto.h" />
+		<Unit filename="Reportes.cpp" />
+		<Unit filename="Reportes.h" />
+		<Unit filename="Reserva.cpp" />
+		<Unit filename="Reserva.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

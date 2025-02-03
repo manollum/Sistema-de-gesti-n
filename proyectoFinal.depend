@@ -1,0 +1,7186 @@
+# depslib dependency file v1.0
+1730857016 source:c:\users\analia\desktop\tecnicatura programacion\2c\programacion ii\proyectofinal\main.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"Producto.h"
+	"Menues.h"
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"Producto.h"
+	"Menues.h"
+
+1730432200 c:\users\analia\desktop\tecnicatura programacion\2c\programacion ii\proyectofinal\clases.h
+
+1730828760 c:\users\analia\desktop\tecnicatura programacion\2c\programacion ii\proyectofinal\fecha.h
+
+1730828694 c:\users\analia\desktop\tecnicatura programacion\2c\programacion ii\proyectofinal\login.h
+	<iostream>
+	<string>
+	<iostream>
+	<string>
+
+1730772031 c:\users\analia\desktop\tecnicatura programacion\2c\programacion ii\proyectofinal\persona.h
+
+1730589313 c:\users\analia\desktop\tecnicatura programacion\2c\programacion ii\proyectofinal\cliente.h
+	"Persona.h"
+	"Persona.h"
+
+1730775349 c:\users\analia\desktop\tecnicatura programacion\2c\programacion ii\proyectofinal\empleado.h
+	"Persona.h"
+	"Persona.h"
+
+1730779569 c:\users\analia\desktop\tecnicatura programacion\2c\programacion ii\proyectofinal\archivoempleados.h
+	"Empleado.h"
+	"Empleado.h"
+
+1730825409 source:c:\users\analia\desktop\tecnicatura programacion\2c\programacion ii\proyectofinal\archivoproductos.cpp
+	<iostream>
+	"ArchivoProductos.h"
+	"Producto.h"
+	<iostream>
+	"ArchivoProductos.h"
+	"Producto.h"
+
+1730823377 c:\users\analia\desktop\tecnicatura programacion\2c\programacion ii\proyectofinal\archivoproductos.h
+	<cstring>
+	<cstring>
+
+1730831319 c:\users\analia\desktop\tecnicatura programacion\2c\programacion ii\proyectofinal\producto.h
+	<iostream>
+	<iostream>
+
+1730824655 source:c:\users\analia\desktop\tecnicatura programacion\2c\programacion ii\proyectofinal\producto.cpp
+	<iostream>
+	<cstring>
+	"Producto.h"
+	"ArchivoProductos.h"
+	<iostream>
+	<cstring>
+	"Producto.h"
+	"ArchivoProductos.h"
+
+1730827074 source:c:\users\analia\desktop\tecnicatura programacion\2c\programacion ii\proyectofinal\archivoreservas.cpp
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+
+1730830603 c:\users\analia\desktop\tecnicatura programacion\2c\programacion ii\proyectofinal\reserva.h
+	"Fecha.h"
+	"Fecha.h"
+
+1730827074 c:\users\analia\desktop\tecnicatura programacion\2c\programacion ii\proyectofinal\archivoreservas.h
+
+1730828759 source:c:\users\analia\desktop\tecnicatura programacion\2c\programacion ii\proyectofinal\fecha.cpp
+	<iostream>
+	"Fecha.h"
+	<iostream>
+	"Fecha.h"
+
+1730830584 source:c:\users\analia\desktop\tecnicatura programacion\2c\programacion ii\proyectofinal\reserva.cpp
+	<iostream>
+	"Reserva.h"
+	<iostream>
+	"Reserva.h"
+
+1730856997 c:\users\analia\desktop\tecnicatura programacion\2c\programacion ii\proyectofinal\menues.h
+
+1730895574 source:c:\users\analia\desktop\proyectofinal\archivoproductos.cpp
+	<iostream>
+	"ArchivoProductos.h"
+	"Producto.h"
+	<iostream>
+	"ArchivoProductos.h"
+	"Producto.h"
+
+1730823377 c:\users\analia\desktop\proyectofinal\archivoproductos.h
+	<cstring>
+	<cstring>
+
+1730831319 c:\users\analia\desktop\proyectofinal\producto.h
+	<iostream>
+	<iostream>
+
+1730827074 source:c:\users\analia\desktop\proyectofinal\archivoreservas.cpp
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+
+1730830603 c:\users\analia\desktop\proyectofinal\reserva.h
+	"Fecha.h"
+	"Fecha.h"
+
+1730828760 c:\users\analia\desktop\proyectofinal\fecha.h
+
+1730827074 c:\users\analia\desktop\proyectofinal\archivoreservas.h
+
+1730828759 source:c:\users\analia\desktop\proyectofinal\fecha.cpp
+	<iostream>
+	"Fecha.h"
+	<iostream>
+	"Fecha.h"
+
+1730857016 source:c:\users\analia\desktop\proyectofinal\main.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"Producto.h"
+	"Menues.h"
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"Producto.h"
+	"Menues.h"
+
+1730828694 c:\users\analia\desktop\proyectofinal\login.h
+	<iostream>
+	<string>
+	<iostream>
+	<string>
+
+1730772031 c:\users\analia\desktop\proyectofinal\persona.h
+
+1730589313 c:\users\analia\desktop\proyectofinal\cliente.h
+	"Persona.h"
+	"Persona.h"
+
+1730775349 c:\users\analia\desktop\proyectofinal\empleado.h
+	"Persona.h"
+	"Persona.h"
+
+1730779569 c:\users\analia\desktop\proyectofinal\archivoempleados.h
+	"Empleado.h"
+	"Empleado.h"
+
+1730856997 c:\users\analia\desktop\proyectofinal\menues.h
+
+1730824655 source:c:\users\analia\desktop\proyectofinal\producto.cpp
+	<iostream>
+	<cstring>
+	"Producto.h"
+	"ArchivoProductos.h"
+	<iostream>
+	<cstring>
+	"Producto.h"
+	"ArchivoProductos.h"
+
+1730830584 source:c:\users\analia\desktop\proyectofinal\reserva.cpp
+	<iostream>
+	"Reserva.h"
+	<iostream>
+	"Reserva.h"
+
+1732626081 source:c:\users\manu y char\desktop\proyectofinal\archivoproductos.cpp
+	<iostream>
+	"ArchivoProductos.h"
+	"Producto.h"
+	<iostream>
+	"ArchivoProductos.h"
+	"Producto.h"
+
+1730823378 c:\users\manu y char\desktop\proyectofinal\archivoproductos.h
+	<cstring>
+	<cstring>
+
+1730831320 c:\users\manu y char\desktop\proyectofinal\producto.h
+	<iostream>
+	<iostream>
+
+1732636664 source:c:\users\manu y char\desktop\proyectofinal\archivoreservas.cpp
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+
+1732633530 c:\users\manu y char\desktop\proyectofinal\reserva.h
+	"Fecha.h"
+	"Fecha.h"
+
+1730828762 c:\users\manu y char\desktop\proyectofinal\fecha.h
+
+1732633892 c:\users\manu y char\desktop\proyectofinal\archivoreservas.h
+	"Reserva.h"
+	<cstring>
+	"Reserva.h"
+	<cstring>
+
+1730828760 source:c:\users\manu y char\desktop\proyectofinal\fecha.cpp
+	<iostream>
+	"Fecha.h"
+	<iostream>
+	"Fecha.h"
+
+1732622915 source:c:\users\manu y char\desktop\proyectofinal\producto.cpp
+	<iostream>
+	<cstring>
+	"Producto.h"
+	"ArchivoProductos.h"
+	<iostream>
+	<cstring>
+	"Producto.h"
+	"ArchivoProductos.h"
+
+1732635342 source:c:\users\manu y char\desktop\proyectofinal\reserva.cpp
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+
+1732630029 source:c:\users\manu y char\desktop\proyectofinal\main.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+
+1730828696 c:\users\manu y char\desktop\proyectofinal\login.h
+	<iostream>
+	<string>
+	<iostream>
+	<string>
+
+1732632846 c:\users\manu y char\desktop\proyectofinal\persona.h
+	<cstring>
+	<cstring>
+
+1730589314 c:\users\manu y char\desktop\proyectofinal\cliente.h
+	"Persona.h"
+	"Persona.h"
+
+1732620496 c:\users\manu y char\desktop\proyectofinal\empleado.h
+	"Persona.h"
+	"Persona.h"
+
+1732621024 c:\users\manu y char\desktop\proyectofinal\archivoempleados.h
+	"Empleado.h"
+	"Empleado.h"
+
+1732633760 c:\users\manu y char\desktop\proyectofinal\menues.h
+
+1732647258 source:c:\users\matia\desktop\utn programacion\proyecto final\proyectofinal final\archivoproductos.cpp
+	<iostream>
+	"ArchivoProductos.h"
+	"Producto.h"
+	<iostream>
+	"ArchivoProductos.h"
+	"Producto.h"
+
+1732645405 c:\users\matia\desktop\utn programacion\proyecto final\proyectofinal final\archivoproductos.h
+	<cstring>
+	<cstring>
+
+1732647235 c:\users\matia\desktop\utn programacion\proyecto final\proyectofinal final\producto.h
+	<iostream>
+	<iostream>
+
+1732636864 source:c:\users\matia\desktop\utn programacion\proyecto final\proyectofinal final\archivoreservas.cpp
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+
+1732633530 c:\users\matia\desktop\utn programacion\proyecto final\proyectofinal final\reserva.h
+	"Fecha.h"
+	"Fecha.h"
+
+1730828762 c:\users\matia\desktop\utn programacion\proyecto final\proyectofinal final\fecha.h
+
+1732644373 c:\users\matia\desktop\utn programacion\proyecto final\proyectofinal final\archivoreservas.h
+	"Reserva.h"
+	<cstring>
+	"Reserva.h"
+	<cstring>
+
+1730828760 source:c:\users\matia\desktop\utn programacion\proyecto final\proyectofinal final\fecha.cpp
+	<iostream>
+	"Fecha.h"
+	<iostream>
+	"Fecha.h"
+
+1732630029 source:c:\users\matia\desktop\utn programacion\proyecto final\proyectofinal final\main.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+
+1730828696 c:\users\matia\desktop\utn programacion\proyecto final\proyectofinal final\login.h
+	<iostream>
+	<string>
+	<iostream>
+	<string>
+
+1732644216 c:\users\matia\desktop\utn programacion\proyecto final\proyectofinal final\persona.h
+	<cstring>
+	<cstring>
+
+1730589314 c:\users\matia\desktop\utn programacion\proyecto final\proyectofinal final\cliente.h
+	"Persona.h"
+	"Persona.h"
+
+1732648412 c:\users\matia\desktop\utn programacion\proyecto final\proyectofinal final\empleado.h
+	"Persona.h"
+	"Persona.h"
+
+1732650012 c:\users\matia\desktop\utn programacion\proyecto final\proyectofinal final\archivoempleados.h
+	"Empleado.h"
+	"Empleado.h"
+
+1732650080 c:\users\matia\desktop\utn programacion\proyecto final\proyectofinal final\menues.h
+
+1732647073 source:c:\users\matia\desktop\utn programacion\proyecto final\proyectofinal final\producto.cpp
+	<iostream>
+	<cstring>
+	"Producto.h"
+	"ArchivoProductos.h"
+	<iostream>
+	<cstring>
+	"Producto.h"
+	"ArchivoProductos.h"
+
+1732635342 source:c:\users\matia\desktop\utn programacion\proyecto final\proyectofinal final\reserva.cpp
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+
+1732652811 source:c:\users\manu y char\desktop\proyectofinal final\archivoproductos.cpp
+	<iostream>
+	"ArchivoProductos.h"
+	"Producto.h"
+	<iostream>
+	"ArchivoProductos.h"
+	"Producto.h"
+
+1732645405 c:\users\manu y char\desktop\proyectofinal final\archivoproductos.h
+	<cstring>
+	<cstring>
+
+1732647235 c:\users\manu y char\desktop\proyectofinal final\producto.h
+	<iostream>
+	<iostream>
+
+1732636864 source:c:\users\manu y char\desktop\proyectofinal final\archivoreservas.cpp
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+
+1732633530 c:\users\manu y char\desktop\proyectofinal final\reserva.h
+	"Fecha.h"
+	"Fecha.h"
+
+1730828762 c:\users\manu y char\desktop\proyectofinal final\fecha.h
+
+1732644373 c:\users\manu y char\desktop\proyectofinal final\archivoreservas.h
+	"Reserva.h"
+	<cstring>
+	"Reserva.h"
+	<cstring>
+
+1730828760 source:c:\users\manu y char\desktop\proyectofinal final\fecha.cpp
+	<iostream>
+	"Fecha.h"
+	<iostream>
+	"Fecha.h"
+
+1732630029 source:c:\users\manu y char\desktop\proyectofinal final\main.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+
+1730828696 c:\users\manu y char\desktop\proyectofinal final\login.h
+	<iostream>
+	<string>
+	<iostream>
+	<string>
+
+1732644216 c:\users\manu y char\desktop\proyectofinal final\persona.h
+	<cstring>
+	<cstring>
+
+1730589314 c:\users\manu y char\desktop\proyectofinal final\cliente.h
+	"Persona.h"
+	"Persona.h"
+
+1732648412 c:\users\manu y char\desktop\proyectofinal final\empleado.h
+	"Persona.h"
+	"Persona.h"
+
+1732652074 c:\users\manu y char\desktop\proyectofinal final\archivoempleados.h
+	"Empleado.h"
+	"Empleado.h"
+
+1732652675 c:\users\manu y char\desktop\proyectofinal final\menues.h
+
+1732647073 source:c:\users\manu y char\desktop\proyectofinal final\producto.cpp
+	<iostream>
+	<cstring>
+	"Producto.h"
+	"ArchivoProductos.h"
+	<iostream>
+	<cstring>
+	"Producto.h"
+	"ArchivoProductos.h"
+
+1732635342 source:c:\users\manu y char\desktop\proyectofinal final\reserva.cpp
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+
+1732708721 source:c:\users\manu y char\desktop\proyectofinal final 1.2\archivoproductos.cpp
+	<iostream>
+	"ArchivoProductos.h"
+	"Producto.h"
+	<iostream>
+	"ArchivoProductos.h"
+	"Producto.h"
+
+1732645405 c:\users\manu y char\desktop\proyectofinal final 1.2\archivoproductos.h
+	<cstring>
+	<cstring>
+
+1732647235 c:\users\manu y char\desktop\proyectofinal final 1.2\producto.h
+	<iostream>
+	<iostream>
+
+1732636864 source:c:\users\manu y char\desktop\proyectofinal final 1.2\archivoreservas.cpp
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+
+1732633530 c:\users\manu y char\desktop\proyectofinal final 1.2\reserva.h
+	"Fecha.h"
+	"Fecha.h"
+
+1730828762 c:\users\manu y char\desktop\proyectofinal final 1.2\fecha.h
+
+1732644373 c:\users\manu y char\desktop\proyectofinal final 1.2\archivoreservas.h
+	"Reserva.h"
+	<cstring>
+	"Reserva.h"
+	<cstring>
+
+1730828760 source:c:\users\manu y char\desktop\proyectofinal final 1.2\fecha.cpp
+	<iostream>
+	"Fecha.h"
+	<iostream>
+	"Fecha.h"
+
+1732708984 source:c:\users\manu y char\desktop\proyectofinal final 1.2\main.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+
+1730828696 c:\users\manu y char\desktop\proyectofinal final 1.2\login.h
+	<iostream>
+	<string>
+	<iostream>
+	<string>
+
+1732710457 c:\users\manu y char\desktop\proyectofinal final 1.2\persona.h
+	<cstring>
+	<iostream>
+	<cstring>
+	<iostream>
+
+1732710674 c:\users\manu y char\desktop\proyectofinal final 1.2\cliente.h
+	"Persona.h"
+	"Persona.h"
+
+1732710831 c:\users\manu y char\desktop\proyectofinal final 1.2\empleado.h
+	"Persona.h"
+	"Persona.h"
+
+1732710931 c:\users\manu y char\desktop\proyectofinal final 1.2\archivoempleados.h
+	"Empleado.h"
+	"Empleado.h"
+
+1732708984 c:\users\manu y char\desktop\proyectofinal final 1.2\menues.h
+
+1732647073 source:c:\users\manu y char\desktop\proyectofinal final 1.2\producto.cpp
+	<iostream>
+	<cstring>
+	"Producto.h"
+	"ArchivoProductos.h"
+	<iostream>
+	<cstring>
+	"Producto.h"
+	"ArchivoProductos.h"
+
+1732635342 source:c:\users\manu y char\desktop\proyectofinal final 1.2\reserva.cpp
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+
+1732710452 source:c:\users\manu y char\desktop\proyectofinal final 1.2\menues.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+
+1732709940 source:c:\users\manu y char\desktop\proyectofinal final 1.2\persona.cpp
+	<cstring>
+	<iostream>
+	"Persona.h"
+	<cstring>
+	<iostream>
+	"Persona.h"
+
+1732710706 source:c:\users\manu y char\desktop\proyectofinal final 1.2\cliente.cpp
+	<iostream>
+	"Persona.h"
+	"Cliente.h"
+	<iostream>
+	"Persona.h"
+	"Cliente.h"
+
+1732710831 source:c:\users\manu y char\desktop\proyectofinal final 1.2\empleado.cpp
+	<iostream>
+	"Persona.h"
+	"Empleado.h"
+	<iostream>
+	"Persona.h"
+	"Empleado.h"
+
+1732710967 source:c:\users\manu y char\desktop\proyectofinal final 1.2\archivoempleados.cpp
+	<iostream>
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	<iostream>
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+
+1732710967 source:c:\users\manu y char\desktop\proyectofinal final 1.4\archivoempleados.cpp
+	<iostream>
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	<iostream>
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+
+1732710831 c:\users\manu y char\desktop\proyectofinal final 1.4\empleado.h
+	"Persona.h"
+	"Persona.h"
+
+1732710457 c:\users\manu y char\desktop\proyectofinal final 1.4\persona.h
+	<cstring>
+	<iostream>
+	<cstring>
+	<iostream>
+
+1732710931 c:\users\manu y char\desktop\proyectofinal final 1.4\archivoempleados.h
+	"Empleado.h"
+	"Empleado.h"
+
+1732708721 source:c:\users\manu y char\desktop\proyectofinal final 1.4\archivoproductos.cpp
+	<iostream>
+	"ArchivoProductos.h"
+	"Producto.h"
+	<iostream>
+	"ArchivoProductos.h"
+	"Producto.h"
+
+1732645405 c:\users\manu y char\desktop\proyectofinal final 1.4\archivoproductos.h
+	<cstring>
+	<cstring>
+
+1732647235 c:\users\manu y char\desktop\proyectofinal final 1.4\producto.h
+	<iostream>
+	<iostream>
+
+1732725872 source:c:\users\manu y char\desktop\proyectofinal final 1.4\archivoreservas.cpp
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+
+1732725955 c:\users\manu y char\desktop\proyectofinal final 1.4\reserva.h
+	"Fecha.h"
+	"Fecha.h"
+
+1730828762 c:\users\manu y char\desktop\proyectofinal final 1.4\fecha.h
+
+1732725872 c:\users\manu y char\desktop\proyectofinal final 1.4\archivoreservas.h
+	"Reserva.h"
+	<cstring>
+	"Reserva.h"
+	<cstring>
+
+1732723407 source:c:\users\manu y char\desktop\proyectofinal final 1.4\cliente.cpp
+	<iostream>
+	"Persona.h"
+	"Cliente.h"
+	<iostream>
+	"Persona.h"
+	"Cliente.h"
+
+1732710674 c:\users\manu y char\desktop\proyectofinal final 1.4\cliente.h
+	"Persona.h"
+	"Persona.h"
+
+1732710831 source:c:\users\manu y char\desktop\proyectofinal final 1.4\empleado.cpp
+	<iostream>
+	"Persona.h"
+	"Empleado.h"
+	<iostream>
+	"Persona.h"
+	"Empleado.h"
+
+1730828760 source:c:\users\manu y char\desktop\proyectofinal final 1.4\fecha.cpp
+	<iostream>
+	"Fecha.h"
+	<iostream>
+	"Fecha.h"
+
+1732708984 source:c:\users\manu y char\desktop\proyectofinal final 1.4\main.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+
+1730828696 c:\users\manu y char\desktop\proyectofinal final 1.4\login.h
+	<iostream>
+	<string>
+	<iostream>
+	<string>
+
+1732708984 c:\users\manu y char\desktop\proyectofinal final 1.4\menues.h
+
+1732710452 source:c:\users\manu y char\desktop\proyectofinal final 1.4\menues.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+
+1732716225 source:c:\users\manu y char\desktop\proyectofinal final 1.4\persona.cpp
+	<cstring>
+	<iostream>
+	"Persona.h"
+	<cstring>
+	<iostream>
+	"Persona.h"
+
+1732647073 source:c:\users\manu y char\desktop\proyectofinal final 1.4\producto.cpp
+	<iostream>
+	<cstring>
+	"Producto.h"
+	"ArchivoProductos.h"
+	<iostream>
+	<cstring>
+	"Producto.h"
+	"ArchivoProductos.h"
+
+1732725872 source:c:\users\manu y char\desktop\proyectofinal final 1.4\reserva.cpp
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+
+1732710967 source:c:\users\manu y char\desktop\proyectofinal final 1.6\archivoempleados.cpp
+	<iostream>
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	<iostream>
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+
+1732710831 c:\users\manu y char\desktop\proyectofinal final 1.6\empleado.h
+	"Persona.h"
+	"Persona.h"
+
+1732710457 c:\users\manu y char\desktop\proyectofinal final 1.6\persona.h
+	<cstring>
+	<iostream>
+	<cstring>
+	<iostream>
+
+1732710931 c:\users\manu y char\desktop\proyectofinal final 1.6\archivoempleados.h
+	"Empleado.h"
+	"Empleado.h"
+
+1732708721 source:c:\users\manu y char\desktop\proyectofinal final 1.6\archivoproductos.cpp
+	<iostream>
+	"ArchivoProductos.h"
+	"Producto.h"
+	<iostream>
+	"ArchivoProductos.h"
+	"Producto.h"
+
+1732645405 c:\users\manu y char\desktop\proyectofinal final 1.6\archivoproductos.h
+	<cstring>
+	<cstring>
+
+1732647235 c:\users\manu y char\desktop\proyectofinal final 1.6\producto.h
+	<iostream>
+	<iostream>
+
+1732725872 source:c:\users\manu y char\desktop\proyectofinal final 1.6\archivoreservas.cpp
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+
+1732725955 c:\users\manu y char\desktop\proyectofinal final 1.6\reserva.h
+	"Fecha.h"
+	"Fecha.h"
+
+1732727464 c:\users\manu y char\desktop\proyectofinal final 1.6\fecha.h
+	<iostream>
+	<chrono>
+	<ctime>
+	<iostream>
+	<chrono>
+	<ctime>
+
+1732725872 c:\users\manu y char\desktop\proyectofinal final 1.6\archivoreservas.h
+	"Reserva.h"
+	<cstring>
+	"Reserva.h"
+	<cstring>
+
+1732723407 source:c:\users\manu y char\desktop\proyectofinal final 1.6\cliente.cpp
+	<iostream>
+	"Persona.h"
+	"Cliente.h"
+	<iostream>
+	"Persona.h"
+	"Cliente.h"
+
+1732710674 c:\users\manu y char\desktop\proyectofinal final 1.6\cliente.h
+	"Persona.h"
+	"Persona.h"
+
+1732710831 source:c:\users\manu y char\desktop\proyectofinal final 1.6\empleado.cpp
+	<iostream>
+	"Persona.h"
+	"Empleado.h"
+	<iostream>
+	"Persona.h"
+	"Empleado.h"
+
+1732727464 source:c:\users\manu y char\desktop\proyectofinal final 1.6\fecha.cpp
+	<iostream>
+	"Fecha.h"
+	<iostream>
+	"Fecha.h"
+
+1732708984 source:c:\users\manu y char\desktop\proyectofinal final 1.6\main.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+
+1730828696 c:\users\manu y char\desktop\proyectofinal final 1.6\login.h
+	<iostream>
+	<string>
+	<iostream>
+	<string>
+
+1732708984 c:\users\manu y char\desktop\proyectofinal final 1.6\menues.h
+
+1732725979 source:c:\users\manu y char\desktop\proyectofinal final 1.6\menues.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+
+1732716225 source:c:\users\manu y char\desktop\proyectofinal final 1.6\persona.cpp
+	<cstring>
+	<iostream>
+	"Persona.h"
+	<cstring>
+	<iostream>
+	"Persona.h"
+
+1732647073 source:c:\users\manu y char\desktop\proyectofinal final 1.6\producto.cpp
+	<iostream>
+	<cstring>
+	"Producto.h"
+	"ArchivoProductos.h"
+	<iostream>
+	<cstring>
+	"Producto.h"
+	"ArchivoProductos.h"
+
+1732725872 source:c:\users\manu y char\desktop\proyectofinal final 1.6\reserva.cpp
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+
+1732710967 source:c:\users\manu y char\desktop\proyectofinal final 1.8\archivoempleados.cpp
+	<iostream>
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	<iostream>
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+
+1732710831 c:\users\manu y char\desktop\proyectofinal final 1.8\empleado.h
+	"Persona.h"
+	"Persona.h"
+
+1732710457 c:\users\manu y char\desktop\proyectofinal final 1.8\persona.h
+	<cstring>
+	<iostream>
+	<cstring>
+	<iostream>
+
+1732710931 c:\users\manu y char\desktop\proyectofinal final 1.8\archivoempleados.h
+	"Empleado.h"
+	"Empleado.h"
+
+1732708721 source:c:\users\manu y char\desktop\proyectofinal final 1.8\archivoproductos.cpp
+	<iostream>
+	"ArchivoProductos.h"
+	"Producto.h"
+	<iostream>
+	"ArchivoProductos.h"
+	"Producto.h"
+
+1732645405 c:\users\manu y char\desktop\proyectofinal final 1.8\archivoproductos.h
+	<cstring>
+	<cstring>
+
+1732647235 c:\users\manu y char\desktop\proyectofinal final 1.8\producto.h
+	<iostream>
+	<iostream>
+
+1732725872 source:c:\users\manu y char\desktop\proyectofinal final 1.8\archivoreservas.cpp
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+
+1732725955 c:\users\manu y char\desktop\proyectofinal final 1.8\reserva.h
+	"Fecha.h"
+	"Fecha.h"
+
+1732727464 c:\users\manu y char\desktop\proyectofinal final 1.8\fecha.h
+	<iostream>
+	<chrono>
+	<ctime>
+	<iostream>
+	<chrono>
+	<ctime>
+
+1732725872 c:\users\manu y char\desktop\proyectofinal final 1.8\archivoreservas.h
+	"Reserva.h"
+	<cstring>
+	"Reserva.h"
+	<cstring>
+
+1732723407 source:c:\users\manu y char\desktop\proyectofinal final 1.8\cliente.cpp
+	<iostream>
+	"Persona.h"
+	"Cliente.h"
+	<iostream>
+	"Persona.h"
+	"Cliente.h"
+
+1732710674 c:\users\manu y char\desktop\proyectofinal final 1.8\cliente.h
+	"Persona.h"
+	"Persona.h"
+
+1732710831 source:c:\users\manu y char\desktop\proyectofinal final 1.8\empleado.cpp
+	<iostream>
+	"Persona.h"
+	"Empleado.h"
+	<iostream>
+	"Persona.h"
+	"Empleado.h"
+
+1732727464 source:c:\users\manu y char\desktop\proyectofinal final 1.8\fecha.cpp
+	<iostream>
+	"Fecha.h"
+	<iostream>
+	"Fecha.h"
+
+1732708984 source:c:\users\manu y char\desktop\proyectofinal final 1.8\main.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+
+1730828696 c:\users\manu y char\desktop\proyectofinal final 1.8\login.h
+	<iostream>
+	<string>
+	<iostream>
+	<string>
+
+1732708984 c:\users\manu y char\desktop\proyectofinal final 1.8\menues.h
+
+1732725979 source:c:\users\manu y char\desktop\proyectofinal final 1.8\menues.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+
+1732716225 source:c:\users\manu y char\desktop\proyectofinal final 1.8\persona.cpp
+	<cstring>
+	<iostream>
+	"Persona.h"
+	<cstring>
+	<iostream>
+	"Persona.h"
+
+1732647073 source:c:\users\manu y char\desktop\proyectofinal final 1.8\producto.cpp
+	<iostream>
+	<cstring>
+	"Producto.h"
+	"ArchivoProductos.h"
+	<iostream>
+	<cstring>
+	"Producto.h"
+	"ArchivoProductos.h"
+
+1732725872 source:c:\users\manu y char\desktop\proyectofinal final 1.8\reserva.cpp
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+
+1732710967 source:c:\users\manu y char\desktop\proyectofinal final 2.0\archivoempleados.cpp
+	<iostream>
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	<iostream>
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+
+1732710831 c:\users\manu y char\desktop\proyectofinal final 2.0\empleado.h
+	"Persona.h"
+	"Persona.h"
+
+1732710457 c:\users\manu y char\desktop\proyectofinal final 2.0\persona.h
+	<cstring>
+	<iostream>
+	<cstring>
+	<iostream>
+
+1732710931 c:\users\manu y char\desktop\proyectofinal final 2.0\archivoempleados.h
+	"Empleado.h"
+	"Empleado.h"
+
+1732708721 source:c:\users\manu y char\desktop\proyectofinal final 2.0\archivoproductos.cpp
+	<iostream>
+	"ArchivoProductos.h"
+	"Producto.h"
+	<iostream>
+	"ArchivoProductos.h"
+	"Producto.h"
+
+1732645405 c:\users\manu y char\desktop\proyectofinal final 2.0\archivoproductos.h
+	<cstring>
+	<cstring>
+
+1732647235 c:\users\manu y char\desktop\proyectofinal final 2.0\producto.h
+	<iostream>
+	<iostream>
+
+1732731845 source:c:\users\manu y char\desktop\proyectofinal final 2.0\archivoreservas.cpp
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+
+1732731947 c:\users\manu y char\desktop\proyectofinal final 2.0\reserva.h
+	"Fecha.h"
+	"Hora.h"
+	"Fecha.h"
+	"Hora.h"
+
+1732727464 c:\users\manu y char\desktop\proyectofinal final 2.0\fecha.h
+	<iostream>
+	<chrono>
+	<ctime>
+	<iostream>
+	<chrono>
+	<ctime>
+
+1732725872 c:\users\manu y char\desktop\proyectofinal final 2.0\archivoreservas.h
+	"Reserva.h"
+	<cstring>
+	"Reserva.h"
+	<cstring>
+
+1732723407 source:c:\users\manu y char\desktop\proyectofinal final 2.0\cliente.cpp
+	<iostream>
+	"Persona.h"
+	"Cliente.h"
+	<iostream>
+	"Persona.h"
+	"Cliente.h"
+
+1732710674 c:\users\manu y char\desktop\proyectofinal final 2.0\cliente.h
+	"Persona.h"
+	"Persona.h"
+
+1732710831 source:c:\users\manu y char\desktop\proyectofinal final 2.0\empleado.cpp
+	<iostream>
+	"Persona.h"
+	"Empleado.h"
+	<iostream>
+	"Persona.h"
+	"Empleado.h"
+
+1732727464 source:c:\users\manu y char\desktop\proyectofinal final 2.0\fecha.cpp
+	<iostream>
+	"Fecha.h"
+	<iostream>
+	"Fecha.h"
+
+1732730625 source:c:\users\manu y char\desktop\proyectofinal final 2.0\main.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	"Hora.h"
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	"Hora.h"
+
+1730828696 c:\users\manu y char\desktop\proyectofinal final 2.0\login.h
+	<iostream>
+	<string>
+	<iostream>
+	<string>
+
+1732708984 c:\users\manu y char\desktop\proyectofinal final 2.0\menues.h
+
+1732725979 source:c:\users\manu y char\desktop\proyectofinal final 2.0\menues.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+
+1732716225 source:c:\users\manu y char\desktop\proyectofinal final 2.0\persona.cpp
+	<cstring>
+	<iostream>
+	"Persona.h"
+	<cstring>
+	<iostream>
+	"Persona.h"
+
+1732647073 source:c:\users\manu y char\desktop\proyectofinal final 2.0\producto.cpp
+	<iostream>
+	<cstring>
+	"Producto.h"
+	"ArchivoProductos.h"
+	<iostream>
+	<cstring>
+	"Producto.h"
+	"ArchivoProductos.h"
+
+1732732239 source:c:\users\manu y char\desktop\proyectofinal final 2.0\reserva.cpp
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+
+1732730889 c:\users\manu y char\desktop\proyectofinal final 2.0\hora.h
+	<iostream>
+	<iostream>
+
+1732730905 source:c:\users\manu y char\desktop\proyectofinal final 2.0\hora.cpp
+	<iostream>
+	"Hora.h"
+	<iostream>
+	"Hora.h"
+
+1732710967 source:c:\users\manu y char\desktop\proyectofinal final 2.2\archivoempleados.cpp
+	<iostream>
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	<iostream>
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+
+1732710831 c:\users\manu y char\desktop\proyectofinal final 2.2\empleado.h
+	"Persona.h"
+	"Persona.h"
+
+1732710457 c:\users\manu y char\desktop\proyectofinal final 2.2\persona.h
+	<cstring>
+	<iostream>
+	<cstring>
+	<iostream>
+
+1732710931 c:\users\manu y char\desktop\proyectofinal final 2.2\archivoempleados.h
+	"Empleado.h"
+	"Empleado.h"
+
+1732790711 source:c:\users\manu y char\desktop\proyectofinal final 2.2\archivoproductos.cpp
+	<iostream>
+	"ArchivoProductos.h"
+	"Producto.h"
+	<iostream>
+	"ArchivoProductos.h"
+	"Producto.h"
+
+1732790717 c:\users\manu y char\desktop\proyectofinal final 2.2\archivoproductos.h
+	<cstring>
+	<cstring>
+
+1732788278 c:\users\manu y char\desktop\proyectofinal final 2.2\producto.h
+	<iostream>
+	<iostream>
+
+1732731845 source:c:\users\manu y char\desktop\proyectofinal final 2.2\archivoreservas.cpp
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+
+1732731947 c:\users\manu y char\desktop\proyectofinal final 2.2\reserva.h
+	"Fecha.h"
+	"Hora.h"
+	"Fecha.h"
+	"Hora.h"
+
+1732727464 c:\users\manu y char\desktop\proyectofinal final 2.2\fecha.h
+	<iostream>
+	<chrono>
+	<ctime>
+	<iostream>
+	<chrono>
+	<ctime>
+
+1732730889 c:\users\manu y char\desktop\proyectofinal final 2.2\hora.h
+	<iostream>
+	<iostream>
+
+1732725872 c:\users\manu y char\desktop\proyectofinal final 2.2\archivoreservas.h
+	"Reserva.h"
+	<cstring>
+	"Reserva.h"
+	<cstring>
+
+1732723407 source:c:\users\manu y char\desktop\proyectofinal final 2.2\cliente.cpp
+	<iostream>
+	"Persona.h"
+	"Cliente.h"
+	<iostream>
+	"Persona.h"
+	"Cliente.h"
+
+1732710674 c:\users\manu y char\desktop\proyectofinal final 2.2\cliente.h
+	"Persona.h"
+	"Persona.h"
+
+1732710831 source:c:\users\manu y char\desktop\proyectofinal final 2.2\empleado.cpp
+	<iostream>
+	"Persona.h"
+	"Empleado.h"
+	<iostream>
+	"Persona.h"
+	"Empleado.h"
+
+1732727464 source:c:\users\manu y char\desktop\proyectofinal final 2.2\fecha.cpp
+	<iostream>
+	"Fecha.h"
+	<iostream>
+	"Fecha.h"
+
+1732730905 source:c:\users\manu y char\desktop\proyectofinal final 2.2\hora.cpp
+	<iostream>
+	"Hora.h"
+	<iostream>
+	"Hora.h"
+
+1732791855 source:c:\users\manu y char\desktop\proyectofinal final 2.2\main.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	"Hora.h"
+	"Mesa.h"
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	"Hora.h"
+	"Mesa.h"
+
+1730828696 c:\users\manu y char\desktop\proyectofinal final 2.2\login.h
+	<iostream>
+	<string>
+	<iostream>
+	<string>
+
+1732790171 c:\users\manu y char\desktop\proyectofinal final 2.2\menues.h
+
+1732793685 source:c:\users\manu y char\desktop\proyectofinal final 2.2\menues.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	"Mesa.h"
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	"Mesa.h"
+
+1732716225 source:c:\users\manu y char\desktop\proyectofinal final 2.2\persona.cpp
+	<cstring>
+	<iostream>
+	"Persona.h"
+	<cstring>
+	<iostream>
+	"Persona.h"
+
+1732647073 source:c:\users\manu y char\desktop\proyectofinal final 2.2\producto.cpp
+	<iostream>
+	<cstring>
+	"Producto.h"
+	"ArchivoProductos.h"
+	<iostream>
+	<cstring>
+	"Producto.h"
+	"ArchivoProductos.h"
+
+1732732498 source:c:\users\manu y char\desktop\proyectofinal final 2.2\reserva.cpp
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+
+1732792875 c:\users\manu y char\desktop\proyectofinal final 2.2\mesa.h
+	"Producto.h"
+	"Producto.h"
+
+1732794437 source:c:\users\manu y char\desktop\proyectofinal final 2.2\mesa.cpp
+	<iostream>
+	"Mesa.h"
+	<iostream>
+	"Mesa.h"
+
+1732791352 c:\users\manu y char\desktop\proyectofinal final 2.2\archivomesas.h
+	"Mesa.h"
+	"Producto.h"
+	<cstring>
+	"Mesa.h"
+	"Producto.h"
+	<cstring>
+
+1732792671 source:c:\users\manu y char\desktop\proyectofinal final 2.2\archivomesas.cpp
+	"Mesa.h"
+	"Producto.h"
+	"ArchivoMesas.h"
+	"ArchivoProductos.h"
+	<cstring>
+	"Mesa.h"
+	"Producto.h"
+	"ArchivoMesas.h"
+	"ArchivoProductos.h"
+	<cstring>
+
+1732710967 source:c:\users\manu y char\desktop\proyectofinal final 2.4\archivoempleados.cpp
+	<iostream>
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	<iostream>
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+
+1732710831 c:\users\manu y char\desktop\proyectofinal final 2.4\empleado.h
+	"Persona.h"
+	"Persona.h"
+
+1732710457 c:\users\manu y char\desktop\proyectofinal final 2.4\persona.h
+	<cstring>
+	<iostream>
+	<cstring>
+	<iostream>
+
+1732710931 c:\users\manu y char\desktop\proyectofinal final 2.4\archivoempleados.h
+	"Empleado.h"
+	"Empleado.h"
+
+1732792671 source:c:\users\manu y char\desktop\proyectofinal final 2.4\archivomesas.cpp
+	"Mesa.h"
+	"Producto.h"
+	"ArchivoMesas.h"
+	"ArchivoProductos.h"
+	<cstring>
+	"Mesa.h"
+	"Producto.h"
+	"ArchivoMesas.h"
+	"ArchivoProductos.h"
+	<cstring>
+
+1732792875 c:\users\manu y char\desktop\proyectofinal final 2.4\mesa.h
+	"Producto.h"
+	"Producto.h"
+
+1732788278 c:\users\manu y char\desktop\proyectofinal final 2.4\producto.h
+	<iostream>
+	<iostream>
+
+1732791352 c:\users\manu y char\desktop\proyectofinal final 2.4\archivomesas.h
+	"Mesa.h"
+	"Producto.h"
+	<cstring>
+	"Mesa.h"
+	"Producto.h"
+	<cstring>
+
+1732790717 c:\users\manu y char\desktop\proyectofinal final 2.4\archivoproductos.h
+	<cstring>
+	<cstring>
+
+1732790711 source:c:\users\manu y char\desktop\proyectofinal final 2.4\archivoproductos.cpp
+	<iostream>
+	"ArchivoProductos.h"
+	"Producto.h"
+	<iostream>
+	"ArchivoProductos.h"
+	"Producto.h"
+
+1732731845 source:c:\users\manu y char\desktop\proyectofinal final 2.4\archivoreservas.cpp
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+
+1732731947 c:\users\manu y char\desktop\proyectofinal final 2.4\reserva.h
+	"Fecha.h"
+	"Hora.h"
+	"Fecha.h"
+	"Hora.h"
+
+1732727464 c:\users\manu y char\desktop\proyectofinal final 2.4\fecha.h
+	<iostream>
+	<chrono>
+	<ctime>
+	<iostream>
+	<chrono>
+	<ctime>
+
+1732730889 c:\users\manu y char\desktop\proyectofinal final 2.4\hora.h
+	<iostream>
+	<iostream>
+
+1732725872 c:\users\manu y char\desktop\proyectofinal final 2.4\archivoreservas.h
+	"Reserva.h"
+	<cstring>
+	"Reserva.h"
+	<cstring>
+
+1732723407 source:c:\users\manu y char\desktop\proyectofinal final 2.4\cliente.cpp
+	<iostream>
+	"Persona.h"
+	"Cliente.h"
+	<iostream>
+	"Persona.h"
+	"Cliente.h"
+
+1732710674 c:\users\manu y char\desktop\proyectofinal final 2.4\cliente.h
+	"Persona.h"
+	"Persona.h"
+
+1732710831 source:c:\users\manu y char\desktop\proyectofinal final 2.4\empleado.cpp
+	<iostream>
+	"Persona.h"
+	"Empleado.h"
+	<iostream>
+	"Persona.h"
+	"Empleado.h"
+
+1732727464 source:c:\users\manu y char\desktop\proyectofinal final 2.4\fecha.cpp
+	<iostream>
+	"Fecha.h"
+	<iostream>
+	"Fecha.h"
+
+1732730905 source:c:\users\manu y char\desktop\proyectofinal final 2.4\hora.cpp
+	<iostream>
+	"Hora.h"
+	<iostream>
+	"Hora.h"
+
+1732791855 source:c:\users\manu y char\desktop\proyectofinal final 2.4\main.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	"Hora.h"
+	"Mesa.h"
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	"Hora.h"
+	"Mesa.h"
+
+1730828696 c:\users\manu y char\desktop\proyectofinal final 2.4\login.h
+	<iostream>
+	<string>
+	<iostream>
+	<string>
+
+1732790171 c:\users\manu y char\desktop\proyectofinal final 2.4\menues.h
+
+1732796429 source:c:\users\manu y char\desktop\proyectofinal final 2.4\menues.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	"Mesa.h"
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	"Mesa.h"
+
+1732794437 source:c:\users\manu y char\desktop\proyectofinal final 2.4\mesa.cpp
+	<iostream>
+	"Mesa.h"
+	<iostream>
+	"Mesa.h"
+
+1732716225 source:c:\users\manu y char\desktop\proyectofinal final 2.4\persona.cpp
+	<cstring>
+	<iostream>
+	"Persona.h"
+	<cstring>
+	<iostream>
+	"Persona.h"
+
+1732647073 source:c:\users\manu y char\desktop\proyectofinal final 2.4\producto.cpp
+	<iostream>
+	<cstring>
+	"Producto.h"
+	"ArchivoProductos.h"
+	<iostream>
+	<cstring>
+	"Producto.h"
+	"ArchivoProductos.h"
+
+1732732498 source:c:\users\manu y char\desktop\proyectofinal final 2.4\reserva.cpp
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+
+1732710967 source:c:\users\manu y char\desktop\proyectofinal final 2.6\archivoempleados.cpp
+	<iostream>
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	<iostream>
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+
+1732710831 c:\users\manu y char\desktop\proyectofinal final 2.6\empleado.h
+	"Persona.h"
+	"Persona.h"
+
+1732710457 c:\users\manu y char\desktop\proyectofinal final 2.6\persona.h
+	<cstring>
+	<iostream>
+	<cstring>
+	<iostream>
+
+1732710931 c:\users\manu y char\desktop\proyectofinal final 2.6\archivoempleados.h
+	"Empleado.h"
+	"Empleado.h"
+
+1732817819 source:c:\users\manu y char\desktop\proyectofinal final 2.6\archivomesas.cpp
+	"Mesa.h"
+	"Producto.h"
+	"ArchivoMesas.h"
+	"ArchivoProductos.h"
+	<cstring>
+	"Mesa.h"
+	"Producto.h"
+	"ArchivoMesas.h"
+	"ArchivoProductos.h"
+	<cstring>
+
+1732792875 c:\users\manu y char\desktop\proyectofinal final 2.6\mesa.h
+	"Producto.h"
+	"Producto.h"
+
+1732788278 c:\users\manu y char\desktop\proyectofinal final 2.6\producto.h
+	<iostream>
+	<iostream>
+
+1732791352 c:\users\manu y char\desktop\proyectofinal final 2.6\archivomesas.h
+	"Mesa.h"
+	"Producto.h"
+	<cstring>
+	"Mesa.h"
+	"Producto.h"
+	<cstring>
+
+1732790717 c:\users\manu y char\desktop\proyectofinal final 2.6\archivoproductos.h
+	<cstring>
+	<cstring>
+
+1732790711 source:c:\users\manu y char\desktop\proyectofinal final 2.6\archivoproductos.cpp
+	<iostream>
+	"ArchivoProductos.h"
+	"Producto.h"
+	<iostream>
+	"ArchivoProductos.h"
+	"Producto.h"
+
+1732731845 source:c:\users\manu y char\desktop\proyectofinal final 2.6\archivoreservas.cpp
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+
+1732731947 c:\users\manu y char\desktop\proyectofinal final 2.6\reserva.h
+	"Fecha.h"
+	"Hora.h"
+	"Fecha.h"
+	"Hora.h"
+
+1732727464 c:\users\manu y char\desktop\proyectofinal final 2.6\fecha.h
+	<iostream>
+	<chrono>
+	<ctime>
+	<iostream>
+	<chrono>
+	<ctime>
+
+1732730889 c:\users\manu y char\desktop\proyectofinal final 2.6\hora.h
+	<iostream>
+	<iostream>
+
+1732725872 c:\users\manu y char\desktop\proyectofinal final 2.6\archivoreservas.h
+	"Reserva.h"
+	<cstring>
+	"Reserva.h"
+	<cstring>
+
+1732723407 source:c:\users\manu y char\desktop\proyectofinal final 2.6\cliente.cpp
+	<iostream>
+	"Persona.h"
+	"Cliente.h"
+	<iostream>
+	"Persona.h"
+	"Cliente.h"
+
+1732710674 c:\users\manu y char\desktop\proyectofinal final 2.6\cliente.h
+	"Persona.h"
+	"Persona.h"
+
+1732710831 source:c:\users\manu y char\desktop\proyectofinal final 2.6\empleado.cpp
+	<iostream>
+	"Persona.h"
+	"Empleado.h"
+	<iostream>
+	"Persona.h"
+	"Empleado.h"
+
+1732727464 source:c:\users\manu y char\desktop\proyectofinal final 2.6\fecha.cpp
+	<iostream>
+	"Fecha.h"
+	<iostream>
+	"Fecha.h"
+
+1732730905 source:c:\users\manu y char\desktop\proyectofinal final 2.6\hora.cpp
+	<iostream>
+	"Hora.h"
+	<iostream>
+	"Hora.h"
+
+1732799965 source:c:\users\manu y char\desktop\proyectofinal final 2.6\main.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	"Hora.h"
+	"Mesa.h"
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	"Hora.h"
+	"Mesa.h"
+
+1730828696 c:\users\manu y char\desktop\proyectofinal final 2.6\login.h
+	<iostream>
+	<string>
+	<iostream>
+	<string>
+
+1732790171 c:\users\manu y char\desktop\proyectofinal final 2.6\menues.h
+
+1732817347 source:c:\users\manu y char\desktop\proyectofinal final 2.6\menues.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	"Mesa.h"
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	"Mesa.h"
+
+1732794437 source:c:\users\manu y char\desktop\proyectofinal final 2.6\mesa.cpp
+	<iostream>
+	"Mesa.h"
+	<iostream>
+	"Mesa.h"
+
+1732716225 source:c:\users\manu y char\desktop\proyectofinal final 2.6\persona.cpp
+	<cstring>
+	<iostream>
+	"Persona.h"
+	<cstring>
+	<iostream>
+	"Persona.h"
+
+1732647073 source:c:\users\manu y char\desktop\proyectofinal final 2.6\producto.cpp
+	<iostream>
+	<cstring>
+	"Producto.h"
+	"ArchivoProductos.h"
+	<iostream>
+	<cstring>
+	"Producto.h"
+	"ArchivoProductos.h"
+
+1732732498 source:c:\users\manu y char\desktop\proyectofinal final 2.6\reserva.cpp
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+
+1732710967 source:c:\users\manu y char\desktop\proyectofinal final 2.8\archivoempleados.cpp
+	<iostream>
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	<iostream>
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+
+1732710831 c:\users\manu y char\desktop\proyectofinal final 2.8\empleado.h
+	"Persona.h"
+	"Persona.h"
+
+1732710457 c:\users\manu y char\desktop\proyectofinal final 2.8\persona.h
+	<cstring>
+	<iostream>
+	<cstring>
+	<iostream>
+
+1732710931 c:\users\manu y char\desktop\proyectofinal final 2.8\archivoempleados.h
+	"Empleado.h"
+	"Empleado.h"
+
+1732817819 source:c:\users\manu y char\desktop\proyectofinal final 2.8\archivomesas.cpp
+	"Mesa.h"
+	"Producto.h"
+	"ArchivoMesas.h"
+	"ArchivoProductos.h"
+	<cstring>
+	"Mesa.h"
+	"Producto.h"
+	"ArchivoMesas.h"
+	"ArchivoProductos.h"
+	<cstring>
+
+1732792875 c:\users\manu y char\desktop\proyectofinal final 2.8\mesa.h
+	"Producto.h"
+	"Producto.h"
+
+1732788278 c:\users\manu y char\desktop\proyectofinal final 2.8\producto.h
+	<iostream>
+	<iostream>
+
+1732791352 c:\users\manu y char\desktop\proyectofinal final 2.8\archivomesas.h
+	"Mesa.h"
+	"Producto.h"
+	<cstring>
+	"Mesa.h"
+	"Producto.h"
+	<cstring>
+
+1732790717 c:\users\manu y char\desktop\proyectofinal final 2.8\archivoproductos.h
+	<cstring>
+	<cstring>
+
+1732977085 source:c:\users\manu y char\desktop\proyectofinal final 2.8\archivoproductos.cpp
+	<iostream>
+	"ArchivoProductos.h"
+	"Producto.h"
+	<iostream>
+	"ArchivoProductos.h"
+	"Producto.h"
+
+1732731845 source:c:\users\manu y char\desktop\proyectofinal final 2.8\archivoreservas.cpp
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+
+1732731947 c:\users\manu y char\desktop\proyectofinal final 2.8\reserva.h
+	"Fecha.h"
+	"Hora.h"
+	"Fecha.h"
+	"Hora.h"
+
+1732727464 c:\users\manu y char\desktop\proyectofinal final 2.8\fecha.h
+	<iostream>
+	<chrono>
+	<ctime>
+	<iostream>
+	<chrono>
+	<ctime>
+
+1732730889 c:\users\manu y char\desktop\proyectofinal final 2.8\hora.h
+	<iostream>
+	<iostream>
+
+1732725872 c:\users\manu y char\desktop\proyectofinal final 2.8\archivoreservas.h
+	"Reserva.h"
+	<cstring>
+	"Reserva.h"
+	<cstring>
+
+1732723407 source:c:\users\manu y char\desktop\proyectofinal final 2.8\cliente.cpp
+	<iostream>
+	"Persona.h"
+	"Cliente.h"
+	<iostream>
+	"Persona.h"
+	"Cliente.h"
+
+1732710674 c:\users\manu y char\desktop\proyectofinal final 2.8\cliente.h
+	"Persona.h"
+	"Persona.h"
+
+1732710831 source:c:\users\manu y char\desktop\proyectofinal final 2.8\empleado.cpp
+	<iostream>
+	"Persona.h"
+	"Empleado.h"
+	<iostream>
+	"Persona.h"
+	"Empleado.h"
+
+1732727464 source:c:\users\manu y char\desktop\proyectofinal final 2.8\fecha.cpp
+	<iostream>
+	"Fecha.h"
+	<iostream>
+	"Fecha.h"
+
+1732730905 source:c:\users\manu y char\desktop\proyectofinal final 2.8\hora.cpp
+	<iostream>
+	"Hora.h"
+	<iostream>
+	"Hora.h"
+
+1732973245 source:c:\users\manu y char\desktop\proyectofinal final 2.8\main.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	"ArchivoComanda.h"
+	"Comanda.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	"Hora.h"
+	"Mesa.h"
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	"ArchivoComanda.h"
+	"Comanda.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	"Hora.h"
+	"Mesa.h"
+
+1730828696 c:\users\manu y char\desktop\proyectofinal final 2.8\login.h
+	<iostream>
+	<string>
+	<iostream>
+	<string>
+
+1732973245 c:\users\manu y char\desktop\proyectofinal final 2.8\menues.h
+
+1732977401 source:c:\users\manu y char\desktop\proyectofinal final 2.8\menues.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	"ArchivoComanda.h"
+	"Comanda.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	"Mesa.h"
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	"ArchivoComanda.h"
+	"Comanda.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	"Mesa.h"
+
+1732794437 source:c:\users\manu y char\desktop\proyectofinal final 2.8\mesa.cpp
+	<iostream>
+	"Mesa.h"
+	<iostream>
+	"Mesa.h"
+
+1732716225 source:c:\users\manu y char\desktop\proyectofinal final 2.8\persona.cpp
+	<cstring>
+	<iostream>
+	"Persona.h"
+	<cstring>
+	<iostream>
+	"Persona.h"
+
+1732647073 source:c:\users\manu y char\desktop\proyectofinal final 2.8\producto.cpp
+	<iostream>
+	<cstring>
+	"Producto.h"
+	"ArchivoProductos.h"
+	<iostream>
+	<cstring>
+	"Producto.h"
+	"ArchivoProductos.h"
+
+1732732498 source:c:\users\manu y char\desktop\proyectofinal final 2.8\reserva.cpp
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+
+1732976495 source:c:\users\manu y char\desktop\proyectofinal final 2.8\archivocomanda.cpp
+	"Producto.h"
+	"Comanda.h"
+	"ArchivoComanda.h"
+	"Mesa.h"
+	<iostream>
+	"Producto.h"
+	"Comanda.h"
+	"ArchivoComanda.h"
+	"Mesa.h"
+	<iostream>
+
+1732977314 source:c:\users\manu y char\desktop\proyectofinal final 2.8\comanda.cpp
+	<iostream>
+	"Comanda.h"
+	"ArchivoProductos.h"
+	<iostream>
+	"Comanda.h"
+	"ArchivoProductos.h"
+
+1732977379 c:\users\manu y char\desktop\proyectofinal final 2.8\comanda.h
+	<iostream>
+	<ctime>
+	"Producto.h"
+	"ArchivoComanda.h"
+	<iostream>
+	<ctime>
+	"Producto.h"
+	"ArchivoComanda.h"
+
+1732974542 c:\users\manu y char\desktop\proyectofinal final 2.8\archivocomanda.h
+	<cstring>
+	"Comanda.h"
+	<cstring>
+	"Comanda.h"
+
+1732978087 source:c:\users\manu y char\desktop\proyectofinal final 3.0\archivocomanda.cpp
+	"Producto.h"
+	"Comanda.h"
+	"ArchivoComanda.h"
+	"Mesa.h"
+	<iostream>
+	"Producto.h"
+	"Comanda.h"
+	"ArchivoComanda.h"
+	"Mesa.h"
+	<iostream>
+
+1732989752 c:\users\manu y char\desktop\proyectofinal final 3.0\producto.h
+	<iostream>
+	<iostream>
+
+1732977379 c:\users\manu y char\desktop\proyectofinal final 3.0\comanda.h
+	<iostream>
+	<ctime>
+	"Producto.h"
+	"ArchivoComanda.h"
+	<iostream>
+	<ctime>
+	"Producto.h"
+	"ArchivoComanda.h"
+
+1732974542 c:\users\manu y char\desktop\proyectofinal final 3.0\archivocomanda.h
+	<cstring>
+	"Comanda.h"
+	<cstring>
+	"Comanda.h"
+
+1732990424 c:\users\manu y char\desktop\proyectofinal final 3.0\mesa.h
+	"Producto.h"
+	"Producto.h"
+
+1732710967 source:c:\users\manu y char\desktop\proyectofinal final 3.0\archivoempleados.cpp
+	<iostream>
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	<iostream>
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+
+1732710831 c:\users\manu y char\desktop\proyectofinal final 3.0\empleado.h
+	"Persona.h"
+	"Persona.h"
+
+1732710457 c:\users\manu y char\desktop\proyectofinal final 3.0\persona.h
+	<cstring>
+	<iostream>
+	<cstring>
+	<iostream>
+
+1732710931 c:\users\manu y char\desktop\proyectofinal final 3.0\archivoempleados.h
+	"Empleado.h"
+	"Empleado.h"
+
+1732992173 source:c:\users\manu y char\desktop\proyectofinal final 3.0\archivomesas.cpp
+	"Mesa.h"
+	"Producto.h"
+	"ArchivoMesas.h"
+	"ArchivoProductos.h"
+	<cstring>
+	"Mesa.h"
+	"Producto.h"
+	"ArchivoMesas.h"
+	"ArchivoProductos.h"
+	<cstring>
+
+1732791352 c:\users\manu y char\desktop\proyectofinal final 3.0\archivomesas.h
+	"Mesa.h"
+	"Producto.h"
+	<cstring>
+	"Mesa.h"
+	"Producto.h"
+	<cstring>
+
+1732790717 c:\users\manu y char\desktop\proyectofinal final 3.0\archivoproductos.h
+	<cstring>
+	<cstring>
+
+1732977085 source:c:\users\manu y char\desktop\proyectofinal final 3.0\archivoproductos.cpp
+	<iostream>
+	"ArchivoProductos.h"
+	"Producto.h"
+	<iostream>
+	"ArchivoProductos.h"
+	"Producto.h"
+
+1732731845 source:c:\users\manu y char\desktop\proyectofinal final 3.0\archivoreservas.cpp
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+
+1732731947 c:\users\manu y char\desktop\proyectofinal final 3.0\reserva.h
+	"Fecha.h"
+	"Hora.h"
+	"Fecha.h"
+	"Hora.h"
+
+1732727464 c:\users\manu y char\desktop\proyectofinal final 3.0\fecha.h
+	<iostream>
+	<chrono>
+	<ctime>
+	<iostream>
+	<chrono>
+	<ctime>
+
+1732730889 c:\users\manu y char\desktop\proyectofinal final 3.0\hora.h
+	<iostream>
+	<iostream>
+
+1732725872 c:\users\manu y char\desktop\proyectofinal final 3.0\archivoreservas.h
+	"Reserva.h"
+	<cstring>
+	"Reserva.h"
+	<cstring>
+
+1732723407 source:c:\users\manu y char\desktop\proyectofinal final 3.0\cliente.cpp
+	<iostream>
+	"Persona.h"
+	"Cliente.h"
+	<iostream>
+	"Persona.h"
+	"Cliente.h"
+
+1732710674 c:\users\manu y char\desktop\proyectofinal final 3.0\cliente.h
+	"Persona.h"
+	"Persona.h"
+
+1732978261 source:c:\users\manu y char\desktop\proyectofinal final 3.0\comanda.cpp
+	<iostream>
+	"Comanda.h"
+	"ArchivoProductos.h"
+	<iostream>
+	"Comanda.h"
+	"ArchivoProductos.h"
+
+1732710831 source:c:\users\manu y char\desktop\proyectofinal final 3.0\empleado.cpp
+	<iostream>
+	"Persona.h"
+	"Empleado.h"
+	<iostream>
+	"Persona.h"
+	"Empleado.h"
+
+1732727464 source:c:\users\manu y char\desktop\proyectofinal final 3.0\fecha.cpp
+	<iostream>
+	"Fecha.h"
+	<iostream>
+	"Fecha.h"
+
+1732730905 source:c:\users\manu y char\desktop\proyectofinal final 3.0\hora.cpp
+	<iostream>
+	"Hora.h"
+	<iostream>
+	"Hora.h"
+
+1732973245 source:c:\users\manu y char\desktop\proyectofinal final 3.0\main.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	"ArchivoComanda.h"
+	"Comanda.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	"Hora.h"
+	"Mesa.h"
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	"ArchivoComanda.h"
+	"Comanda.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	"Hora.h"
+	"Mesa.h"
+
+1730828696 c:\users\manu y char\desktop\proyectofinal final 3.0\login.h
+	<iostream>
+	<string>
+	<iostream>
+	<string>
+
+1732973245 c:\users\manu y char\desktop\proyectofinal final 3.0\menues.h
+
+1732992715 source:c:\users\manu y char\desktop\proyectofinal final 3.0\menues.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	"ArchivoComanda.h"
+	"Comanda.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	"Mesa.h"
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	"ArchivoComanda.h"
+	"Comanda.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	"Mesa.h"
+
+1732991634 source:c:\users\manu y char\desktop\proyectofinal final 3.0\mesa.cpp
+	<iostream>
+	"Mesa.h"
+	<iostream>
+	"Mesa.h"
+
+1732716225 source:c:\users\manu y char\desktop\proyectofinal final 3.0\persona.cpp
+	<cstring>
+	<iostream>
+	"Persona.h"
+	<cstring>
+	<iostream>
+	"Persona.h"
+
+1732989752 source:c:\users\manu y char\desktop\proyectofinal final 3.0\producto.cpp
+	<iostream>
+	<cstring>
+	"Producto.h"
+	"ArchivoProductos.h"
+	<iostream>
+	<cstring>
+	"Producto.h"
+	"ArchivoProductos.h"
+
+1732732498 source:c:\users\manu y char\desktop\proyectofinal final 3.0\reserva.cpp
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+
+1732978087 source:c:\users\manu y char\desktop\proyectofinal final 3.2\archivocomanda.cpp
+	"Producto.h"
+	"Comanda.h"
+	"ArchivoComanda.h"
+	"Mesa.h"
+	<iostream>
+	"Producto.h"
+	"Comanda.h"
+	"ArchivoComanda.h"
+	"Mesa.h"
+	<iostream>
+
+1732989752 c:\users\manu y char\desktop\proyectofinal final 3.2\producto.h
+	<iostream>
+	<iostream>
+
+1732977379 c:\users\manu y char\desktop\proyectofinal final 3.2\comanda.h
+	<iostream>
+	<ctime>
+	"Producto.h"
+	"ArchivoComanda.h"
+	<iostream>
+	<ctime>
+	"Producto.h"
+	"ArchivoComanda.h"
+
+1732974542 c:\users\manu y char\desktop\proyectofinal final 3.2\archivocomanda.h
+	<cstring>
+	"Comanda.h"
+	<cstring>
+	"Comanda.h"
+
+1732996293 c:\users\manu y char\desktop\proyectofinal final 3.2\mesa.h
+	"Producto.h"
+	"Producto.h"
+
+1732710967 source:c:\users\manu y char\desktop\proyectofinal final 3.2\archivoempleados.cpp
+	<iostream>
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	<iostream>
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+
+1732710831 c:\users\manu y char\desktop\proyectofinal final 3.2\empleado.h
+	"Persona.h"
+	"Persona.h"
+
+1732710457 c:\users\manu y char\desktop\proyectofinal final 3.2\persona.h
+	<cstring>
+	<iostream>
+	<cstring>
+	<iostream>
+
+1732710931 c:\users\manu y char\desktop\proyectofinal final 3.2\archivoempleados.h
+	"Empleado.h"
+	"Empleado.h"
+
+1733160105 source:c:\users\manu y char\desktop\proyectofinal final 3.2\archivomesas.cpp
+	"Mesa.h"
+	"Producto.h"
+	"ArchivoMesas.h"
+	"ArchivoProductos.h"
+	<cstring>
+	"Mesa.h"
+	"Producto.h"
+	"ArchivoMesas.h"
+	"ArchivoProductos.h"
+	<cstring>
+
+1732791352 c:\users\manu y char\desktop\proyectofinal final 3.2\archivomesas.h
+	"Mesa.h"
+	"Producto.h"
+	<cstring>
+	"Mesa.h"
+	"Producto.h"
+	<cstring>
+
+1732790717 c:\users\manu y char\desktop\proyectofinal final 3.2\archivoproductos.h
+	<cstring>
+	<cstring>
+
+1732977085 source:c:\users\manu y char\desktop\proyectofinal final 3.2\archivoproductos.cpp
+	<iostream>
+	"ArchivoProductos.h"
+	"Producto.h"
+	<iostream>
+	"ArchivoProductos.h"
+	"Producto.h"
+
+1732731845 source:c:\users\manu y char\desktop\proyectofinal final 3.2\archivoreservas.cpp
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+
+1732731947 c:\users\manu y char\desktop\proyectofinal final 3.2\reserva.h
+	"Fecha.h"
+	"Hora.h"
+	"Fecha.h"
+	"Hora.h"
+
+1732727464 c:\users\manu y char\desktop\proyectofinal final 3.2\fecha.h
+	<iostream>
+	<chrono>
+	<ctime>
+	<iostream>
+	<chrono>
+	<ctime>
+
+1732730889 c:\users\manu y char\desktop\proyectofinal final 3.2\hora.h
+	<iostream>
+	<iostream>
+
+1732725872 c:\users\manu y char\desktop\proyectofinal final 3.2\archivoreservas.h
+	"Reserva.h"
+	<cstring>
+	"Reserva.h"
+	<cstring>
+
+1732723407 source:c:\users\manu y char\desktop\proyectofinal final 3.2\cliente.cpp
+	<iostream>
+	"Persona.h"
+	"Cliente.h"
+	<iostream>
+	"Persona.h"
+	"Cliente.h"
+
+1732710674 c:\users\manu y char\desktop\proyectofinal final 3.2\cliente.h
+	"Persona.h"
+	"Persona.h"
+
+1732978261 source:c:\users\manu y char\desktop\proyectofinal final 3.2\comanda.cpp
+	<iostream>
+	"Comanda.h"
+	"ArchivoProductos.h"
+	<iostream>
+	"Comanda.h"
+	"ArchivoProductos.h"
+
+1732710831 source:c:\users\manu y char\desktop\proyectofinal final 3.2\empleado.cpp
+	<iostream>
+	"Persona.h"
+	"Empleado.h"
+	<iostream>
+	"Persona.h"
+	"Empleado.h"
+
+1732727464 source:c:\users\manu y char\desktop\proyectofinal final 3.2\fecha.cpp
+	<iostream>
+	"Fecha.h"
+	<iostream>
+	"Fecha.h"
+
+1732730905 source:c:\users\manu y char\desktop\proyectofinal final 3.2\hora.cpp
+	<iostream>
+	"Hora.h"
+	<iostream>
+	"Hora.h"
+
+1732973245 source:c:\users\manu y char\desktop\proyectofinal final 3.2\main.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	"ArchivoComanda.h"
+	"Comanda.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	"Hora.h"
+	"Mesa.h"
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	"ArchivoComanda.h"
+	"Comanda.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	"Hora.h"
+	"Mesa.h"
+
+1730828696 c:\users\manu y char\desktop\proyectofinal final 3.2\login.h
+	<iostream>
+	<string>
+	<iostream>
+	<string>
+
+1732973245 c:\users\manu y char\desktop\proyectofinal final 3.2\menues.h
+
+1733160287 source:c:\users\manu y char\desktop\proyectofinal final 3.2\menues.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	"ArchivoComanda.h"
+	"Comanda.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	"Mesa.h"
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	"ArchivoComanda.h"
+	"Comanda.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	"Mesa.h"
+
+1733159707 source:c:\users\manu y char\desktop\proyectofinal final 3.2\mesa.cpp
+	<iostream>
+	"Mesa.h"
+	<iostream>
+	"Mesa.h"
+
+1732716225 source:c:\users\manu y char\desktop\proyectofinal final 3.2\persona.cpp
+	<cstring>
+	<iostream>
+	"Persona.h"
+	<cstring>
+	<iostream>
+	"Persona.h"
+
+1732989752 source:c:\users\manu y char\desktop\proyectofinal final 3.2\producto.cpp
+	<iostream>
+	<cstring>
+	"Producto.h"
+	"ArchivoProductos.h"
+	<iostream>
+	<cstring>
+	"Producto.h"
+	"ArchivoProductos.h"
+
+1732732498 source:c:\users\manu y char\desktop\proyectofinal final 3.2\reserva.cpp
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+
+1732978087 source:c:\users\manu y char\desktop\proyectofinal final 3.6\archivocomanda.cpp
+	"Producto.h"
+	"Comanda.h"
+	"ArchivoComanda.h"
+	"Mesa.h"
+	<iostream>
+	"Producto.h"
+	"Comanda.h"
+	"ArchivoComanda.h"
+	"Mesa.h"
+	<iostream>
+
+1732989752 c:\users\manu y char\desktop\proyectofinal final 3.6\producto.h
+	<iostream>
+	<iostream>
+
+1732977379 c:\users\manu y char\desktop\proyectofinal final 3.6\comanda.h
+	<iostream>
+	<ctime>
+	"Producto.h"
+	"ArchivoComanda.h"
+	<iostream>
+	<ctime>
+	"Producto.h"
+	"ArchivoComanda.h"
+
+1732974542 c:\users\manu y char\desktop\proyectofinal final 3.6\archivocomanda.h
+	<cstring>
+	"Comanda.h"
+	<cstring>
+	"Comanda.h"
+
+1733167653 c:\users\manu y char\desktop\proyectofinal final 3.6\mesa.h
+	"Producto.h"
+	"Producto.h"
+
+1732710967 source:c:\users\manu y char\desktop\proyectofinal final 3.6\archivoempleados.cpp
+	<iostream>
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	<iostream>
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+
+1732710831 c:\users\manu y char\desktop\proyectofinal final 3.6\empleado.h
+	"Persona.h"
+	"Persona.h"
+
+1732710457 c:\users\manu y char\desktop\proyectofinal final 3.6\persona.h
+	<cstring>
+	<iostream>
+	<cstring>
+	<iostream>
+
+1732710931 c:\users\manu y char\desktop\proyectofinal final 3.6\archivoempleados.h
+	"Empleado.h"
+	"Empleado.h"
+
+1733164892 source:c:\users\manu y char\desktop\proyectofinal final 3.6\archivomesas.cpp
+	"Mesa.h"
+	"Producto.h"
+	"ArchivoMesas.h"
+	"ArchivoProductos.h"
+	<cstring>
+	"Mesa.h"
+	"Producto.h"
+	"ArchivoMesas.h"
+	"ArchivoProductos.h"
+	<cstring>
+
+1733164892 c:\users\manu y char\desktop\proyectofinal final 3.6\archivomesas.h
+	"Mesa.h"
+	"Producto.h"
+	<cstring>
+	"Mesa.h"
+	"Producto.h"
+	<cstring>
+
+1733164380 c:\users\manu y char\desktop\proyectofinal final 3.6\archivoproductos.h
+	<cstring>
+	<cstring>
+
+1733165347 source:c:\users\manu y char\desktop\proyectofinal final 3.6\archivoproductos.cpp
+	<iostream>
+	"ArchivoProductos.h"
+	"Producto.h"
+	<iostream>
+	"ArchivoProductos.h"
+	"Producto.h"
+
+1732731845 source:c:\users\manu y char\desktop\proyectofinal final 3.6\archivoreservas.cpp
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+
+1732731947 c:\users\manu y char\desktop\proyectofinal final 3.6\reserva.h
+	"Fecha.h"
+	"Hora.h"
+	"Fecha.h"
+	"Hora.h"
+
+1732727464 c:\users\manu y char\desktop\proyectofinal final 3.6\fecha.h
+	<iostream>
+	<chrono>
+	<ctime>
+	<iostream>
+	<chrono>
+	<ctime>
+
+1732730889 c:\users\manu y char\desktop\proyectofinal final 3.6\hora.h
+	<iostream>
+	<iostream>
+
+1732725872 c:\users\manu y char\desktop\proyectofinal final 3.6\archivoreservas.h
+	"Reserva.h"
+	<cstring>
+	"Reserva.h"
+	<cstring>
+
+1732723407 source:c:\users\manu y char\desktop\proyectofinal final 3.6\cliente.cpp
+	<iostream>
+	"Persona.h"
+	"Cliente.h"
+	<iostream>
+	"Persona.h"
+	"Cliente.h"
+
+1732710674 c:\users\manu y char\desktop\proyectofinal final 3.6\cliente.h
+	"Persona.h"
+	"Persona.h"
+
+1732978261 source:c:\users\manu y char\desktop\proyectofinal final 3.6\comanda.cpp
+	<iostream>
+	"Comanda.h"
+	"ArchivoProductos.h"
+	<iostream>
+	"Comanda.h"
+	"ArchivoProductos.h"
+
+1732710831 source:c:\users\manu y char\desktop\proyectofinal final 3.6\empleado.cpp
+	<iostream>
+	"Persona.h"
+	"Empleado.h"
+	<iostream>
+	"Persona.h"
+	"Empleado.h"
+
+1732727464 source:c:\users\manu y char\desktop\proyectofinal final 3.6\fecha.cpp
+	<iostream>
+	"Fecha.h"
+	<iostream>
+	"Fecha.h"
+
+1732730905 source:c:\users\manu y char\desktop\proyectofinal final 3.6\hora.cpp
+	<iostream>
+	"Hora.h"
+	<iostream>
+	"Hora.h"
+
+1733163510 source:c:\users\manu y char\desktop\proyectofinal final 3.6\main.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	"ArchivoComanda.h"
+	"Comanda.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	"Hora.h"
+	"Mesa.h"
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	"ArchivoComanda.h"
+	"Comanda.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	"Hora.h"
+	"Mesa.h"
+
+1730828696 c:\users\manu y char\desktop\proyectofinal final 3.6\login.h
+	<iostream>
+	<string>
+	<iostream>
+	<string>
+
+1732973245 c:\users\manu y char\desktop\proyectofinal final 3.6\menues.h
+
+1733167768 source:c:\users\manu y char\desktop\proyectofinal final 3.6\menues.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	"ArchivoComanda.h"
+	"Comanda.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	"Mesa.h"
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	"ArchivoComanda.h"
+	"Comanda.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	"Mesa.h"
+
+1733167653 source:c:\users\manu y char\desktop\proyectofinal final 3.6\mesa.cpp
+	<iostream>
+	"Mesa.h"
+	<iostream>
+	"Mesa.h"
+
+1732716225 source:c:\users\manu y char\desktop\proyectofinal final 3.6\persona.cpp
+	<cstring>
+	<iostream>
+	"Persona.h"
+	<cstring>
+	<iostream>
+	"Persona.h"
+
+1733166796 source:c:\users\manu y char\desktop\proyectofinal final 3.6\producto.cpp
+	<iostream>
+	<cstring>
+	"Producto.h"
+	"ArchivoProductos.h"
+	<iostream>
+	<cstring>
+	"Producto.h"
+	"ArchivoProductos.h"
+
+1732732498 source:c:\users\manu y char\desktop\proyectofinal final 3.6\reserva.cpp
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+
+1732978087 source:c:\users\manu y char\desktop\proyectofinal final 3.8\archivocomanda.cpp
+	"Producto.h"
+	"Comanda.h"
+	"ArchivoComanda.h"
+	"Mesa.h"
+	<iostream>
+	"Producto.h"
+	"Comanda.h"
+	"ArchivoComanda.h"
+	"Mesa.h"
+	<iostream>
+
+1732989752 c:\users\manu y char\desktop\proyectofinal final 3.8\producto.h
+	<iostream>
+	<iostream>
+
+1733168516 c:\users\manu y char\desktop\proyectofinal final 3.8\comanda.h
+	<iostream>
+	<ctime>
+	"Producto.h"
+	"ArchivoComanda.h"
+	<iostream>
+	<ctime>
+	"Producto.h"
+	"ArchivoComanda.h"
+
+1732974542 c:\users\manu y char\desktop\proyectofinal final 3.8\archivocomanda.h
+	<cstring>
+	"Comanda.h"
+	<cstring>
+	"Comanda.h"
+
+1733167653 c:\users\manu y char\desktop\proyectofinal final 3.8\mesa.h
+	"Producto.h"
+	"Producto.h"
+
+1733181366 source:c:\users\manu y char\desktop\proyectofinal final 3.8\archivoempleados.cpp
+	<iostream>
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	<iostream>
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+
+1732710831 c:\users\manu y char\desktop\proyectofinal final 3.8\empleado.h
+	"Persona.h"
+	"Persona.h"
+
+1732710457 c:\users\manu y char\desktop\proyectofinal final 3.8\persona.h
+	<cstring>
+	<iostream>
+	<cstring>
+	<iostream>
+
+1733181383 c:\users\manu y char\desktop\proyectofinal final 3.8\archivoempleados.h
+	"Empleado.h"
+	"Empleado.h"
+
+1733169150 source:c:\users\manu y char\desktop\proyectofinal final 3.8\archivomesas.cpp
+	"Mesa.h"
+	"Producto.h"
+	"ArchivoMesas.h"
+	"ArchivoProductos.h"
+	<cstring>
+	"Mesa.h"
+	"Producto.h"
+	"ArchivoMesas.h"
+	"ArchivoProductos.h"
+	<cstring>
+
+1733164892 c:\users\manu y char\desktop\proyectofinal final 3.8\archivomesas.h
+	"Mesa.h"
+	"Producto.h"
+	<cstring>
+	"Mesa.h"
+	"Producto.h"
+	<cstring>
+
+1733164380 c:\users\manu y char\desktop\proyectofinal final 3.8\archivoproductos.h
+	<cstring>
+	<cstring>
+
+1733165347 source:c:\users\manu y char\desktop\proyectofinal final 3.8\archivoproductos.cpp
+	<iostream>
+	"ArchivoProductos.h"
+	"Producto.h"
+	<iostream>
+	"ArchivoProductos.h"
+	"Producto.h"
+
+1732731845 source:c:\users\manu y char\desktop\proyectofinal final 3.8\archivoreservas.cpp
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+
+1732731947 c:\users\manu y char\desktop\proyectofinal final 3.8\reserva.h
+	"Fecha.h"
+	"Hora.h"
+	"Fecha.h"
+	"Hora.h"
+
+1732727464 c:\users\manu y char\desktop\proyectofinal final 3.8\fecha.h
+	<iostream>
+	<chrono>
+	<ctime>
+	<iostream>
+	<chrono>
+	<ctime>
+
+1732730889 c:\users\manu y char\desktop\proyectofinal final 3.8\hora.h
+	<iostream>
+	<iostream>
+
+1732725872 c:\users\manu y char\desktop\proyectofinal final 3.8\archivoreservas.h
+	"Reserva.h"
+	<cstring>
+	"Reserva.h"
+	<cstring>
+
+1732723407 source:c:\users\manu y char\desktop\proyectofinal final 3.8\cliente.cpp
+	<iostream>
+	"Persona.h"
+	"Cliente.h"
+	<iostream>
+	"Persona.h"
+	"Cliente.h"
+
+1732710674 c:\users\manu y char\desktop\proyectofinal final 3.8\cliente.h
+	"Persona.h"
+	"Persona.h"
+
+1732978261 source:c:\users\manu y char\desktop\proyectofinal final 3.8\comanda.cpp
+	<iostream>
+	"Comanda.h"
+	"ArchivoProductos.h"
+	<iostream>
+	"Comanda.h"
+	"ArchivoProductos.h"
+
+1732710831 source:c:\users\manu y char\desktop\proyectofinal final 3.8\empleado.cpp
+	<iostream>
+	"Persona.h"
+	"Empleado.h"
+	<iostream>
+	"Persona.h"
+	"Empleado.h"
+
+1732727464 source:c:\users\manu y char\desktop\proyectofinal final 3.8\fecha.cpp
+	<iostream>
+	"Fecha.h"
+	<iostream>
+	"Fecha.h"
+
+1732730905 source:c:\users\manu y char\desktop\proyectofinal final 3.8\hora.cpp
+	<iostream>
+	"Hora.h"
+	<iostream>
+	"Hora.h"
+
+1733176964 source:c:\users\manu y char\desktop\proyectofinal final 3.8\main.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	"ArchivoComanda.h"
+	"Comanda.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	"Hora.h"
+	"Mesa.h"
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	"ArchivoComanda.h"
+	"Comanda.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	"Hora.h"
+	"Mesa.h"
+
+1730828696 c:\users\manu y char\desktop\proyectofinal final 3.8\login.h
+	<iostream>
+	<string>
+	<iostream>
+	<string>
+
+1733177344 c:\users\manu y char\desktop\proyectofinal final 3.8\menues.h
+
+1733182199 source:c:\users\manu y char\desktop\proyectofinal final 3.8\menues.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	"ArchivoComanda.h"
+	"Comanda.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	"Mesa.h"
+	"Reportes.h"
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	"ArchivoComanda.h"
+	"Comanda.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	"Mesa.h"
+	"Reportes.h"
+
+1733169150 source:c:\users\manu y char\desktop\proyectofinal final 3.8\mesa.cpp
+	<iostream>
+	"Mesa.h"
+	<iostream>
+	"Mesa.h"
+
+1732716225 source:c:\users\manu y char\desktop\proyectofinal final 3.8\persona.cpp
+	<cstring>
+	<iostream>
+	"Persona.h"
+	<cstring>
+	<iostream>
+	"Persona.h"
+
+1733166796 source:c:\users\manu y char\desktop\proyectofinal final 3.8\producto.cpp
+	<iostream>
+	<cstring>
+	"Producto.h"
+	"ArchivoProductos.h"
+	<iostream>
+	<cstring>
+	"Producto.h"
+	"ArchivoProductos.h"
+
+1732732498 source:c:\users\manu y char\desktop\proyectofinal final 3.8\reserva.cpp
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+
+1733181115 source:c:\users\manu y char\desktop\proyectofinal final 3.8\reportes.cpp
+	<iostream>
+	"Reportes.h"
+	"ArchivoEmpleados.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	<ctime>
+	<cstring>
+	<iostream>
+	"Reportes.h"
+	"ArchivoEmpleados.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	<ctime>
+	<cstring>
+
+1733182199 c:\users\manu y char\desktop\proyectofinal final 3.8\reportes.h
+	<iostream>
+	<iostream>
+
+1732978087 source:c:\users\manu y char\desktop\proyectofinal final 4.0\archivocomanda.cpp
+	"Producto.h"
+	"Comanda.h"
+	"ArchivoComanda.h"
+	"Mesa.h"
+	<iostream>
+	"Producto.h"
+	"Comanda.h"
+	"ArchivoComanda.h"
+	"Mesa.h"
+	<iostream>
+
+1732989752 c:\users\manu y char\desktop\proyectofinal final 4.0\producto.h
+	<iostream>
+	<iostream>
+
+1733168516 c:\users\manu y char\desktop\proyectofinal final 4.0\comanda.h
+	<iostream>
+	<ctime>
+	"Producto.h"
+	"ArchivoComanda.h"
+	<iostream>
+	<ctime>
+	"Producto.h"
+	"ArchivoComanda.h"
+
+1732974542 c:\users\manu y char\desktop\proyectofinal final 4.0\archivocomanda.h
+	<cstring>
+	"Comanda.h"
+	<cstring>
+	"Comanda.h"
+
+1733167653 c:\users\manu y char\desktop\proyectofinal final 4.0\mesa.h
+	"Producto.h"
+	"Producto.h"
+
+1733181366 source:c:\users\manu y char\desktop\proyectofinal final 4.0\archivoempleados.cpp
+	<iostream>
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	<iostream>
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+
+1732710831 c:\users\manu y char\desktop\proyectofinal final 4.0\empleado.h
+	"Persona.h"
+	"Persona.h"
+
+1732710457 c:\users\manu y char\desktop\proyectofinal final 4.0\persona.h
+	<cstring>
+	<iostream>
+	<cstring>
+	<iostream>
+
+1733181383 c:\users\manu y char\desktop\proyectofinal final 4.0\archivoempleados.h
+	"Empleado.h"
+	"Empleado.h"
+
+1733184782 source:c:\users\manu y char\desktop\proyectofinal final 4.0\archivomesas.cpp
+	"Mesa.h"
+	"Producto.h"
+	"ArchivoMesas.h"
+	"ArchivoProductos.h"
+	"Reportes.h"
+	<cstring>
+	"Mesa.h"
+	"Producto.h"
+	"ArchivoMesas.h"
+	"ArchivoProductos.h"
+	"Reportes.h"
+	<cstring>
+
+1733164892 c:\users\manu y char\desktop\proyectofinal final 4.0\archivomesas.h
+	"Mesa.h"
+	"Producto.h"
+	<cstring>
+	"Mesa.h"
+	"Producto.h"
+	<cstring>
+
+1733164380 c:\users\manu y char\desktop\proyectofinal final 4.0\archivoproductos.h
+	<cstring>
+	<cstring>
+
+1733165347 source:c:\users\manu y char\desktop\proyectofinal final 4.0\archivoproductos.cpp
+	<iostream>
+	"ArchivoProductos.h"
+	"Producto.h"
+	<iostream>
+	"ArchivoProductos.h"
+	"Producto.h"
+
+1732731845 source:c:\users\manu y char\desktop\proyectofinal final 4.0\archivoreservas.cpp
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+
+1732731947 c:\users\manu y char\desktop\proyectofinal final 4.0\reserva.h
+	"Fecha.h"
+	"Hora.h"
+	"Fecha.h"
+	"Hora.h"
+
+1732727464 c:\users\manu y char\desktop\proyectofinal final 4.0\fecha.h
+	<iostream>
+	<chrono>
+	<ctime>
+	<iostream>
+	<chrono>
+	<ctime>
+
+1732730889 c:\users\manu y char\desktop\proyectofinal final 4.0\hora.h
+	<iostream>
+	<iostream>
+
+1732725872 c:\users\manu y char\desktop\proyectofinal final 4.0\archivoreservas.h
+	"Reserva.h"
+	<cstring>
+	"Reserva.h"
+	<cstring>
+
+1732723407 source:c:\users\manu y char\desktop\proyectofinal final 4.0\cliente.cpp
+	<iostream>
+	"Persona.h"
+	"Cliente.h"
+	<iostream>
+	"Persona.h"
+	"Cliente.h"
+
+1732710674 c:\users\manu y char\desktop\proyectofinal final 4.0\cliente.h
+	"Persona.h"
+	"Persona.h"
+
+1732978261 source:c:\users\manu y char\desktop\proyectofinal final 4.0\comanda.cpp
+	<iostream>
+	"Comanda.h"
+	"ArchivoProductos.h"
+	<iostream>
+	"Comanda.h"
+	"ArchivoProductos.h"
+
+1732710831 source:c:\users\manu y char\desktop\proyectofinal final 4.0\empleado.cpp
+	<iostream>
+	"Persona.h"
+	"Empleado.h"
+	<iostream>
+	"Persona.h"
+	"Empleado.h"
+
+1732727464 source:c:\users\manu y char\desktop\proyectofinal final 4.0\fecha.cpp
+	<iostream>
+	"Fecha.h"
+	<iostream>
+	"Fecha.h"
+
+1732730905 source:c:\users\manu y char\desktop\proyectofinal final 4.0\hora.cpp
+	<iostream>
+	"Hora.h"
+	<iostream>
+	"Hora.h"
+
+1733176964 source:c:\users\manu y char\desktop\proyectofinal final 4.0\main.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	"ArchivoComanda.h"
+	"Comanda.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	"Hora.h"
+	"Mesa.h"
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	"ArchivoComanda.h"
+	"Comanda.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	"Hora.h"
+	"Mesa.h"
+
+1730828696 c:\users\manu y char\desktop\proyectofinal final 4.0\login.h
+	<iostream>
+	<string>
+	<iostream>
+	<string>
+
+1733177344 c:\users\manu y char\desktop\proyectofinal final 4.0\menues.h
+
+1733169150 source:c:\users\manu y char\desktop\proyectofinal final 4.0\mesa.cpp
+	<iostream>
+	"Mesa.h"
+	<iostream>
+	"Mesa.h"
+
+1732716225 source:c:\users\manu y char\desktop\proyectofinal final 4.0\persona.cpp
+	<cstring>
+	<iostream>
+	"Persona.h"
+	<cstring>
+	<iostream>
+	"Persona.h"
+
+1733166796 source:c:\users\manu y char\desktop\proyectofinal final 4.0\producto.cpp
+	<iostream>
+	<cstring>
+	"Producto.h"
+	"ArchivoProductos.h"
+	<iostream>
+	<cstring>
+	"Producto.h"
+	"ArchivoProductos.h"
+
+1732732498 source:c:\users\manu y char\desktop\proyectofinal final 4.0\reserva.cpp
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+
+1733184782 source:c:\users\manu y char\desktop\proyectofinal final 4.0\reportes.cpp
+	<iostream>
+	<fstream>
+	"Reportes.h"
+	"ArchivoEmpleados.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	<ctime>
+	<cstring>
+	<iomanip>
+	<iostream>
+	<fstream>
+	"Reportes.h"
+	"ArchivoEmpleados.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	<ctime>
+	<cstring>
+	<iomanip>
+
+1733184191 c:\users\manu y char\desktop\proyectofinal final 4.0\reportes.h
+	<iostream>
+	<iostream>
+
+1733182817 source:c:\users\manu y char\desktop\proyectofinal final 4.0\menues.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	"ArchivoComanda.h"
+	"Comanda.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	"Mesa.h"
+	"Reportes.h"
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	"ArchivoComanda.h"
+	"Comanda.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	"Mesa.h"
+	"Reportes.h"
+
+1732978087 source:c:\users\manu y char\desktop\proyectofinal final 4.2\archivocomanda.cpp
+	"Producto.h"
+	"Comanda.h"
+	"ArchivoComanda.h"
+	"Mesa.h"
+	<iostream>
+	"Producto.h"
+	"Comanda.h"
+	"ArchivoComanda.h"
+	"Mesa.h"
+	<iostream>
+
+1732989752 c:\users\manu y char\desktop\proyectofinal final 4.2\producto.h
+	<iostream>
+	<iostream>
+
+1733168516 c:\users\manu y char\desktop\proyectofinal final 4.2\comanda.h
+	<iostream>
+	<ctime>
+	"Producto.h"
+	"ArchivoComanda.h"
+	<iostream>
+	<ctime>
+	"Producto.h"
+	"ArchivoComanda.h"
+
+1732974542 c:\users\manu y char\desktop\proyectofinal final 4.2\archivocomanda.h
+	<cstring>
+	"Comanda.h"
+	<cstring>
+	"Comanda.h"
+
+1733167653 c:\users\manu y char\desktop\proyectofinal final 4.2\mesa.h
+	"Producto.h"
+	"Producto.h"
+
+1733181366 source:c:\users\manu y char\desktop\proyectofinal final 4.2\archivoempleados.cpp
+	<iostream>
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	<iostream>
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+
+1732710831 c:\users\manu y char\desktop\proyectofinal final 4.2\empleado.h
+	"Persona.h"
+	"Persona.h"
+
+1732710457 c:\users\manu y char\desktop\proyectofinal final 4.2\persona.h
+	<cstring>
+	<iostream>
+	<cstring>
+	<iostream>
+
+1733181383 c:\users\manu y char\desktop\proyectofinal final 4.2\archivoempleados.h
+	"Empleado.h"
+	"Empleado.h"
+
+1733184782 source:c:\users\manu y char\desktop\proyectofinal final 4.2\archivomesas.cpp
+	"Mesa.h"
+	"Producto.h"
+	"ArchivoMesas.h"
+	"ArchivoProductos.h"
+	"Reportes.h"
+	<cstring>
+	"Mesa.h"
+	"Producto.h"
+	"ArchivoMesas.h"
+	"ArchivoProductos.h"
+	"Reportes.h"
+	<cstring>
+
+1733164892 c:\users\manu y char\desktop\proyectofinal final 4.2\archivomesas.h
+	"Mesa.h"
+	"Producto.h"
+	<cstring>
+	"Mesa.h"
+	"Producto.h"
+	<cstring>
+
+1733164380 c:\users\manu y char\desktop\proyectofinal final 4.2\archivoproductos.h
+	<cstring>
+	<cstring>
+
+1733184191 c:\users\manu y char\desktop\proyectofinal final 4.2\reportes.h
+	<iostream>
+	<iostream>
+
+1733165347 source:c:\users\manu y char\desktop\proyectofinal final 4.2\archivoproductos.cpp
+	<iostream>
+	"ArchivoProductos.h"
+	"Producto.h"
+	<iostream>
+	"ArchivoProductos.h"
+	"Producto.h"
+
+1732731845 source:c:\users\manu y char\desktop\proyectofinal final 4.2\archivoreservas.cpp
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+
+1732731947 c:\users\manu y char\desktop\proyectofinal final 4.2\reserva.h
+	"Fecha.h"
+	"Hora.h"
+	"Fecha.h"
+	"Hora.h"
+
+1732727464 c:\users\manu y char\desktop\proyectofinal final 4.2\fecha.h
+	<iostream>
+	<chrono>
+	<ctime>
+	<iostream>
+	<chrono>
+	<ctime>
+
+1732730889 c:\users\manu y char\desktop\proyectofinal final 4.2\hora.h
+	<iostream>
+	<iostream>
+
+1732725872 c:\users\manu y char\desktop\proyectofinal final 4.2\archivoreservas.h
+	"Reserva.h"
+	<cstring>
+	"Reserva.h"
+	<cstring>
+
+1732723407 source:c:\users\manu y char\desktop\proyectofinal final 4.2\cliente.cpp
+	<iostream>
+	"Persona.h"
+	"Cliente.h"
+	<iostream>
+	"Persona.h"
+	"Cliente.h"
+
+1732710674 c:\users\manu y char\desktop\proyectofinal final 4.2\cliente.h
+	"Persona.h"
+	"Persona.h"
+
+1732978261 source:c:\users\manu y char\desktop\proyectofinal final 4.2\comanda.cpp
+	<iostream>
+	"Comanda.h"
+	"ArchivoProductos.h"
+	<iostream>
+	"Comanda.h"
+	"ArchivoProductos.h"
+
+1732710831 source:c:\users\manu y char\desktop\proyectofinal final 4.2\empleado.cpp
+	<iostream>
+	"Persona.h"
+	"Empleado.h"
+	<iostream>
+	"Persona.h"
+	"Empleado.h"
+
+1732727464 source:c:\users\manu y char\desktop\proyectofinal final 4.2\fecha.cpp
+	<iostream>
+	"Fecha.h"
+	<iostream>
+	"Fecha.h"
+
+1732730905 source:c:\users\manu y char\desktop\proyectofinal final 4.2\hora.cpp
+	<iostream>
+	"Hora.h"
+	<iostream>
+	"Hora.h"
+
+1733176964 source:c:\users\manu y char\desktop\proyectofinal final 4.2\main.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	"ArchivoComanda.h"
+	"Comanda.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	"Hora.h"
+	"Mesa.h"
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	"ArchivoComanda.h"
+	"Comanda.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	"Hora.h"
+	"Mesa.h"
+
+1730828696 c:\users\manu y char\desktop\proyectofinal final 4.2\login.h
+	<iostream>
+	<string>
+	<iostream>
+	<string>
+
+1733177344 c:\users\manu y char\desktop\proyectofinal final 4.2\menues.h
+
+1733186970 source:c:\users\manu y char\desktop\proyectofinal final 4.2\menues.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	"ArchivoComanda.h"
+	"Comanda.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	"Mesa.h"
+	"Reportes.h"
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	"ArchivoComanda.h"
+	"Comanda.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	"Mesa.h"
+	"Reportes.h"
+
+1733169150 source:c:\users\manu y char\desktop\proyectofinal final 4.2\mesa.cpp
+	<iostream>
+	"Mesa.h"
+	<iostream>
+	"Mesa.h"
+
+1732716225 source:c:\users\manu y char\desktop\proyectofinal final 4.2\persona.cpp
+	<cstring>
+	<iostream>
+	"Persona.h"
+	<cstring>
+	<iostream>
+	"Persona.h"
+
+1733166796 source:c:\users\manu y char\desktop\proyectofinal final 4.2\producto.cpp
+	<iostream>
+	<cstring>
+	"Producto.h"
+	"ArchivoProductos.h"
+	<iostream>
+	<cstring>
+	"Producto.h"
+	"ArchivoProductos.h"
+
+1732732498 source:c:\users\manu y char\desktop\proyectofinal final 4.2\reserva.cpp
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+
+1733185740 source:c:\users\manu y char\desktop\proyectofinal final 4.2\reportes.cpp
+	<iostream>
+	<fstream>
+	"Reportes.h"
+	"ArchivoEmpleados.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	<ctime>
+	<cstring>
+	<iomanip>
+	<iostream>
+	<fstream>
+	"Reportes.h"
+	"ArchivoEmpleados.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	<ctime>
+	<cstring>
+	<iomanip>
+
+1732978087 source:c:\users\analia\desktop\proyectofinal final 4.4\archivocomanda.cpp
+	"Producto.h"
+	"Comanda.h"
+	"ArchivoComanda.h"
+	"Mesa.h"
+	<iostream>
+	"Producto.h"
+	"Comanda.h"
+	"ArchivoComanda.h"
+	"Mesa.h"
+	<iostream>
+
+1732989752 c:\users\analia\desktop\proyectofinal final 4.4\producto.h
+	<iostream>
+	<iostream>
+
+1733168516 c:\users\analia\desktop\proyectofinal final 4.4\comanda.h
+	<iostream>
+	<ctime>
+	"Producto.h"
+	"ArchivoComanda.h"
+	<iostream>
+	<ctime>
+	"Producto.h"
+	"ArchivoComanda.h"
+
+1732974542 c:\users\analia\desktop\proyectofinal final 4.4\archivocomanda.h
+	<cstring>
+	"Comanda.h"
+	<cstring>
+	"Comanda.h"
+
+1733167653 c:\users\analia\desktop\proyectofinal final 4.4\mesa.h
+	"Producto.h"
+	"Producto.h"
+
+1733181366 source:c:\users\analia\desktop\proyectofinal final 4.4\archivoempleados.cpp
+	<iostream>
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	<iostream>
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+
+1732710831 c:\users\analia\desktop\proyectofinal final 4.4\empleado.h
+	"Persona.h"
+	"Persona.h"
+
+1732710457 c:\users\analia\desktop\proyectofinal final 4.4\persona.h
+	<cstring>
+	<iostream>
+	<cstring>
+	<iostream>
+
+1733181383 c:\users\analia\desktop\proyectofinal final 4.4\archivoempleados.h
+	"Empleado.h"
+	"Empleado.h"
+
+1733184782 source:c:\users\analia\desktop\proyectofinal final 4.4\archivomesas.cpp
+	"Mesa.h"
+	"Producto.h"
+	"ArchivoMesas.h"
+	"ArchivoProductos.h"
+	"Reportes.h"
+	<cstring>
+	"Mesa.h"
+	"Producto.h"
+	"ArchivoMesas.h"
+	"ArchivoProductos.h"
+	"Reportes.h"
+	<cstring>
+
+1733164892 c:\users\analia\desktop\proyectofinal final 4.4\archivomesas.h
+	"Mesa.h"
+	"Producto.h"
+	<cstring>
+	"Mesa.h"
+	"Producto.h"
+	<cstring>
+
+1733164380 c:\users\analia\desktop\proyectofinal final 4.4\archivoproductos.h
+	<cstring>
+	<cstring>
+
+1733184191 c:\users\analia\desktop\proyectofinal final 4.4\reportes.h
+	<iostream>
+	<iostream>
+
+1733165347 source:c:\users\analia\desktop\proyectofinal final 4.4\archivoproductos.cpp
+	<iostream>
+	"ArchivoProductos.h"
+	"Producto.h"
+	<iostream>
+	"ArchivoProductos.h"
+	"Producto.h"
+
+1732731845 source:c:\users\analia\desktop\proyectofinal final 4.4\archivoreservas.cpp
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+
+1732731947 c:\users\analia\desktop\proyectofinal final 4.4\reserva.h
+	"Fecha.h"
+	"Hora.h"
+	"Fecha.h"
+	"Hora.h"
+
+1732727464 c:\users\analia\desktop\proyectofinal final 4.4\fecha.h
+	<iostream>
+	<chrono>
+	<ctime>
+	<iostream>
+	<chrono>
+	<ctime>
+
+1732730889 c:\users\analia\desktop\proyectofinal final 4.4\hora.h
+	<iostream>
+	<iostream>
+
+1732725872 c:\users\analia\desktop\proyectofinal final 4.4\archivoreservas.h
+	"Reserva.h"
+	<cstring>
+	"Reserva.h"
+	<cstring>
+
+1732723407 source:c:\users\analia\desktop\proyectofinal final 4.4\cliente.cpp
+	<iostream>
+	"Persona.h"
+	"Cliente.h"
+	<iostream>
+	"Persona.h"
+	"Cliente.h"
+
+1732710674 c:\users\analia\desktop\proyectofinal final 4.4\cliente.h
+	"Persona.h"
+	"Persona.h"
+
+1732978261 source:c:\users\analia\desktop\proyectofinal final 4.4\comanda.cpp
+	<iostream>
+	"Comanda.h"
+	"ArchivoProductos.h"
+	<iostream>
+	"Comanda.h"
+	"ArchivoProductos.h"
+
+1732710831 source:c:\users\analia\desktop\proyectofinal final 4.4\empleado.cpp
+	<iostream>
+	"Persona.h"
+	"Empleado.h"
+	<iostream>
+	"Persona.h"
+	"Empleado.h"
+
+1732727464 source:c:\users\analia\desktop\proyectofinal final 4.4\fecha.cpp
+	<iostream>
+	"Fecha.h"
+	<iostream>
+	"Fecha.h"
+
+1732730905 source:c:\users\analia\desktop\proyectofinal final 4.4\hora.cpp
+	<iostream>
+	"Hora.h"
+	<iostream>
+	"Hora.h"
+
+1733176964 source:c:\users\analia\desktop\proyectofinal final 4.4\main.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	"ArchivoComanda.h"
+	"Comanda.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	"Hora.h"
+	"Mesa.h"
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	"ArchivoComanda.h"
+	"Comanda.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	"Hora.h"
+	"Mesa.h"
+
+1730828696 c:\users\analia\desktop\proyectofinal final 4.4\login.h
+	<iostream>
+	<string>
+	<iostream>
+	<string>
+
+1733177344 c:\users\analia\desktop\proyectofinal final 4.4\menues.h
+
+1733186970 source:c:\users\analia\desktop\proyectofinal final 4.4\menues.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	"ArchivoComanda.h"
+	"Comanda.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	"Mesa.h"
+	"Reportes.h"
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	"ArchivoComanda.h"
+	"Comanda.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	"Mesa.h"
+	"Reportes.h"
+
+1733169150 source:c:\users\analia\desktop\proyectofinal final 4.4\mesa.cpp
+	<iostream>
+	"Mesa.h"
+	<iostream>
+	"Mesa.h"
+
+1732716225 source:c:\users\analia\desktop\proyectofinal final 4.4\persona.cpp
+	<cstring>
+	<iostream>
+	"Persona.h"
+	<cstring>
+	<iostream>
+	"Persona.h"
+
+1733166796 source:c:\users\analia\desktop\proyectofinal final 4.4\producto.cpp
+	<iostream>
+	<cstring>
+	"Producto.h"
+	"ArchivoProductos.h"
+	<iostream>
+	<cstring>
+	"Producto.h"
+	"ArchivoProductos.h"
+
+1733187003 source:c:\users\analia\desktop\proyectofinal final 4.4\reportes.cpp
+	<iostream>
+	<fstream>
+	"Reportes.h"
+	"ArchivoEmpleados.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	<ctime>
+	<cstring>
+	<iomanip>
+	<iostream>
+	<fstream>
+	"Reportes.h"
+	"ArchivoEmpleados.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	<ctime>
+	<cstring>
+	<iomanip>
+
+1732732498 source:c:\users\analia\desktop\proyectofinal final 4.4\reserva.cpp
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+
+1732978087 source:c:\users\analia\desktop\proyectofinal final 4.4 -\archivocomanda.cpp
+	"Producto.h"
+	"Comanda.h"
+	"ArchivoComanda.h"
+	"Mesa.h"
+	<iostream>
+	"Producto.h"
+	"Comanda.h"
+	"ArchivoComanda.h"
+	"Mesa.h"
+	<iostream>
+
+1732989752 c:\users\analia\desktop\proyectofinal final 4.4 -\producto.h
+	<iostream>
+	<iostream>
+
+1733168516 c:\users\analia\desktop\proyectofinal final 4.4 -\comanda.h
+	<iostream>
+	<ctime>
+	"Producto.h"
+	"ArchivoComanda.h"
+	<iostream>
+	<ctime>
+	"Producto.h"
+	"ArchivoComanda.h"
+
+1732974542 c:\users\analia\desktop\proyectofinal final 4.4 -\archivocomanda.h
+	<cstring>
+	"Comanda.h"
+	<cstring>
+	"Comanda.h"
+
+1733167653 c:\users\analia\desktop\proyectofinal final 4.4 -\mesa.h
+	"Producto.h"
+	"Producto.h"
+
+1733763591 source:c:\users\analia\desktop\proyectofinal final 4.4 -\archivoempleados.cpp
+	<iostream>
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+
+1733763510 c:\users\analia\desktop\proyectofinal final 4.4 -\empleado.h
+	"Persona.h"
+
+1732710457 c:\users\analia\desktop\proyectofinal final 4.4 -\persona.h
+	<cstring>
+	<iostream>
+	<cstring>
+	<iostream>
+
+1733181383 c:\users\analia\desktop\proyectofinal final 4.4 -\archivoempleados.h
+	"Empleado.h"
+	"Empleado.h"
+
+1733184782 source:c:\users\analia\desktop\proyectofinal final 4.4 -\archivomesas.cpp
+	"Mesa.h"
+	"Producto.h"
+	"ArchivoMesas.h"
+	"ArchivoProductos.h"
+	"Reportes.h"
+	<cstring>
+	"Mesa.h"
+	"Producto.h"
+	"ArchivoMesas.h"
+	"ArchivoProductos.h"
+	"Reportes.h"
+	<cstring>
+
+1733164892 c:\users\analia\desktop\proyectofinal final 4.4 -\archivomesas.h
+	"Mesa.h"
+	"Producto.h"
+	<cstring>
+	"Mesa.h"
+	"Producto.h"
+	<cstring>
+
+1733164380 c:\users\analia\desktop\proyectofinal final 4.4 -\archivoproductos.h
+	<cstring>
+	<cstring>
+
+1733184191 c:\users\analia\desktop\proyectofinal final 4.4 -\reportes.h
+	<iostream>
+	<iostream>
+
+1733751530 source:c:\users\analia\desktop\proyectofinal final 4.4 -\archivoproductos.cpp
+	<iostream>
+	"ArchivoProductos.h"
+	"Producto.h"
+
+1733759116 source:c:\users\analia\desktop\proyectofinal final 4.4 -\archivoreservas.cpp
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+	"Fecha.h"
+
+1733753436 c:\users\analia\desktop\proyectofinal final 4.4 -\reserva.h
+	"Fecha.h"
+	"Hora.h"
+
+1733710204 c:\users\analia\desktop\proyectofinal final 4.4 -\fecha.h
+	<iostream>
+	<chrono>
+	<ctime>
+	<iostream>
+	<chrono>
+	<ctime>
+
+1732730889 c:\users\analia\desktop\proyectofinal final 4.4 -\hora.h
+	<iostream>
+	<iostream>
+
+1733544186 c:\users\analia\desktop\proyectofinal final 4.4 -\archivoreservas.h
+	"Reserva.h"
+	<cstring>
+	"Reserva.h"
+	<cstring>
+
+1732723407 source:c:\users\analia\desktop\proyectofinal final 4.4 -\cliente.cpp
+	<iostream>
+	"Persona.h"
+	"Cliente.h"
+	<iostream>
+	"Persona.h"
+	"Cliente.h"
+
+1732710674 c:\users\analia\desktop\proyectofinal final 4.4 -\cliente.h
+	"Persona.h"
+	"Persona.h"
+
+1732978261 source:c:\users\analia\desktop\proyectofinal final 4.4 -\comanda.cpp
+	<iostream>
+	"Comanda.h"
+	"ArchivoProductos.h"
+	<iostream>
+	"Comanda.h"
+	"ArchivoProductos.h"
+
+1733763685 source:c:\users\analia\desktop\proyectofinal final 4.4 -\empleado.cpp
+	<iostream>
+	"Persona.h"
+	"Empleado.h"
+
+1733763007 source:c:\users\analia\desktop\proyectofinal final 4.4 -\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1732730905 source:c:\users\analia\desktop\proyectofinal final 4.4 -\hora.cpp
+	<iostream>
+	"Hora.h"
+	<iostream>
+	"Hora.h"
+
+1733176964 source:c:\users\analia\desktop\proyectofinal final 4.4 -\main.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	"ArchivoComanda.h"
+	"Comanda.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	"Hora.h"
+	"Mesa.h"
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	"ArchivoComanda.h"
+	"Comanda.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	"Hora.h"
+	"Mesa.h"
+
+1730828696 c:\users\analia\desktop\proyectofinal final 4.4 -\login.h
+	<iostream>
+	<string>
+	<iostream>
+	<string>
+
+1733495255 c:\users\analia\desktop\proyectofinal final 4.4 -\menues.h
+
+1733544286 source:c:\users\analia\desktop\proyectofinal final 4.4 -\menues.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	"ArchivoComanda.h"
+	"Comanda.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	"Mesa.h"
+	"Reportes.h"
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	"ArchivoComanda.h"
+	"Comanda.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	"Mesa.h"
+	"Reportes.h"
+
+1733169150 source:c:\users\analia\desktop\proyectofinal final 4.4 -\mesa.cpp
+	<iostream>
+	"Mesa.h"
+	<iostream>
+	"Mesa.h"
+
+1732716225 source:c:\users\analia\desktop\proyectofinal final 4.4 -\persona.cpp
+	<cstring>
+	<iostream>
+	"Persona.h"
+	<cstring>
+	<iostream>
+	"Persona.h"
+
+1733166796 source:c:\users\analia\desktop\proyectofinal final 4.4 -\producto.cpp
+	<iostream>
+	<cstring>
+	"Producto.h"
+	"ArchivoProductos.h"
+	<iostream>
+	<cstring>
+	"Producto.h"
+	"ArchivoProductos.h"
+
+1733187003 source:c:\users\analia\desktop\proyectofinal final 4.4 -\reportes.cpp
+	<iostream>
+	<fstream>
+	"Reportes.h"
+	"ArchivoEmpleados.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	<ctime>
+	<cstring>
+	<iomanip>
+	<iostream>
+	<fstream>
+	"Reportes.h"
+	"ArchivoEmpleados.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	<ctime>
+	<cstring>
+	<iomanip>
+
+1733757745 source:c:\users\analia\desktop\proyectofinal final 4.4 -\reserva.cpp
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+
+1732978088 source:c:\users\manu y char\desktop\proyectofinal_reservas_09-12\archivocomanda.cpp
+	"Producto.h"
+	"Comanda.h"
+	"ArchivoComanda.h"
+	"Mesa.h"
+	<iostream>
+
+1732989754 c:\users\manu y char\desktop\proyectofinal_reservas_09-12\producto.h
+	<iostream>
+
+1733168518 c:\users\manu y char\desktop\proyectofinal_reservas_09-12\comanda.h
+	<iostream>
+	<ctime>
+	"Producto.h"
+	"ArchivoComanda.h"
+
+1732974544 c:\users\manu y char\desktop\proyectofinal_reservas_09-12\archivocomanda.h
+	<cstring>
+	"Comanda.h"
+
+1733769184 c:\users\manu y char\desktop\proyectofinal_reservas_09-12\mesa.h
+	"Producto.h"
+
+1733763976 source:c:\users\manu y char\desktop\proyectofinal_reservas_09-12\archivoempleados.cpp
+	<iostream>
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+
+1733763512 c:\users\manu y char\desktop\proyectofinal_reservas_09-12\empleado.h
+	"Persona.h"
+
+1732710458 c:\users\manu y char\desktop\proyectofinal_reservas_09-12\persona.h
+	<cstring>
+	<iostream>
+
+1733181384 c:\users\manu y char\desktop\proyectofinal_reservas_09-12\archivoempleados.h
+	"Empleado.h"
+
+1733425740 source:c:\users\manu y char\desktop\proyectofinal_reservas_09-12\archivomesas.cpp
+	"Mesa.h"
+	"Producto.h"
+	"ArchivoMesas.h"
+	"ArchivoProductos.h"
+	"Reportes.h"
+	<cstring>
+
+1733164892 c:\users\manu y char\desktop\proyectofinal_reservas_09-12\archivomesas.h
+	"Mesa.h"
+	"Producto.h"
+	<cstring>
+
+1733164382 c:\users\manu y char\desktop\proyectofinal_reservas_09-12\archivoproductos.h
+	<cstring>
+
+1733184192 c:\users\manu y char\desktop\proyectofinal_reservas_09-12\reportes.h
+	<iostream>
+
+1733751532 source:c:\users\manu y char\desktop\proyectofinal_reservas_09-12\archivoproductos.cpp
+	<iostream>
+	"ArchivoProductos.h"
+	"Producto.h"
+
+1733759118 source:c:\users\manu y char\desktop\proyectofinal_reservas_09-12\archivoreservas.cpp
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+	"Fecha.h"
+
+1733753438 c:\users\manu y char\desktop\proyectofinal_reservas_09-12\reserva.h
+	"Fecha.h"
+	"Hora.h"
+
+1733710206 c:\users\manu y char\desktop\proyectofinal_reservas_09-12\fecha.h
+	<iostream>
+	<chrono>
+	<ctime>
+
+1732730890 c:\users\manu y char\desktop\proyectofinal_reservas_09-12\hora.h
+	<iostream>
+
+1733544188 c:\users\manu y char\desktop\proyectofinal_reservas_09-12\archivoreservas.h
+	"Reserva.h"
+	<cstring>
+
+1732723408 source:c:\users\manu y char\desktop\proyectofinal_reservas_09-12\cliente.cpp
+	<iostream>
+	"Persona.h"
+	"Cliente.h"
+
+1732710676 c:\users\manu y char\desktop\proyectofinal_reservas_09-12\cliente.h
+	"Persona.h"
+
+1732978262 source:c:\users\manu y char\desktop\proyectofinal_reservas_09-12\comanda.cpp
+	<iostream>
+	"Comanda.h"
+	"ArchivoProductos.h"
+
+1733763686 source:c:\users\manu y char\desktop\proyectofinal_reservas_09-12\empleado.cpp
+	<iostream>
+	"Persona.h"
+	"Empleado.h"
+
+1733763008 source:c:\users\manu y char\desktop\proyectofinal_reservas_09-12\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1732730906 source:c:\users\manu y char\desktop\proyectofinal_reservas_09-12\hora.cpp
+	<iostream>
+	"Hora.h"
+
+1733176966 source:c:\users\manu y char\desktop\proyectofinal_reservas_09-12\main.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	"ArchivoComanda.h"
+	"Comanda.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	"Hora.h"
+	"Mesa.h"
+
+1730828696 c:\users\manu y char\desktop\proyectofinal_reservas_09-12\login.h
+	<iostream>
+	<string>
+
+1733495256 c:\users\manu y char\desktop\proyectofinal_reservas_09-12\menues.h
+
+1733417015 source:c:\users\manu y char\desktop\proyectofinal_reservas_09-12\mesa.cpp
+	<iostream>
+	<iomanip>
+	"Mesa.h"
+
+1732716226 source:c:\users\manu y char\desktop\proyectofinal_reservas_09-12\persona.cpp
+	<cstring>
+	<iostream>
+	"Persona.h"
+
+1733166798 source:c:\users\manu y char\desktop\proyectofinal_reservas_09-12\producto.cpp
+	<iostream>
+	<cstring>
+	"Producto.h"
+	"ArchivoProductos.h"
+
+1733187004 source:c:\users\manu y char\desktop\proyectofinal_reservas_09-12\reportes.cpp
+	<iostream>
+	<fstream>
+	"Reportes.h"
+	"ArchivoEmpleados.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	<ctime>
+	<cstring>
+	<iomanip>
+
+1733757746 source:c:\users\manu y char\desktop\proyectofinal_reservas_09-12\reserva.cpp
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+
+1732978088 source:c:\users\letia\desktop\el aprendiz\programación\utn\1er año\2er cuatrimestre\programación ii\tp programación ii\final\Última versión\ultima version - 9 de diciembre\ultima version - 9 de diciembre\archivocomanda.cpp
+	"Producto.h"
+	"Comanda.h"
+	"ArchivoComanda.h"
+	"Mesa.h"
+	<iostream>
+
+1732989754 c:\users\letia\desktop\el aprendiz\programación\utn\1er año\2er cuatrimestre\programación ii\tp programación ii\final\Última versión\ultima version - 9 de diciembre\ultima version - 9 de diciembre\producto.h
+	<iostream>
+
+1733168518 c:\users\letia\desktop\el aprendiz\programación\utn\1er año\2er cuatrimestre\programación ii\tp programación ii\final\Última versión\ultima version - 9 de diciembre\ultima version - 9 de diciembre\comanda.h
+	<iostream>
+	<ctime>
+	"Producto.h"
+	"ArchivoComanda.h"
+
+1732974544 c:\users\letia\desktop\el aprendiz\programación\utn\1er año\2er cuatrimestre\programación ii\tp programación ii\final\Última versión\ultima version - 9 de diciembre\ultima version - 9 de diciembre\archivocomanda.h
+	<cstring>
+	"Comanda.h"
+
+1733769184 c:\users\letia\desktop\el aprendiz\programación\utn\1er año\2er cuatrimestre\programación ii\tp programación ii\final\Última versión\ultima version - 9 de diciembre\ultima version - 9 de diciembre\mesa.h
+	"Producto.h"
+
+1733763976 source:c:\users\letia\desktop\el aprendiz\programación\utn\1er año\2er cuatrimestre\programación ii\tp programación ii\final\Última versión\ultima version - 9 de diciembre\ultima version - 9 de diciembre\archivoempleados.cpp
+	<iostream>
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+
+1733763512 c:\users\letia\desktop\el aprendiz\programación\utn\1er año\2er cuatrimestre\programación ii\tp programación ii\final\Última versión\ultima version - 9 de diciembre\ultima version - 9 de diciembre\empleado.h
+	"Persona.h"
+
+1732710458 c:\users\letia\desktop\el aprendiz\programación\utn\1er año\2er cuatrimestre\programación ii\tp programación ii\final\Última versión\ultima version - 9 de diciembre\ultima version - 9 de diciembre\persona.h
+	<cstring>
+	<iostream>
+
+1733181384 c:\users\letia\desktop\el aprendiz\programación\utn\1er año\2er cuatrimestre\programación ii\tp programación ii\final\Última versión\ultima version - 9 de diciembre\ultima version - 9 de diciembre\archivoempleados.h
+	"Empleado.h"
+
+1733425740 source:c:\users\letia\desktop\el aprendiz\programación\utn\1er año\2er cuatrimestre\programación ii\tp programación ii\final\Última versión\ultima version - 9 de diciembre\ultima version - 9 de diciembre\archivomesas.cpp
+	"Mesa.h"
+	"Producto.h"
+	"ArchivoMesas.h"
+	"ArchivoProductos.h"
+	"Reportes.h"
+	<cstring>
+
+1733164892 c:\users\letia\desktop\el aprendiz\programación\utn\1er año\2er cuatrimestre\programación ii\tp programación ii\final\Última versión\ultima version - 9 de diciembre\ultima version - 9 de diciembre\archivomesas.h
+	"Mesa.h"
+	"Producto.h"
+	<cstring>
+
+1733164382 c:\users\letia\desktop\el aprendiz\programación\utn\1er año\2er cuatrimestre\programación ii\tp programación ii\final\Última versión\ultima version - 9 de diciembre\ultima version - 9 de diciembre\archivoproductos.h
+	<cstring>
+
+1733184192 c:\users\letia\desktop\el aprendiz\programación\utn\1er año\2er cuatrimestre\programación ii\tp programación ii\final\Última versión\ultima version - 9 de diciembre\ultima version - 9 de diciembre\reportes.h
+	<iostream>
+
+1733751532 source:c:\users\letia\desktop\el aprendiz\programación\utn\1er año\2er cuatrimestre\programación ii\tp programación ii\final\Última versión\ultima version - 9 de diciembre\ultima version - 9 de diciembre\archivoproductos.cpp
+	<iostream>
+	"ArchivoProductos.h"
+	"Producto.h"
+
+1733759118 source:c:\users\letia\desktop\el aprendiz\programación\utn\1er año\2er cuatrimestre\programación ii\tp programación ii\final\Última versión\ultima version - 9 de diciembre\ultima version - 9 de diciembre\archivoreservas.cpp
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+	"Fecha.h"
+
+1733753438 c:\users\letia\desktop\el aprendiz\programación\utn\1er año\2er cuatrimestre\programación ii\tp programación ii\final\Última versión\ultima version - 9 de diciembre\ultima version - 9 de diciembre\reserva.h
+	"Fecha.h"
+	"Hora.h"
+
+1733710206 c:\users\letia\desktop\el aprendiz\programación\utn\1er año\2er cuatrimestre\programación ii\tp programación ii\final\Última versión\ultima version - 9 de diciembre\ultima version - 9 de diciembre\fecha.h
+	<iostream>
+	<chrono>
+	<ctime>
+
+1732730890 c:\users\letia\desktop\el aprendiz\programación\utn\1er año\2er cuatrimestre\programación ii\tp programación ii\final\Última versión\ultima version - 9 de diciembre\ultima version - 9 de diciembre\hora.h
+	<iostream>
+
+1733544188 c:\users\letia\desktop\el aprendiz\programación\utn\1er año\2er cuatrimestre\programación ii\tp programación ii\final\Última versión\ultima version - 9 de diciembre\ultima version - 9 de diciembre\archivoreservas.h
+	"Reserva.h"
+	<cstring>
+
+1732723408 source:c:\users\letia\desktop\el aprendiz\programación\utn\1er año\2er cuatrimestre\programación ii\tp programación ii\final\Última versión\ultima version - 9 de diciembre\ultima version - 9 de diciembre\cliente.cpp
+	<iostream>
+	"Persona.h"
+	"Cliente.h"
+
+1732710676 c:\users\letia\desktop\el aprendiz\programación\utn\1er año\2er cuatrimestre\programación ii\tp programación ii\final\Última versión\ultima version - 9 de diciembre\ultima version - 9 de diciembre\cliente.h
+	"Persona.h"
+
+1732978262 source:c:\users\letia\desktop\el aprendiz\programación\utn\1er año\2er cuatrimestre\programación ii\tp programación ii\final\Última versión\ultima version - 9 de diciembre\ultima version - 9 de diciembre\comanda.cpp
+	<iostream>
+	"Comanda.h"
+	"ArchivoProductos.h"
+
+1733763686 source:c:\users\letia\desktop\el aprendiz\programación\utn\1er año\2er cuatrimestre\programación ii\tp programación ii\final\Última versión\ultima version - 9 de diciembre\ultima version - 9 de diciembre\empleado.cpp
+	<iostream>
+	"Persona.h"
+	"Empleado.h"
+
+1733763008 source:c:\users\letia\desktop\el aprendiz\programación\utn\1er año\2er cuatrimestre\programación ii\tp programación ii\final\Última versión\ultima version - 9 de diciembre\ultima version - 9 de diciembre\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1732730906 source:c:\users\letia\desktop\el aprendiz\programación\utn\1er año\2er cuatrimestre\programación ii\tp programación ii\final\Última versión\ultima version - 9 de diciembre\ultima version - 9 de diciembre\hora.cpp
+	<iostream>
+	"Hora.h"
+
+1733849646 source:c:\users\letia\desktop\el aprendiz\programación\utn\1er año\2er cuatrimestre\programación ii\tp programación ii\final\Última versión\ultima version - 9 de diciembre\ultima version - 9 de diciembre\main.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	"ArchivoComanda.h"
+	"Comanda.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	"Hora.h"
+	"Mesa.h"
+	"Reportes.h"
+
+1730828696 c:\users\letia\desktop\el aprendiz\programación\utn\1er año\2er cuatrimestre\programación ii\tp programación ii\final\Última versión\ultima version - 9 de diciembre\ultima version - 9 de diciembre\login.h
+	<iostream>
+	<string>
+
+1733846867 c:\users\letia\desktop\el aprendiz\programación\utn\1er año\2er cuatrimestre\programación ii\tp programación ii\final\Última versión\ultima version - 9 de diciembre\ultima version - 9 de diciembre\menues.h
+	"MenuEmpleados.h"
+	"MenuProductos.h"
+	"MenuReservas.h"
+	"MenuMesas.h"
+	"MenuComandas.h"
+	"MenuReportes.h"
+
+1733849756 source:c:\users\letia\desktop\el aprendiz\programación\utn\1er año\2er cuatrimestre\programación ii\tp programación ii\final\Última versión\ultima version - 9 de diciembre\ultima version - 9 de diciembre\menues.cpp
+	<iostream>
+	"Menues.h"
+	"MenuEmpleados.h"
+	"MenuProductos.h"
+	"MenuReservas.h"
+	"MenuMesas.h"
+	"MenuComandas.h"
+	"MenuReportes.h"
+
+1733769184 source:c:\users\letia\desktop\el aprendiz\programación\utn\1er año\2er cuatrimestre\programación ii\tp programación ii\final\Última versión\ultima version - 9 de diciembre\ultima version - 9 de diciembre\mesa.cpp
+	<iostream>
+	<iomanip>
+	"Mesa.h"
+
+1732716226 source:c:\users\letia\desktop\el aprendiz\programación\utn\1er año\2er cuatrimestre\programación ii\tp programación ii\final\Última versión\ultima version - 9 de diciembre\ultima version - 9 de diciembre\persona.cpp
+	<cstring>
+	<iostream>
+	"Persona.h"
+
+1733166798 source:c:\users\letia\desktop\el aprendiz\programación\utn\1er año\2er cuatrimestre\programación ii\tp programación ii\final\Última versión\ultima version - 9 de diciembre\ultima version - 9 de diciembre\producto.cpp
+	<iostream>
+	<cstring>
+	"Producto.h"
+	"ArchivoProductos.h"
+
+1733187004 source:c:\users\letia\desktop\el aprendiz\programación\utn\1er año\2er cuatrimestre\programación ii\tp programación ii\final\Última versión\ultima version - 9 de diciembre\ultima version - 9 de diciembre\reportes.cpp
+	<iostream>
+	<fstream>
+	"Reportes.h"
+	"ArchivoEmpleados.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	<ctime>
+	<cstring>
+	<iomanip>
+
+1733757746 source:c:\users\letia\desktop\el aprendiz\programación\utn\1er año\2er cuatrimestre\programación ii\tp programación ii\final\Última versión\ultima version - 9 de diciembre\ultima version - 9 de diciembre\reserva.cpp
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+
+1733843367 c:\users\letia\desktop\el aprendiz\programación\utn\1er año\2er cuatrimestre\programación ii\tp programación ii\final\Última versión\ultima version - 9 de diciembre\ultima version - 9 de diciembre\menuempleados.h
+
+1733843684 c:\users\letia\desktop\el aprendiz\programación\utn\1er año\2er cuatrimestre\programación ii\tp programación ii\final\Última versión\ultima version - 9 de diciembre\ultima version - 9 de diciembre\menuproductos.h
+
+1733843847 c:\users\letia\desktop\el aprendiz\programación\utn\1er año\2er cuatrimestre\programación ii\tp programación ii\final\Última versión\ultima version - 9 de diciembre\ultima version - 9 de diciembre\menureservas.h
+
+1733843599 c:\users\letia\desktop\el aprendiz\programación\utn\1er año\2er cuatrimestre\programación ii\tp programación ii\final\Última versión\ultima version - 9 de diciembre\ultima version - 9 de diciembre\menumesas.h
+	<iostream>
+	<string>
+	"Mesa.h"
+	"ArchivoMesas.h"
+	"Producto.h"
+
+1733843026 c:\users\letia\desktop\el aprendiz\programación\utn\1er año\2er cuatrimestre\programación ii\tp programación ii\final\Última versión\ultima version - 9 de diciembre\ultima version - 9 de diciembre\menucomandas.h
+	<iostream>
+	"Comanda.h"
+	"ArchivoComanda.h"
+	"ArchivoProductos.h"
+
+1733843184 source:c:\users\letia\desktop\el aprendiz\programación\utn\1er año\2er cuatrimestre\programación ii\tp programación ii\final\Última versión\ultima version - 9 de diciembre\ultima version - 9 de diciembre\menucomandas.cpp
+	"MenuComandas.h"
+
+1733843367 source:c:\users\letia\desktop\el aprendiz\programación\utn\1er año\2er cuatrimestre\programación ii\tp programación ii\final\Última versión\ultima version - 9 de diciembre\ultima version - 9 de diciembre\menuempleados.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	"ArchivoComanda.h"
+	"Comanda.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	"Mesa.h"
+	"MenuEmpleados.h"
+
+1733843762 source:c:\users\letia\desktop\el aprendiz\programación\utn\1er año\2er cuatrimestre\programación ii\tp programación ii\final\Última versión\ultima version - 9 de diciembre\ultima version - 9 de diciembre\menuproductos.cpp
+	<iostream>
+	"Producto.h"
+	"ArchivoProductos.h"
+	"Menues.h"
+	"MenuProductos.h"
+
+1733843949 source:c:\users\letia\desktop\el aprendiz\programación\utn\1er año\2er cuatrimestre\programación ii\tp programación ii\final\Última versión\ultima version - 9 de diciembre\ultima version - 9 de diciembre\menureservas.cpp
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+	"Menues.h"
+	"MenuReservas.h"
+
+1733847810 c:\users\letia\desktop\el aprendiz\programación\utn\1er año\2er cuatrimestre\programación ii\tp programación ii\final\Última versión\ultima version - 9 de diciembre\ultima version - 9 de diciembre\menureportes.h
+	"Reportes.h"
+
+1733846804 source:c:\users\letia\desktop\el aprendiz\programación\utn\1er año\2er cuatrimestre\programación ii\tp programación ii\final\Última versión\ultima version - 9 de diciembre\ultima version - 9 de diciembre\menureportes.cpp
+	"MenuReportes.h"
+	<iostream>
+
+1733848415 source:c:\users\letia\desktop\el aprendiz\programación\utn\1er año\2er cuatrimestre\programación ii\tp programación ii\final\Última versión\ultima version - 9 de diciembre\ultima version - 9 de diciembre\menumesas.cpp
+	<iostream>
+	"MenuMesas.h"
+	"ArchivoProductos.h"
+
+1732978088 source:c:\users\manu y char\desktop\ultima version - 10 de diciembre\archivocomanda.cpp
+	"Producto.h"
+	"Comanda.h"
+	"ArchivoComanda.h"
+	"Mesa.h"
+	<iostream>
+
+1732989754 c:\users\manu y char\desktop\ultima version - 10 de diciembre\producto.h
+	<iostream>
+
+1733168518 c:\users\manu y char\desktop\ultima version - 10 de diciembre\comanda.h
+	<iostream>
+	<ctime>
+	"Producto.h"
+	"ArchivoComanda.h"
+
+1732974544 c:\users\manu y char\desktop\ultima version - 10 de diciembre\archivocomanda.h
+	<cstring>
+	"Comanda.h"
+
+1733769184 c:\users\manu y char\desktop\ultima version - 10 de diciembre\mesa.h
+	"Producto.h"
+
+1733763976 source:c:\users\manu y char\desktop\ultima version - 10 de diciembre\archivoempleados.cpp
+	<iostream>
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+
+1733763512 c:\users\manu y char\desktop\ultima version - 10 de diciembre\empleado.h
+	"Persona.h"
+
+1732710458 c:\users\manu y char\desktop\ultima version - 10 de diciembre\persona.h
+	<cstring>
+	<iostream>
+
+1733181384 c:\users\manu y char\desktop\ultima version - 10 de diciembre\archivoempleados.h
+	"Empleado.h"
+
+1733425740 source:c:\users\manu y char\desktop\ultima version - 10 de diciembre\archivomesas.cpp
+	"Mesa.h"
+	"Producto.h"
+	"ArchivoMesas.h"
+	"ArchivoProductos.h"
+	"Reportes.h"
+	<cstring>
+
+1733164892 c:\users\manu y char\desktop\ultima version - 10 de diciembre\archivomesas.h
+	"Mesa.h"
+	"Producto.h"
+	<cstring>
+
+1733164382 c:\users\manu y char\desktop\ultima version - 10 de diciembre\archivoproductos.h
+	<cstring>
+
+1733184192 c:\users\manu y char\desktop\ultima version - 10 de diciembre\reportes.h
+	<iostream>
+
+1733751532 source:c:\users\manu y char\desktop\ultima version - 10 de diciembre\archivoproductos.cpp
+	<iostream>
+	"ArchivoProductos.h"
+	"Producto.h"
+
+1733759118 source:c:\users\manu y char\desktop\ultima version - 10 de diciembre\archivoreservas.cpp
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+	"Fecha.h"
+
+1733753438 c:\users\manu y char\desktop\ultima version - 10 de diciembre\reserva.h
+	"Fecha.h"
+	"Hora.h"
+
+1733710206 c:\users\manu y char\desktop\ultima version - 10 de diciembre\fecha.h
+	<iostream>
+	<chrono>
+	<ctime>
+
+1732730890 c:\users\manu y char\desktop\ultima version - 10 de diciembre\hora.h
+	<iostream>
+
+1733544188 c:\users\manu y char\desktop\ultima version - 10 de diciembre\archivoreservas.h
+	"Reserva.h"
+	<cstring>
+
+1732723408 source:c:\users\manu y char\desktop\ultima version - 10 de diciembre\cliente.cpp
+	<iostream>
+	"Persona.h"
+	"Cliente.h"
+
+1732710676 c:\users\manu y char\desktop\ultima version - 10 de diciembre\cliente.h
+	"Persona.h"
+
+1732978262 source:c:\users\manu y char\desktop\ultima version - 10 de diciembre\comanda.cpp
+	<iostream>
+	"Comanda.h"
+	"ArchivoProductos.h"
+
+1733763686 source:c:\users\manu y char\desktop\ultima version - 10 de diciembre\empleado.cpp
+	<iostream>
+	"Persona.h"
+	"Empleado.h"
+
+1733763008 source:c:\users\manu y char\desktop\ultima version - 10 de diciembre\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1732730906 source:c:\users\manu y char\desktop\ultima version - 10 de diciembre\hora.cpp
+	<iostream>
+	"Hora.h"
+
+1733865188 source:c:\users\manu y char\desktop\ultima version - 10 de diciembre\main.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	"ArchivoComanda.h"
+	"Comanda.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	"Hora.h"
+	"Mesa.h"
+	"Reportes.h"
+
+1733865413 c:\users\manu y char\desktop\ultima version - 10 de diciembre\login.h
+	<iostream>
+	<string>
+
+1733863492 c:\users\manu y char\desktop\ultima version - 10 de diciembre\menues.h
+	"MenuEmpleados.h"
+	"MenuProductos.h"
+	"MenuReservas.h"
+	"MenuMesas.h"
+	"MenuComandas.h"
+	"MenuReportes.h"
+
+1733843367 c:\users\manu y char\desktop\ultima version - 10 de diciembre\menuempleados.h
+
+1733843684 c:\users\manu y char\desktop\ultima version - 10 de diciembre\menuproductos.h
+
+1733843847 c:\users\manu y char\desktop\ultima version - 10 de diciembre\menureservas.h
+
+1733843599 c:\users\manu y char\desktop\ultima version - 10 de diciembre\menumesas.h
+	<iostream>
+	<string>
+	"Mesa.h"
+	"ArchivoMesas.h"
+	"Producto.h"
+
+1733843026 c:\users\manu y char\desktop\ultima version - 10 de diciembre\menucomandas.h
+	<iostream>
+	"Comanda.h"
+	"ArchivoComanda.h"
+	"ArchivoProductos.h"
+
+1733847810 c:\users\manu y char\desktop\ultima version - 10 de diciembre\menureportes.h
+	"Reportes.h"
+
+1733843184 source:c:\users\manu y char\desktop\ultima version - 10 de diciembre\menucomandas.cpp
+	"MenuComandas.h"
+
+1733843367 source:c:\users\manu y char\desktop\ultima version - 10 de diciembre\menuempleados.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	"ArchivoComanda.h"
+	"Comanda.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	"Mesa.h"
+	"MenuEmpleados.h"
+
+1733864543 source:c:\users\manu y char\desktop\ultima version - 10 de diciembre\menues.cpp
+	<iostream>
+	"Menues.h"
+	"MenuEmpleados.h"
+	"MenuProductos.h"
+	"MenuReservas.h"
+	"MenuMesas.h"
+	"MenuComandas.h"
+	"MenuReportes.h"
+
+1733848415 source:c:\users\manu y char\desktop\ultima version - 10 de diciembre\menumesas.cpp
+	<iostream>
+	"MenuMesas.h"
+	"ArchivoProductos.h"
+
+1733843762 source:c:\users\manu y char\desktop\ultima version - 10 de diciembre\menuproductos.cpp
+	<iostream>
+	"Producto.h"
+	"ArchivoProductos.h"
+	"Menues.h"
+	"MenuProductos.h"
+
+1733846804 source:c:\users\manu y char\desktop\ultima version - 10 de diciembre\menureportes.cpp
+	"MenuReportes.h"
+	<iostream>
+
+1733843949 source:c:\users\manu y char\desktop\ultima version - 10 de diciembre\menureservas.cpp
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+	"Menues.h"
+	"MenuReservas.h"
+
+1733769184 source:c:\users\manu y char\desktop\ultima version - 10 de diciembre\mesa.cpp
+	<iostream>
+	<iomanip>
+	"Mesa.h"
+
+1732716226 source:c:\users\manu y char\desktop\ultima version - 10 de diciembre\persona.cpp
+	<cstring>
+	<iostream>
+	"Persona.h"
+
+1733166798 source:c:\users\manu y char\desktop\ultima version - 10 de diciembre\producto.cpp
+	<iostream>
+	<cstring>
+	"Producto.h"
+	"ArchivoProductos.h"
+
+1733187004 source:c:\users\manu y char\desktop\ultima version - 10 de diciembre\reportes.cpp
+	<iostream>
+	<fstream>
+	"Reportes.h"
+	"ArchivoEmpleados.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	<ctime>
+	<cstring>
+	<iomanip>
+
+1733757746 source:c:\users\manu y char\desktop\ultima version - 10 de diciembre\reserva.cpp
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+
+1732978088 source:c:\users\matia\desktop\utn programacion\ultima version 2.0 - 10 de diciembre\archivocomanda.cpp
+	"Producto.h"
+	"Comanda.h"
+	"ArchivoComanda.h"
+	"Mesa.h"
+	<iostream>
+
+1732989754 c:\users\matia\desktop\utn programacion\ultima version 2.0 - 10 de diciembre\producto.h
+	<iostream>
+
+1733168518 c:\users\matia\desktop\utn programacion\ultima version 2.0 - 10 de diciembre\comanda.h
+	<iostream>
+	<ctime>
+	"Producto.h"
+	"ArchivoComanda.h"
+
+1732974544 c:\users\matia\desktop\utn programacion\ultima version 2.0 - 10 de diciembre\archivocomanda.h
+	<cstring>
+	"Comanda.h"
+
+1733769184 c:\users\matia\desktop\utn programacion\ultima version 2.0 - 10 de diciembre\mesa.h
+	"Producto.h"
+
+1733763976 source:c:\users\matia\desktop\utn programacion\ultima version 2.0 - 10 de diciembre\archivoempleados.cpp
+	<iostream>
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+
+1733763512 c:\users\matia\desktop\utn programacion\ultima version 2.0 - 10 de diciembre\empleado.h
+	"Persona.h"
+
+1732710458 c:\users\matia\desktop\utn programacion\ultima version 2.0 - 10 de diciembre\persona.h
+	<cstring>
+	<iostream>
+
+1733181384 c:\users\matia\desktop\utn programacion\ultima version 2.0 - 10 de diciembre\archivoempleados.h
+	"Empleado.h"
+
+1733425740 source:c:\users\matia\desktop\utn programacion\ultima version 2.0 - 10 de diciembre\archivomesas.cpp
+	"Mesa.h"
+	"Producto.h"
+	"ArchivoMesas.h"
+	"ArchivoProductos.h"
+	"Reportes.h"
+	<cstring>
+
+1733164892 c:\users\matia\desktop\utn programacion\ultima version 2.0 - 10 de diciembre\archivomesas.h
+	"Mesa.h"
+	"Producto.h"
+	<cstring>
+
+1733164382 c:\users\matia\desktop\utn programacion\ultima version 2.0 - 10 de diciembre\archivoproductos.h
+	<cstring>
+
+1733184192 c:\users\matia\desktop\utn programacion\ultima version 2.0 - 10 de diciembre\reportes.h
+	<iostream>
+
+1733751532 source:c:\users\matia\desktop\utn programacion\ultima version 2.0 - 10 de diciembre\archivoproductos.cpp
+	<iostream>
+	"ArchivoProductos.h"
+	"Producto.h"
+
+1733759118 source:c:\users\matia\desktop\utn programacion\ultima version 2.0 - 10 de diciembre\archivoreservas.cpp
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+	"Fecha.h"
+
+1733753438 c:\users\matia\desktop\utn programacion\ultima version 2.0 - 10 de diciembre\reserva.h
+	"Fecha.h"
+	"Hora.h"
+
+1733710206 c:\users\matia\desktop\utn programacion\ultima version 2.0 - 10 de diciembre\fecha.h
+	<iostream>
+	<chrono>
+	<ctime>
+
+1732730890 c:\users\matia\desktop\utn programacion\ultima version 2.0 - 10 de diciembre\hora.h
+	<iostream>
+
+1733544188 c:\users\matia\desktop\utn programacion\ultima version 2.0 - 10 de diciembre\archivoreservas.h
+	"Reserva.h"
+	<cstring>
+
+1732723408 source:c:\users\matia\desktop\utn programacion\ultima version 2.0 - 10 de diciembre\cliente.cpp
+	<iostream>
+	"Persona.h"
+	"Cliente.h"
+
+1732710676 c:\users\matia\desktop\utn programacion\ultima version 2.0 - 10 de diciembre\cliente.h
+	"Persona.h"
+
+1732978262 source:c:\users\matia\desktop\utn programacion\ultima version 2.0 - 10 de diciembre\comanda.cpp
+	<iostream>
+	"Comanda.h"
+	"ArchivoProductos.h"
+
+1733763686 source:c:\users\matia\desktop\utn programacion\ultima version 2.0 - 10 de diciembre\empleado.cpp
+	<iostream>
+	"Persona.h"
+	"Empleado.h"
+
+1733763008 source:c:\users\matia\desktop\utn programacion\ultima version 2.0 - 10 de diciembre\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1732730906 source:c:\users\matia\desktop\utn programacion\ultima version 2.0 - 10 de diciembre\hora.cpp
+	<iostream>
+	"Hora.h"
+
+1733865188 source:c:\users\matia\desktop\utn programacion\ultima version 2.0 - 10 de diciembre\main.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	"ArchivoComanda.h"
+	"Comanda.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	"Hora.h"
+	"Mesa.h"
+	"Reportes.h"
+
+1733865413 c:\users\matia\desktop\utn programacion\ultima version 2.0 - 10 de diciembre\login.h
+	<iostream>
+	<string>
+
+1733863492 c:\users\matia\desktop\utn programacion\ultima version 2.0 - 10 de diciembre\menues.h
+	"MenuEmpleados.h"
+	"MenuProductos.h"
+	"MenuReservas.h"
+	"MenuMesas.h"
+	"MenuComandas.h"
+	"MenuReportes.h"
+
+1733843367 c:\users\matia\desktop\utn programacion\ultima version 2.0 - 10 de diciembre\menuempleados.h
+
+1733843684 c:\users\matia\desktop\utn programacion\ultima version 2.0 - 10 de diciembre\menuproductos.h
+
+1733843847 c:\users\matia\desktop\utn programacion\ultima version 2.0 - 10 de diciembre\menureservas.h
+
+1733843599 c:\users\matia\desktop\utn programacion\ultima version 2.0 - 10 de diciembre\menumesas.h
+	<iostream>
+	<string>
+	"Mesa.h"
+	"ArchivoMesas.h"
+	"Producto.h"
+
+1733843026 c:\users\matia\desktop\utn programacion\ultima version 2.0 - 10 de diciembre\menucomandas.h
+	<iostream>
+	"Comanda.h"
+	"ArchivoComanda.h"
+	"ArchivoProductos.h"
+
+1733847810 c:\users\matia\desktop\utn programacion\ultima version 2.0 - 10 de diciembre\menureportes.h
+	"Reportes.h"
+
+1733843184 source:c:\users\matia\desktop\utn programacion\ultima version 2.0 - 10 de diciembre\menucomandas.cpp
+	"MenuComandas.h"
+
+1733843367 source:c:\users\matia\desktop\utn programacion\ultima version 2.0 - 10 de diciembre\menuempleados.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	"ArchivoComanda.h"
+	"Comanda.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	"Mesa.h"
+	"MenuEmpleados.h"
+
+1733864543 source:c:\users\matia\desktop\utn programacion\ultima version 2.0 - 10 de diciembre\menues.cpp
+	<iostream>
+	"Menues.h"
+	"MenuEmpleados.h"
+	"MenuProductos.h"
+	"MenuReservas.h"
+	"MenuMesas.h"
+	"MenuComandas.h"
+	"MenuReportes.h"
+
+1733848415 source:c:\users\matia\desktop\utn programacion\ultima version 2.0 - 10 de diciembre\menumesas.cpp
+	<iostream>
+	"MenuMesas.h"
+	"ArchivoProductos.h"
+
+1733843762 source:c:\users\matia\desktop\utn programacion\ultima version 2.0 - 10 de diciembre\menuproductos.cpp
+	<iostream>
+	"Producto.h"
+	"ArchivoProductos.h"
+	"Menues.h"
+	"MenuProductos.h"
+
+1733846804 source:c:\users\matia\desktop\utn programacion\ultima version 2.0 - 10 de diciembre\menureportes.cpp
+	"MenuReportes.h"
+	<iostream>
+
+1733843949 source:c:\users\matia\desktop\utn programacion\ultima version 2.0 - 10 de diciembre\menureservas.cpp
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+	"Menues.h"
+	"MenuReservas.h"
+
+1733769184 source:c:\users\matia\desktop\utn programacion\ultima version 2.0 - 10 de diciembre\mesa.cpp
+	<iostream>
+	<iomanip>
+	"Mesa.h"
+
+1732716226 source:c:\users\matia\desktop\utn programacion\ultima version 2.0 - 10 de diciembre\persona.cpp
+	<cstring>
+	<iostream>
+	"Persona.h"
+
+1733166798 source:c:\users\matia\desktop\utn programacion\ultima version 2.0 - 10 de diciembre\producto.cpp
+	<iostream>
+	<cstring>
+	"Producto.h"
+	"ArchivoProductos.h"
+
+1733187004 source:c:\users\matia\desktop\utn programacion\ultima version 2.0 - 10 de diciembre\reportes.cpp
+	<iostream>
+	<fstream>
+	"Reportes.h"
+	"ArchivoEmpleados.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	<ctime>
+	<cstring>
+	<iomanip>
+
+1733757746 source:c:\users\matia\desktop\utn programacion\ultima version 2.0 - 10 de diciembre\reserva.cpp
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+
+1732978088 source:c:\users\manu y char\desktop\ultima version 2.0 - 10 de diciembre\archivocomanda.cpp
+	"Producto.h"
+	"Comanda.h"
+	"ArchivoComanda.h"
+	"Mesa.h"
+	<iostream>
+
+1732989754 c:\users\manu y char\desktop\ultima version 2.0 - 10 de diciembre\producto.h
+	<iostream>
+
+1733168518 c:\users\manu y char\desktop\ultima version 2.0 - 10 de diciembre\comanda.h
+	<iostream>
+	<ctime>
+	"Producto.h"
+	"ArchivoComanda.h"
+
+1732974544 c:\users\manu y char\desktop\ultima version 2.0 - 10 de diciembre\archivocomanda.h
+	<cstring>
+	"Comanda.h"
+
+1733769184 c:\users\manu y char\desktop\ultima version 2.0 - 10 de diciembre\mesa.h
+	"Producto.h"
+
+1733763976 source:c:\users\manu y char\desktop\ultima version 2.0 - 10 de diciembre\archivoempleados.cpp
+	<iostream>
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+
+1733763512 c:\users\manu y char\desktop\ultima version 2.0 - 10 de diciembre\empleado.h
+	"Persona.h"
+
+1732710458 c:\users\manu y char\desktop\ultima version 2.0 - 10 de diciembre\persona.h
+	<cstring>
+	<iostream>
+
+1733181384 c:\users\manu y char\desktop\ultima version 2.0 - 10 de diciembre\archivoempleados.h
+	"Empleado.h"
+
+1733873618 source:c:\users\manu y char\desktop\ultima version 2.0 - 10 de diciembre\archivomesas.cpp
+	"Mesa.h"
+	"Producto.h"
+	"ArchivoMesas.h"
+	"ArchivoProductos.h"
+	"Reportes.h"
+	<cstring>
+
+1733164892 c:\users\manu y char\desktop\ultima version 2.0 - 10 de diciembre\archivomesas.h
+	"Mesa.h"
+	"Producto.h"
+	<cstring>
+
+1733164382 c:\users\manu y char\desktop\ultima version 2.0 - 10 de diciembre\archivoproductos.h
+	<cstring>
+
+1733873618 c:\users\manu y char\desktop\ultima version 2.0 - 10 de diciembre\reportes.h
+	<iostream>
+
+1733751532 source:c:\users\manu y char\desktop\ultima version 2.0 - 10 de diciembre\archivoproductos.cpp
+	<iostream>
+	"ArchivoProductos.h"
+	"Producto.h"
+
+1733759118 source:c:\users\manu y char\desktop\ultima version 2.0 - 10 de diciembre\archivoreservas.cpp
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+	"Fecha.h"
+
+1733753438 c:\users\manu y char\desktop\ultima version 2.0 - 10 de diciembre\reserva.h
+	"Fecha.h"
+	"Hora.h"
+
+1733710206 c:\users\manu y char\desktop\ultima version 2.0 - 10 de diciembre\fecha.h
+	<iostream>
+	<chrono>
+	<ctime>
+
+1732730890 c:\users\manu y char\desktop\ultima version 2.0 - 10 de diciembre\hora.h
+	<iostream>
+
+1733544188 c:\users\manu y char\desktop\ultima version 2.0 - 10 de diciembre\archivoreservas.h
+	"Reserva.h"
+	<cstring>
+
+1732723408 source:c:\users\manu y char\desktop\ultima version 2.0 - 10 de diciembre\cliente.cpp
+	<iostream>
+	"Persona.h"
+	"Cliente.h"
+
+1732710676 c:\users\manu y char\desktop\ultima version 2.0 - 10 de diciembre\cliente.h
+	"Persona.h"
+
+1733873175 source:c:\users\manu y char\desktop\ultima version 2.0 - 10 de diciembre\comanda.cpp
+	<iostream>
+	"Comanda.h"
+	"ArchivoProductos.h"
+
+1733763686 source:c:\users\manu y char\desktop\ultima version 2.0 - 10 de diciembre\empleado.cpp
+	<iostream>
+	"Persona.h"
+	"Empleado.h"
+
+1733763008 source:c:\users\manu y char\desktop\ultima version 2.0 - 10 de diciembre\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1732730906 source:c:\users\manu y char\desktop\ultima version 2.0 - 10 de diciembre\hora.cpp
+	<iostream>
+	"Hora.h"
+
+1733865188 source:c:\users\manu y char\desktop\ultima version 2.0 - 10 de diciembre\main.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	"ArchivoComanda.h"
+	"Comanda.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	"Hora.h"
+	"Mesa.h"
+	"Reportes.h"
+
+1733865413 c:\users\manu y char\desktop\ultima version 2.0 - 10 de diciembre\login.h
+	<iostream>
+	<string>
+
+1733863492 c:\users\manu y char\desktop\ultima version 2.0 - 10 de diciembre\menues.h
+	"MenuEmpleados.h"
+	"MenuProductos.h"
+	"MenuReservas.h"
+	"MenuMesas.h"
+	"MenuComandas.h"
+	"MenuReportes.h"
+
+1733843367 c:\users\manu y char\desktop\ultima version 2.0 - 10 de diciembre\menuempleados.h
+
+1733843684 c:\users\manu y char\desktop\ultima version 2.0 - 10 de diciembre\menuproductos.h
+
+1733843847 c:\users\manu y char\desktop\ultima version 2.0 - 10 de diciembre\menureservas.h
+
+1733843599 c:\users\manu y char\desktop\ultima version 2.0 - 10 de diciembre\menumesas.h
+	<iostream>
+	<string>
+	"Mesa.h"
+	"ArchivoMesas.h"
+	"Producto.h"
+
+1733843026 c:\users\manu y char\desktop\ultima version 2.0 - 10 de diciembre\menucomandas.h
+	<iostream>
+	"Comanda.h"
+	"ArchivoComanda.h"
+	"ArchivoProductos.h"
+
+1733847810 c:\users\manu y char\desktop\ultima version 2.0 - 10 de diciembre\menureportes.h
+	"Reportes.h"
+
+1733843184 source:c:\users\manu y char\desktop\ultima version 2.0 - 10 de diciembre\menucomandas.cpp
+	"MenuComandas.h"
+
+1733843367 source:c:\users\manu y char\desktop\ultima version 2.0 - 10 de diciembre\menuempleados.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	"ArchivoComanda.h"
+	"Comanda.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	"Mesa.h"
+	"MenuEmpleados.h"
+
+1733864543 source:c:\users\manu y char\desktop\ultima version 2.0 - 10 de diciembre\menues.cpp
+	<iostream>
+	"Menues.h"
+	"MenuEmpleados.h"
+	"MenuProductos.h"
+	"MenuReservas.h"
+	"MenuMesas.h"
+	"MenuComandas.h"
+	"MenuReportes.h"
+
+1733873175 source:c:\users\manu y char\desktop\ultima version 2.0 - 10 de diciembre\menumesas.cpp
+	<iostream>
+	"MenuMesas.h"
+	"ArchivoProductos.h"
+
+1733843762 source:c:\users\manu y char\desktop\ultima version 2.0 - 10 de diciembre\menuproductos.cpp
+	<iostream>
+	"Producto.h"
+	"ArchivoProductos.h"
+	"Menues.h"
+	"MenuProductos.h"
+
+1733873618 source:c:\users\manu y char\desktop\ultima version 2.0 - 10 de diciembre\menureportes.cpp
+	"MenuReportes.h"
+	<iostream>
+
+1733843949 source:c:\users\manu y char\desktop\ultima version 2.0 - 10 de diciembre\menureservas.cpp
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+	"Menues.h"
+	"MenuReservas.h"
+
+1733769184 source:c:\users\manu y char\desktop\ultima version 2.0 - 10 de diciembre\mesa.cpp
+	<iostream>
+	<iomanip>
+	"Mesa.h"
+
+1732716226 source:c:\users\manu y char\desktop\ultima version 2.0 - 10 de diciembre\persona.cpp
+	<cstring>
+	<iostream>
+	"Persona.h"
+
+1733166798 source:c:\users\manu y char\desktop\ultima version 2.0 - 10 de diciembre\producto.cpp
+	<iostream>
+	<cstring>
+	"Producto.h"
+	"ArchivoProductos.h"
+
+1733187004 source:c:\users\manu y char\desktop\ultima version 2.0 - 10 de diciembre\reportes.cpp
+	<iostream>
+	<fstream>
+	"Reportes.h"
+	"ArchivoEmpleados.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	<ctime>
+	<cstring>
+	<iomanip>
+
+1733757746 source:c:\users\manu y char\desktop\ultima version 2.0 - 10 de diciembre\reserva.cpp
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+
+1732978088 source:c:\users\analia\desktop\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\archivocomanda.cpp
+	"Producto.h"
+	"Comanda.h"
+	"ArchivoComanda.h"
+	"Mesa.h"
+	<iostream>
+
+1733882922 c:\users\analia\desktop\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\producto.h
+	<iostream>
+
+1733168518 c:\users\analia\desktop\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\comanda.h
+	<iostream>
+	<ctime>
+	"Producto.h"
+	"ArchivoComanda.h"
+
+1732974544 c:\users\analia\desktop\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\archivocomanda.h
+	<cstring>
+	"Comanda.h"
+
+1733769184 c:\users\analia\desktop\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\mesa.h
+	"Producto.h"
+
+1733885090 source:c:\users\analia\desktop\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\archivoempleados.cpp
+	<iostream>
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+
+1733885753 c:\users\analia\desktop\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\empleado.h
+	"Persona.h"
+
+1732710458 c:\users\analia\desktop\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\persona.h
+	<cstring>
+	<iostream>
+
+1733885587 c:\users\analia\desktop\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\archivoempleados.h
+	"Empleado.h"
+
+1733873618 source:c:\users\analia\desktop\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\archivomesas.cpp
+	"Mesa.h"
+	"Producto.h"
+	"ArchivoMesas.h"
+	"ArchivoProductos.h"
+	"Reportes.h"
+	<cstring>
+
+1733164892 c:\users\analia\desktop\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\archivomesas.h
+	"Mesa.h"
+	"Producto.h"
+	<cstring>
+
+1733883006 c:\users\analia\desktop\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\archivoproductos.h
+	<cstring>
+
+1733873618 c:\users\analia\desktop\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\reportes.h
+	<iostream>
+
+1733883055 source:c:\users\analia\desktop\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\archivoproductos.cpp
+	<iostream>
+	"ArchivoProductos.h"
+	"Producto.h"
+
+1733882507 source:c:\users\analia\desktop\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\archivoreservas.cpp
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+	"Fecha.h"
+
+1733882127 c:\users\analia\desktop\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\reserva.h
+	"Fecha.h"
+	"Hora.h"
+
+1733882783 c:\users\analia\desktop\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\fecha.h
+	<iostream>
+	<chrono>
+	<ctime>
+
+1733882856 c:\users\analia\desktop\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\hora.h
+	<iostream>
+
+1733882217 c:\users\analia\desktop\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\archivoreservas.h
+	"Reserva.h"
+	<cstring>
+
+1732723408 source:c:\users\analia\desktop\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\cliente.cpp
+	<iostream>
+	"Persona.h"
+	"Cliente.h"
+
+1732710676 c:\users\analia\desktop\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\cliente.h
+	"Persona.h"
+
+1733873175 source:c:\users\analia\desktop\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\comanda.cpp
+	<iostream>
+	"Comanda.h"
+	"ArchivoProductos.h"
+
+1733882581 source:c:\users\analia\desktop\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\empleado.cpp
+	<iostream>
+	"Persona.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+
+1733882830 source:c:\users\analia\desktop\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1733882895 source:c:\users\analia\desktop\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\hora.cpp
+	<iostream>
+	"Hora.h"
+
+1733865188 source:c:\users\analia\desktop\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\main.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	"ArchivoComanda.h"
+	"Comanda.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	"Hora.h"
+	"Mesa.h"
+	"Reportes.h"
+
+1733865413 c:\users\analia\desktop\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\login.h
+	<iostream>
+	<string>
+
+1733863492 c:\users\analia\desktop\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\menues.h
+	"MenuEmpleados.h"
+	"MenuProductos.h"
+	"MenuReservas.h"
+	"MenuMesas.h"
+	"MenuComandas.h"
+	"MenuReportes.h"
+
+1733843367 c:\users\analia\desktop\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\menuempleados.h
+
+1733843684 c:\users\analia\desktop\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\menuproductos.h
+
+1733843847 c:\users\analia\desktop\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\menureservas.h
+
+1733843599 c:\users\analia\desktop\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\menumesas.h
+	<iostream>
+	<string>
+	"Mesa.h"
+	"ArchivoMesas.h"
+	"Producto.h"
+
+1733843026 c:\users\analia\desktop\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\menucomandas.h
+	<iostream>
+	"Comanda.h"
+	"ArchivoComanda.h"
+	"ArchivoProductos.h"
+
+1733847810 c:\users\analia\desktop\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\menureportes.h
+	"Reportes.h"
+
+1733843184 source:c:\users\analia\desktop\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\menucomandas.cpp
+	"MenuComandas.h"
+
+1733864543 source:c:\users\analia\desktop\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\menues.cpp
+	<iostream>
+	"Menues.h"
+	"MenuEmpleados.h"
+	"MenuProductos.h"
+	"MenuReservas.h"
+	"MenuMesas.h"
+	"MenuComandas.h"
+	"MenuReportes.h"
+
+1733873175 source:c:\users\analia\desktop\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\menumesas.cpp
+	<iostream>
+	"MenuMesas.h"
+	"ArchivoProductos.h"
+
+1733883157 source:c:\users\analia\desktop\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\menuproductos.cpp
+	<iostream>
+	"Producto.h"
+	"ArchivoProductos.h"
+	"Menues.h"
+	"MenuProductos.h"
+
+1733873618 source:c:\users\analia\desktop\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\menureportes.cpp
+	"MenuReportes.h"
+	<iostream>
+
+1733883180 source:c:\users\analia\desktop\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\menureservas.cpp
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+	"Menues.h"
+	"MenuReservas.h"
+
+1733769184 source:c:\users\analia\desktop\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\mesa.cpp
+	<iostream>
+	<iomanip>
+	"Mesa.h"
+
+1732716226 source:c:\users\analia\desktop\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\persona.cpp
+	<cstring>
+	<iostream>
+	"Persona.h"
+
+1733882966 source:c:\users\analia\desktop\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\producto.cpp
+	<iostream>
+	<cstring>
+	"Producto.h"
+	"ArchivoProductos.h"
+
+1733873803 source:c:\users\analia\desktop\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\reportes.cpp
+	<iostream>
+	<fstream>
+	"Reportes.h"
+	"ArchivoEmpleados.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	<ctime>
+	<cstring>
+	<iomanip>
+
+1733882190 source:c:\users\analia\desktop\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\reserva.cpp
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+
+1733885290 source:c:\users\analia\desktop\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\menuempleados.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	"ArchivoComanda.h"
+	"Comanda.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	"Mesa.h"
+	"MenuEmpleados.h"
+
+1733892698 source:c:\users\anali\desktop\trabajo final_10-12\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\archivocomanda.cpp
+	"Producto.h"
+	"Comanda.h"
+	"ArchivoComanda.h"
+	"Mesa.h"
+	<iostream>
+
+1733892699 c:\users\anali\desktop\trabajo final_10-12\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\producto.h
+	<iostream>
+
+1733897476 c:\users\anali\desktop\trabajo final_10-12\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\comanda.h
+	<iostream>
+	<ctime>
+	"Producto.h"
+	"ArchivoComanda.h"
+
+1733892698 c:\users\anali\desktop\trabajo final_10-12\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\archivocomanda.h
+	<cstring>
+	"Comanda.h"
+
+1733892699 c:\users\anali\desktop\trabajo final_10-12\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\mesa.h
+	"Producto.h"
+
+1733892698 source:c:\users\anali\desktop\trabajo final_10-12\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\archivoempleados.cpp
+	<iostream>
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+
+1733892699 c:\users\anali\desktop\trabajo final_10-12\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\empleado.h
+	"Persona.h"
+
+1733892699 c:\users\anali\desktop\trabajo final_10-12\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\persona.h
+	<cstring>
+	<iostream>
+
+1733892698 c:\users\anali\desktop\trabajo final_10-12\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\archivoempleados.h
+	"Empleado.h"
+
+1733906799 source:c:\users\anali\desktop\trabajo final_10-12\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\archivomesas.cpp
+	"Mesa.h"
+	"Producto.h"
+	"ArchivoMesas.h"
+	"ArchivoProductos.h"
+	"Reportes.h"
+	<cstring>
+
+1733892698 c:\users\anali\desktop\trabajo final_10-12\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\archivomesas.h
+	"Mesa.h"
+	"Producto.h"
+	<cstring>
+
+1733892698 c:\users\anali\desktop\trabajo final_10-12\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\archivoproductos.h
+	<cstring>
+
+1733893059 c:\users\anali\desktop\trabajo final_10-12\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\reportes.h
+	<iostream>
+
+1733892698 source:c:\users\anali\desktop\trabajo final_10-12\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\archivoproductos.cpp
+	<iostream>
+	"ArchivoProductos.h"
+	"Producto.h"
+
+1733892698 source:c:\users\anali\desktop\trabajo final_10-12\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\archivoreservas.cpp
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+	"Fecha.h"
+
+1733892699 c:\users\anali\desktop\trabajo final_10-12\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\reserva.h
+	"Fecha.h"
+	"Hora.h"
+
+1733892699 c:\users\anali\desktop\trabajo final_10-12\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\fecha.h
+	<iostream>
+	<chrono>
+	<ctime>
+
+1733892699 c:\users\anali\desktop\trabajo final_10-12\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\hora.h
+	<iostream>
+
+1733892699 c:\users\anali\desktop\trabajo final_10-12\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\archivoreservas.h
+	"Reserva.h"
+	<cstring>
+
+1733892699 source:c:\users\anali\desktop\trabajo final_10-12\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\cliente.cpp
+	<iostream>
+	"Persona.h"
+	"Cliente.h"
+
+1733892699 c:\users\anali\desktop\trabajo final_10-12\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\cliente.h
+	"Persona.h"
+
+1733899815 source:c:\users\anali\desktop\trabajo final_10-12\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\comanda.cpp
+	<iostream>
+	"Comanda.h"
+	"ArchivoProductos.h"
+
+1733892699 source:c:\users\anali\desktop\trabajo final_10-12\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\empleado.cpp
+	<iostream>
+	"Persona.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+
+1733892699 source:c:\users\anali\desktop\trabajo final_10-12\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1733892699 source:c:\users\anali\desktop\trabajo final_10-12\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\hora.cpp
+	<iostream>
+	"Hora.h"
+
+1733892699 source:c:\users\anali\desktop\trabajo final_10-12\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\main.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	"ArchivoComanda.h"
+	"Comanda.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	"Hora.h"
+	"Mesa.h"
+	"Reportes.h"
+
+1733892699 c:\users\anali\desktop\trabajo final_10-12\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\login.h
+	<iostream>
+	<string>
+
+1733892699 c:\users\anali\desktop\trabajo final_10-12\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\menues.h
+	"MenuEmpleados.h"
+	"MenuProductos.h"
+	"MenuReservas.h"
+	"MenuMesas.h"
+	"MenuComandas.h"
+	"MenuReportes.h"
+
+1733892699 c:\users\anali\desktop\trabajo final_10-12\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\menuempleados.h
+
+1733892699 c:\users\anali\desktop\trabajo final_10-12\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\menuproductos.h
+
+1733892699 c:\users\anali\desktop\trabajo final_10-12\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\menureservas.h
+
+1733892699 c:\users\anali\desktop\trabajo final_10-12\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\menumesas.h
+	<iostream>
+	<string>
+	"Mesa.h"
+	"ArchivoMesas.h"
+	"Producto.h"
+
+1733892699 c:\users\anali\desktop\trabajo final_10-12\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\menucomandas.h
+	<iostream>
+	"Comanda.h"
+	"ArchivoComanda.h"
+	"ArchivoProductos.h"
+
+1733892699 c:\users\anali\desktop\trabajo final_10-12\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\menureportes.h
+	"Reportes.h"
+
+1733892699 source:c:\users\anali\desktop\trabajo final_10-12\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\menucomandas.cpp
+	"MenuComandas.h"
+
+1733892699 source:c:\users\anali\desktop\trabajo final_10-12\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\menuempleados.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	"ArchivoComanda.h"
+	"Comanda.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	"Mesa.h"
+	"MenuEmpleados.h"
+
+1733892699 source:c:\users\anali\desktop\trabajo final_10-12\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\menues.cpp
+	<iostream>
+	"Menues.h"
+	"MenuEmpleados.h"
+	"MenuProductos.h"
+	"MenuReservas.h"
+	"MenuMesas.h"
+	"MenuComandas.h"
+	"MenuReportes.h"
+
+1733892699 source:c:\users\anali\desktop\trabajo final_10-12\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\menumesas.cpp
+	<iostream>
+	"MenuMesas.h"
+	"ArchivoProductos.h"
+
+1733892699 source:c:\users\anali\desktop\trabajo final_10-12\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\menuproductos.cpp
+	<iostream>
+	"Producto.h"
+	"ArchivoProductos.h"
+	"Menues.h"
+	"MenuProductos.h"
+
+1733893102 source:c:\users\anali\desktop\trabajo final_10-12\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\menureportes.cpp
+	"MenuReportes.h"
+	<iostream>
+
+1733892699 source:c:\users\anali\desktop\trabajo final_10-12\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\menureservas.cpp
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+	"Menues.h"
+	"MenuReservas.h"
+
+1733907394 source:c:\users\anali\desktop\trabajo final_10-12\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\mesa.cpp
+	<iostream>
+	<iomanip>
+	"Mesa.h"
+
+1733892699 source:c:\users\anali\desktop\trabajo final_10-12\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\persona.cpp
+	<cstring>
+	<iostream>
+	"Persona.h"
+
+1733892699 source:c:\users\anali\desktop\trabajo final_10-12\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\producto.cpp
+	<iostream>
+	<cstring>
+	"Producto.h"
+	"ArchivoProductos.h"
+
+1733893047 source:c:\users\anali\desktop\trabajo final_10-12\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\reportes.cpp
+	<iostream>
+	<fstream>
+	"Reportes.h"
+	"ArchivoEmpleados.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	<ctime>
+	<cstring>
+	<iomanip>
+
+1733892699 source:c:\users\anali\desktop\trabajo final_10-12\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\reserva.cpp
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+
+1733892698 source:c:\users\manu y char\desktop\trabajo final_10-12 - copia (2)\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\archivocomanda.cpp
+	"Producto.h"
+	"Comanda.h"
+	"ArchivoComanda.h"
+	"Mesa.h"
+	<iostream>
+
+1733892699 c:\users\manu y char\desktop\trabajo final_10-12 - copia (2)\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\producto.h
+	<iostream>
+
+1733897476 c:\users\manu y char\desktop\trabajo final_10-12 - copia (2)\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\comanda.h
+	<iostream>
+	<ctime>
+	"Producto.h"
+	"ArchivoComanda.h"
+
+1733892698 c:\users\manu y char\desktop\trabajo final_10-12 - copia (2)\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\archivocomanda.h
+	<cstring>
+	"Comanda.h"
+
+1733892699 c:\users\manu y char\desktop\trabajo final_10-12 - copia (2)\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\mesa.h
+	"Producto.h"
+
+1733892698 source:c:\users\manu y char\desktop\trabajo final_10-12 - copia (2)\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\archivoempleados.cpp
+	<iostream>
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+
+1733892699 c:\users\manu y char\desktop\trabajo final_10-12 - copia (2)\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\empleado.h
+	"Persona.h"
+
+1733892699 c:\users\manu y char\desktop\trabajo final_10-12 - copia (2)\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\persona.h
+	<cstring>
+	<iostream>
+
+1733892698 c:\users\manu y char\desktop\trabajo final_10-12 - copia (2)\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\archivoempleados.h
+	"Empleado.h"
+
+1733906799 source:c:\users\manu y char\desktop\trabajo final_10-12 - copia (2)\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\archivomesas.cpp
+	"Mesa.h"
+	"Producto.h"
+	"ArchivoMesas.h"
+	"ArchivoProductos.h"
+	"Reportes.h"
+	<cstring>
+
+1733892698 c:\users\manu y char\desktop\trabajo final_10-12 - copia (2)\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\archivomesas.h
+	"Mesa.h"
+	"Producto.h"
+	<cstring>
+
+1733892698 c:\users\manu y char\desktop\trabajo final_10-12 - copia (2)\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\archivoproductos.h
+	<cstring>
+
+1733893059 c:\users\manu y char\desktop\trabajo final_10-12 - copia (2)\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\reportes.h
+	<iostream>
+
+1733892698 source:c:\users\manu y char\desktop\trabajo final_10-12 - copia (2)\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\archivoproductos.cpp
+	<iostream>
+	"ArchivoProductos.h"
+	"Producto.h"
+
+1733892698 source:c:\users\manu y char\desktop\trabajo final_10-12 - copia (2)\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\archivoreservas.cpp
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+	"Fecha.h"
+
+1733892699 c:\users\manu y char\desktop\trabajo final_10-12 - copia (2)\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\reserva.h
+	"Fecha.h"
+	"Hora.h"
+
+1733892699 c:\users\manu y char\desktop\trabajo final_10-12 - copia (2)\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\fecha.h
+	<iostream>
+	<chrono>
+	<ctime>
+
+1733892699 c:\users\manu y char\desktop\trabajo final_10-12 - copia (2)\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\hora.h
+	<iostream>
+
+1733892699 c:\users\manu y char\desktop\trabajo final_10-12 - copia (2)\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\archivoreservas.h
+	"Reserva.h"
+	<cstring>
+
+1733892699 source:c:\users\manu y char\desktop\trabajo final_10-12 - copia (2)\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\cliente.cpp
+	<iostream>
+	"Persona.h"
+	"Cliente.h"
+
+1733892699 c:\users\manu y char\desktop\trabajo final_10-12 - copia (2)\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\cliente.h
+	"Persona.h"
+
+1733899815 source:c:\users\manu y char\desktop\trabajo final_10-12 - copia (2)\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\comanda.cpp
+	<iostream>
+	"Comanda.h"
+	"ArchivoProductos.h"
+
+1733908295 source:c:\users\manu y char\desktop\trabajo final_10-12 - copia (2)\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\empleado.cpp
+	<iostream>
+	"Persona.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+
+1733892699 source:c:\users\manu y char\desktop\trabajo final_10-12 - copia (2)\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1733892699 source:c:\users\manu y char\desktop\trabajo final_10-12 - copia (2)\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\hora.cpp
+	<iostream>
+	"Hora.h"
+
+1733892699 source:c:\users\manu y char\desktop\trabajo final_10-12 - copia (2)\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\main.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	"ArchivoComanda.h"
+	"Comanda.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	"Hora.h"
+	"Mesa.h"
+	"Reportes.h"
+
+1733892699 c:\users\manu y char\desktop\trabajo final_10-12 - copia (2)\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\login.h
+	<iostream>
+	<string>
+
+1733892699 c:\users\manu y char\desktop\trabajo final_10-12 - copia (2)\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\menues.h
+	"MenuEmpleados.h"
+	"MenuProductos.h"
+	"MenuReservas.h"
+	"MenuMesas.h"
+	"MenuComandas.h"
+	"MenuReportes.h"
+
+1733892699 c:\users\manu y char\desktop\trabajo final_10-12 - copia (2)\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\menuempleados.h
+
+1733892699 c:\users\manu y char\desktop\trabajo final_10-12 - copia (2)\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\menuproductos.h
+
+1733892699 c:\users\manu y char\desktop\trabajo final_10-12 - copia (2)\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\menureservas.h
+
+1733892699 c:\users\manu y char\desktop\trabajo final_10-12 - copia (2)\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\menumesas.h
+	<iostream>
+	<string>
+	"Mesa.h"
+	"ArchivoMesas.h"
+	"Producto.h"
+
+1733892699 c:\users\manu y char\desktop\trabajo final_10-12 - copia (2)\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\menucomandas.h
+	<iostream>
+	"Comanda.h"
+	"ArchivoComanda.h"
+	"ArchivoProductos.h"
+
+1733892699 c:\users\manu y char\desktop\trabajo final_10-12 - copia (2)\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\menureportes.h
+	"Reportes.h"
+
+1733892699 source:c:\users\manu y char\desktop\trabajo final_10-12 - copia (2)\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\menucomandas.cpp
+	"MenuComandas.h"
+
+1733892699 source:c:\users\manu y char\desktop\trabajo final_10-12 - copia (2)\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\menuempleados.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	"ArchivoComanda.h"
+	"Comanda.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	"Mesa.h"
+	"MenuEmpleados.h"
+
+1733892699 source:c:\users\manu y char\desktop\trabajo final_10-12 - copia (2)\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\menues.cpp
+	<iostream>
+	"Menues.h"
+	"MenuEmpleados.h"
+	"MenuProductos.h"
+	"MenuReservas.h"
+	"MenuMesas.h"
+	"MenuComandas.h"
+	"MenuReportes.h"
+
+1733892699 source:c:\users\manu y char\desktop\trabajo final_10-12 - copia (2)\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\menumesas.cpp
+	<iostream>
+	"MenuMesas.h"
+	"ArchivoProductos.h"
+
+1733892699 source:c:\users\manu y char\desktop\trabajo final_10-12 - copia (2)\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\menuproductos.cpp
+	<iostream>
+	"Producto.h"
+	"ArchivoProductos.h"
+	"Menues.h"
+	"MenuProductos.h"
+
+1733893102 source:c:\users\manu y char\desktop\trabajo final_10-12 - copia (2)\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\menureportes.cpp
+	"MenuReportes.h"
+	<iostream>
+
+1733892699 source:c:\users\manu y char\desktop\trabajo final_10-12 - copia (2)\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\menureservas.cpp
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+	"Menues.h"
+	"MenuReservas.h"
+
+1733907394 source:c:\users\manu y char\desktop\trabajo final_10-12 - copia (2)\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\mesa.cpp
+	<iostream>
+	<iomanip>
+	"Mesa.h"
+
+1733892699 source:c:\users\manu y char\desktop\trabajo final_10-12 - copia (2)\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\persona.cpp
+	<cstring>
+	<iostream>
+	"Persona.h"
+
+1733892699 source:c:\users\manu y char\desktop\trabajo final_10-12 - copia (2)\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\producto.cpp
+	<iostream>
+	<cstring>
+	"Producto.h"
+	"ArchivoProductos.h"
+
+1733893047 source:c:\users\manu y char\desktop\trabajo final_10-12 - copia (2)\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\reportes.cpp
+	<iostream>
+	<fstream>
+	"Reportes.h"
+	"ArchivoEmpleados.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	<ctime>
+	<cstring>
+	<iomanip>
+
+1733892699 source:c:\users\manu y char\desktop\trabajo final_10-12 - copia (2)\trabajo final_10-12\ultima version 2.0 - 10 de diciembre\reserva.cpp
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+
+1733892698 source:c:\users\manu y char\desktop\tpi - grupo 1 - programacion ii\archivocomanda.cpp
+	"Producto.h"
+	"Comanda.h"
+	"ArchivoComanda.h"
+	"Mesa.h"
+	<iostream>
+
+1733892699 c:\users\manu y char\desktop\tpi - grupo 1 - programacion ii\producto.h
+	<iostream>
+
+1733897476 c:\users\manu y char\desktop\tpi - grupo 1 - programacion ii\comanda.h
+	<iostream>
+	<ctime>
+	"Producto.h"
+	"ArchivoComanda.h"
+
+1733892698 c:\users\manu y char\desktop\tpi - grupo 1 - programacion ii\archivocomanda.h
+	<cstring>
+	"Comanda.h"
+
+1733892699 c:\users\manu y char\desktop\tpi - grupo 1 - programacion ii\mesa.h
+	"Producto.h"
+
+1733892698 source:c:\users\manu y char\desktop\tpi - grupo 1 - programacion ii\archivoempleados.cpp
+	<iostream>
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+
+1733892699 c:\users\manu y char\desktop\tpi - grupo 1 - programacion ii\empleado.h
+	"Persona.h"
+
+1733892699 c:\users\manu y char\desktop\tpi - grupo 1 - programacion ii\persona.h
+	<cstring>
+	<iostream>
+
+1733892698 c:\users\manu y char\desktop\tpi - grupo 1 - programacion ii\archivoempleados.h
+	"Empleado.h"
+
+1733906799 source:c:\users\manu y char\desktop\tpi - grupo 1 - programacion ii\archivomesas.cpp
+	"Mesa.h"
+	"Producto.h"
+	"ArchivoMesas.h"
+	"ArchivoProductos.h"
+	"Reportes.h"
+	<cstring>
+
+1733892698 c:\users\manu y char\desktop\tpi - grupo 1 - programacion ii\archivomesas.h
+	"Mesa.h"
+	"Producto.h"
+	<cstring>
+
+1733892698 c:\users\manu y char\desktop\tpi - grupo 1 - programacion ii\archivoproductos.h
+	<cstring>
+
+1733893059 c:\users\manu y char\desktop\tpi - grupo 1 - programacion ii\reportes.h
+	<iostream>
+
+1733892698 source:c:\users\manu y char\desktop\tpi - grupo 1 - programacion ii\archivoproductos.cpp
+	<iostream>
+	"ArchivoProductos.h"
+	"Producto.h"
+
+1733892698 source:c:\users\manu y char\desktop\tpi - grupo 1 - programacion ii\archivoreservas.cpp
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+	"Fecha.h"
+
+1733892699 c:\users\manu y char\desktop\tpi - grupo 1 - programacion ii\reserva.h
+	"Fecha.h"
+	"Hora.h"
+
+1733892699 c:\users\manu y char\desktop\tpi - grupo 1 - programacion ii\fecha.h
+	<iostream>
+	<chrono>
+	<ctime>
+
+1733892699 c:\users\manu y char\desktop\tpi - grupo 1 - programacion ii\hora.h
+	<iostream>
+
+1733892699 c:\users\manu y char\desktop\tpi - grupo 1 - programacion ii\archivoreservas.h
+	"Reserva.h"
+	<cstring>
+
+1733892699 source:c:\users\manu y char\desktop\tpi - grupo 1 - programacion ii\cliente.cpp
+	<iostream>
+	"Persona.h"
+	"Cliente.h"
+
+1733892699 c:\users\manu y char\desktop\tpi - grupo 1 - programacion ii\cliente.h
+	"Persona.h"
+
+1733899815 source:c:\users\manu y char\desktop\tpi - grupo 1 - programacion ii\comanda.cpp
+	<iostream>
+	"Comanda.h"
+	"ArchivoProductos.h"
+
+1733908295 source:c:\users\manu y char\desktop\tpi - grupo 1 - programacion ii\empleado.cpp
+	<iostream>
+	"Persona.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+
+1733892699 source:c:\users\manu y char\desktop\tpi - grupo 1 - programacion ii\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1733892699 source:c:\users\manu y char\desktop\tpi - grupo 1 - programacion ii\hora.cpp
+	<iostream>
+	"Hora.h"
+
+1733892699 source:c:\users\manu y char\desktop\tpi - grupo 1 - programacion ii\main.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	"ArchivoComanda.h"
+	"Comanda.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	"Hora.h"
+	"Mesa.h"
+	"Reportes.h"
+
+1733892699 c:\users\manu y char\desktop\tpi - grupo 1 - programacion ii\login.h
+	<iostream>
+	<string>
+
+1733892699 c:\users\manu y char\desktop\tpi - grupo 1 - programacion ii\menues.h
+	"MenuEmpleados.h"
+	"MenuProductos.h"
+	"MenuReservas.h"
+	"MenuMesas.h"
+	"MenuComandas.h"
+	"MenuReportes.h"
+
+1733892699 c:\users\manu y char\desktop\tpi - grupo 1 - programacion ii\menuempleados.h
+
+1733892699 c:\users\manu y char\desktop\tpi - grupo 1 - programacion ii\menuproductos.h
+
+1733892699 c:\users\manu y char\desktop\tpi - grupo 1 - programacion ii\menureservas.h
+
+1733892699 c:\users\manu y char\desktop\tpi - grupo 1 - programacion ii\menumesas.h
+	<iostream>
+	<string>
+	"Mesa.h"
+	"ArchivoMesas.h"
+	"Producto.h"
+
+1733892699 c:\users\manu y char\desktop\tpi - grupo 1 - programacion ii\menucomandas.h
+	<iostream>
+	"Comanda.h"
+	"ArchivoComanda.h"
+	"ArchivoProductos.h"
+
+1733892699 c:\users\manu y char\desktop\tpi - grupo 1 - programacion ii\menureportes.h
+	"Reportes.h"
+
+1733892699 source:c:\users\manu y char\desktop\tpi - grupo 1 - programacion ii\menucomandas.cpp
+	"MenuComandas.h"
+
+1733892699 source:c:\users\manu y char\desktop\tpi - grupo 1 - programacion ii\menuempleados.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	"ArchivoComanda.h"
+	"Comanda.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	"Mesa.h"
+	"MenuEmpleados.h"
+
+1733892699 source:c:\users\manu y char\desktop\tpi - grupo 1 - programacion ii\menues.cpp
+	<iostream>
+	"Menues.h"
+	"MenuEmpleados.h"
+	"MenuProductos.h"
+	"MenuReservas.h"
+	"MenuMesas.h"
+	"MenuComandas.h"
+	"MenuReportes.h"
+
+1733892699 source:c:\users\manu y char\desktop\tpi - grupo 1 - programacion ii\menumesas.cpp
+	<iostream>
+	"MenuMesas.h"
+	"ArchivoProductos.h"
+
+1733892699 source:c:\users\manu y char\desktop\tpi - grupo 1 - programacion ii\menuproductos.cpp
+	<iostream>
+	"Producto.h"
+	"ArchivoProductos.h"
+	"Menues.h"
+	"MenuProductos.h"
+
+1733893102 source:c:\users\manu y char\desktop\tpi - grupo 1 - programacion ii\menureportes.cpp
+	"MenuReportes.h"
+	<iostream>
+
+1733892699 source:c:\users\manu y char\desktop\tpi - grupo 1 - programacion ii\menureservas.cpp
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+	"Menues.h"
+	"MenuReservas.h"
+
+1733907394 source:c:\users\manu y char\desktop\tpi - grupo 1 - programacion ii\mesa.cpp
+	<iostream>
+	<iomanip>
+	"Mesa.h"
+
+1733892699 source:c:\users\manu y char\desktop\tpi - grupo 1 - programacion ii\persona.cpp
+	<cstring>
+	<iostream>
+	"Persona.h"
+
+1733892699 source:c:\users\manu y char\desktop\tpi - grupo 1 - programacion ii\producto.cpp
+	<iostream>
+	<cstring>
+	"Producto.h"
+	"ArchivoProductos.h"
+
+1733893047 source:c:\users\manu y char\desktop\tpi - grupo 1 - programacion ii\reportes.cpp
+	<iostream>
+	<fstream>
+	"Reportes.h"
+	"ArchivoEmpleados.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	<ctime>
+	<cstring>
+	<iomanip>
+
+1733892699 source:c:\users\manu y char\desktop\tpi - grupo 1 - programacion ii\reserva.cpp
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+
+1733892698 source:c:\users\manu y char\desktop\repos github\tpi - grupo 1 - programacion ii\sistema-de-gesti-n\archivocomanda.cpp
+	"Producto.h"
+	"Comanda.h"
+	"ArchivoComanda.h"
+	"Mesa.h"
+	<iostream>
+
+1733892699 c:\users\manu y char\desktop\repos github\tpi - grupo 1 - programacion ii\sistema-de-gesti-n\producto.h
+	<iostream>
+
+1733897476 c:\users\manu y char\desktop\repos github\tpi - grupo 1 - programacion ii\sistema-de-gesti-n\comanda.h
+	<iostream>
+	<ctime>
+	"Producto.h"
+	"ArchivoComanda.h"
+
+1733892698 c:\users\manu y char\desktop\repos github\tpi - grupo 1 - programacion ii\sistema-de-gesti-n\archivocomanda.h
+	<cstring>
+	"Comanda.h"
+
+1733892699 c:\users\manu y char\desktop\repos github\tpi - grupo 1 - programacion ii\sistema-de-gesti-n\mesa.h
+	"Producto.h"
+
+1733892698 source:c:\users\manu y char\desktop\repos github\tpi - grupo 1 - programacion ii\sistema-de-gesti-n\archivoempleados.cpp
+	<iostream>
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+
+1733892699 c:\users\manu y char\desktop\repos github\tpi - grupo 1 - programacion ii\sistema-de-gesti-n\empleado.h
+	"Persona.h"
+
+1733892699 c:\users\manu y char\desktop\repos github\tpi - grupo 1 - programacion ii\sistema-de-gesti-n\persona.h
+	<cstring>
+	<iostream>
+
+1733892698 c:\users\manu y char\desktop\repos github\tpi - grupo 1 - programacion ii\sistema-de-gesti-n\archivoempleados.h
+	"Empleado.h"
+
+1733906799 source:c:\users\manu y char\desktop\repos github\tpi - grupo 1 - programacion ii\sistema-de-gesti-n\archivomesas.cpp
+	"Mesa.h"
+	"Producto.h"
+	"ArchivoMesas.h"
+	"ArchivoProductos.h"
+	"Reportes.h"
+	<cstring>
+
+1733892698 c:\users\manu y char\desktop\repos github\tpi - grupo 1 - programacion ii\sistema-de-gesti-n\archivomesas.h
+	"Mesa.h"
+	"Producto.h"
+	<cstring>
+
+1733892698 c:\users\manu y char\desktop\repos github\tpi - grupo 1 - programacion ii\sistema-de-gesti-n\archivoproductos.h
+	<cstring>
+
+1733893059 c:\users\manu y char\desktop\repos github\tpi - grupo 1 - programacion ii\sistema-de-gesti-n\reportes.h
+	<iostream>
+
+1733892698 source:c:\users\manu y char\desktop\repos github\tpi - grupo 1 - programacion ii\sistema-de-gesti-n\archivoproductos.cpp
+	<iostream>
+	"ArchivoProductos.h"
+	"Producto.h"
+
+1733892698 source:c:\users\manu y char\desktop\repos github\tpi - grupo 1 - programacion ii\sistema-de-gesti-n\archivoreservas.cpp
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+	"Fecha.h"
+
+1733892699 c:\users\manu y char\desktop\repos github\tpi - grupo 1 - programacion ii\sistema-de-gesti-n\reserva.h
+	"Fecha.h"
+	"Hora.h"
+
+1733892699 c:\users\manu y char\desktop\repos github\tpi - grupo 1 - programacion ii\sistema-de-gesti-n\fecha.h
+	<iostream>
+	<chrono>
+	<ctime>
+
+1733892699 c:\users\manu y char\desktop\repos github\tpi - grupo 1 - programacion ii\sistema-de-gesti-n\hora.h
+	<iostream>
+
+1733892699 c:\users\manu y char\desktop\repos github\tpi - grupo 1 - programacion ii\sistema-de-gesti-n\archivoreservas.h
+	"Reserva.h"
+	<cstring>
+
+1733892699 source:c:\users\manu y char\desktop\repos github\tpi - grupo 1 - programacion ii\sistema-de-gesti-n\cliente.cpp
+	<iostream>
+	"Persona.h"
+	"Cliente.h"
+
+1733892699 c:\users\manu y char\desktop\repos github\tpi - grupo 1 - programacion ii\sistema-de-gesti-n\cliente.h
+	"Persona.h"
+
+1733899815 source:c:\users\manu y char\desktop\repos github\tpi - grupo 1 - programacion ii\sistema-de-gesti-n\comanda.cpp
+	<iostream>
+	"Comanda.h"
+	"ArchivoProductos.h"
+
+1733908295 source:c:\users\manu y char\desktop\repos github\tpi - grupo 1 - programacion ii\sistema-de-gesti-n\empleado.cpp
+	<iostream>
+	"Persona.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+
+1733892699 source:c:\users\manu y char\desktop\repos github\tpi - grupo 1 - programacion ii\sistema-de-gesti-n\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1733892699 source:c:\users\manu y char\desktop\repos github\tpi - grupo 1 - programacion ii\sistema-de-gesti-n\hora.cpp
+	<iostream>
+	"Hora.h"
+
+1733892699 source:c:\users\manu y char\desktop\repos github\tpi - grupo 1 - programacion ii\sistema-de-gesti-n\main.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	"ArchivoComanda.h"
+	"Comanda.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	"Hora.h"
+	"Mesa.h"
+	"Reportes.h"
+
+1733892699 c:\users\manu y char\desktop\repos github\tpi - grupo 1 - programacion ii\sistema-de-gesti-n\login.h
+	<iostream>
+	<string>
+
+1733892699 c:\users\manu y char\desktop\repos github\tpi - grupo 1 - programacion ii\sistema-de-gesti-n\menues.h
+	"MenuEmpleados.h"
+	"MenuProductos.h"
+	"MenuReservas.h"
+	"MenuMesas.h"
+	"MenuComandas.h"
+	"MenuReportes.h"
+
+1733892699 c:\users\manu y char\desktop\repos github\tpi - grupo 1 - programacion ii\sistema-de-gesti-n\menuempleados.h
+
+1733892699 c:\users\manu y char\desktop\repos github\tpi - grupo 1 - programacion ii\sistema-de-gesti-n\menuproductos.h
+
+1733892699 c:\users\manu y char\desktop\repos github\tpi - grupo 1 - programacion ii\sistema-de-gesti-n\menureservas.h
+
+1733892699 c:\users\manu y char\desktop\repos github\tpi - grupo 1 - programacion ii\sistema-de-gesti-n\menumesas.h
+	<iostream>
+	<string>
+	"Mesa.h"
+	"ArchivoMesas.h"
+	"Producto.h"
+
+1733892699 c:\users\manu y char\desktop\repos github\tpi - grupo 1 - programacion ii\sistema-de-gesti-n\menucomandas.h
+	<iostream>
+	"Comanda.h"
+	"ArchivoComanda.h"
+	"ArchivoProductos.h"
+
+1733892699 c:\users\manu y char\desktop\repos github\tpi - grupo 1 - programacion ii\sistema-de-gesti-n\menureportes.h
+	"Reportes.h"
+
+1733892699 source:c:\users\manu y char\desktop\repos github\tpi - grupo 1 - programacion ii\sistema-de-gesti-n\menucomandas.cpp
+	"MenuComandas.h"
+
+1733892699 source:c:\users\manu y char\desktop\repos github\tpi - grupo 1 - programacion ii\sistema-de-gesti-n\menuempleados.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Login.h"
+	"Persona.h"
+	"Cliente.h"
+	"Empleado.h"
+	"ArchivoEmpleados.h"
+	"ArchivoProductos.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	"ArchivoComanda.h"
+	"Comanda.h"
+	"Producto.h"
+	"Reserva.h"
+	"Menues.h"
+	"Mesa.h"
+	"MenuEmpleados.h"
+
+1733892699 source:c:\users\manu y char\desktop\repos github\tpi - grupo 1 - programacion ii\sistema-de-gesti-n\menues.cpp
+	<iostream>
+	"Menues.h"
+	"MenuEmpleados.h"
+	"MenuProductos.h"
+	"MenuReservas.h"
+	"MenuMesas.h"
+	"MenuComandas.h"
+	"MenuReportes.h"
+
+1733892699 source:c:\users\manu y char\desktop\repos github\tpi - grupo 1 - programacion ii\sistema-de-gesti-n\menumesas.cpp
+	<iostream>
+	"MenuMesas.h"
+	"ArchivoProductos.h"
+
+1733892699 source:c:\users\manu y char\desktop\repos github\tpi - grupo 1 - programacion ii\sistema-de-gesti-n\menuproductos.cpp
+	<iostream>
+	"Producto.h"
+	"ArchivoProductos.h"
+	"Menues.h"
+	"MenuProductos.h"
+
+1733893102 source:c:\users\manu y char\desktop\repos github\tpi - grupo 1 - programacion ii\sistema-de-gesti-n\menureportes.cpp
+	"MenuReportes.h"
+	<iostream>
+
+1733892699 source:c:\users\manu y char\desktop\repos github\tpi - grupo 1 - programacion ii\sistema-de-gesti-n\menureservas.cpp
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+	"Menues.h"
+	"MenuReservas.h"
+
+1733907394 source:c:\users\manu y char\desktop\repos github\tpi - grupo 1 - programacion ii\sistema-de-gesti-n\mesa.cpp
+	<iostream>
+	<iomanip>
+	"Mesa.h"
+
+1733892699 source:c:\users\manu y char\desktop\repos github\tpi - grupo 1 - programacion ii\sistema-de-gesti-n\persona.cpp
+	<cstring>
+	<iostream>
+	"Persona.h"
+
+1733892699 source:c:\users\manu y char\desktop\repos github\tpi - grupo 1 - programacion ii\sistema-de-gesti-n\producto.cpp
+	<iostream>
+	<cstring>
+	"Producto.h"
+	"ArchivoProductos.h"
+
+1733893047 source:c:\users\manu y char\desktop\repos github\tpi - grupo 1 - programacion ii\sistema-de-gesti-n\reportes.cpp
+	<iostream>
+	<fstream>
+	"Reportes.h"
+	"ArchivoEmpleados.h"
+	"ArchivoReservas.h"
+	"ArchivoMesas.h"
+	<ctime>
+	<cstring>
+	<iomanip>
+
+1733892699 source:c:\users\manu y char\desktop\repos github\tpi - grupo 1 - programacion ii\sistema-de-gesti-n\reserva.cpp
+	<iostream>
+	"Reserva.h"
+	"ArchivoReservas.h"
+
